@@ -1,0 +1,35 @@
+{
+  "number": 18,
+  "title": "Ser vs estar — location and description",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/18/"
+  },
+  "concepts": [
+    "Estar is always used for location (with few exceptions)",
+    "Ser for descriptions of inherent qualities",
+    "Estar for conditions that can change",
+    "Same adjective can change meaning: ser listo (to be clever) vs estar listo (to be ready)",
+    "More prepositions of location: en, cerca de, lejos de, al lado de"
+  ],
+  "verbs": [],
+  "keywords": [
+    { "spanish": "estamos", "english": "we are (location/temporary)" },
+    { "spanish": "están", "english": "they are (location/temporary)" },
+    { "spanish": "cerca de", "english": "near / close to" },
+    { "spanish": "lejos de", "english": "far from" },
+    { "spanish": "al lado de", "english": "next to" },
+    { "spanish": "listo / lista", "english": "clever (with ser); ready (with estar)" },
+    { "spanish": "aburrido", "english": "boring (with ser); bored (with estar)" }
+  ],
+  "sentences": [
+    { "spanish": "El banco está cerca de aquí.", "english": "The bank is near here." },
+    { "spanish": "Madrid está lejos de Barcelona.", "english": "Madrid is far from Barcelona." },
+    { "spanish": "Somos de Colombia.", "english": "We are from Colombia." },
+    { "spanish": "¿Dónde está el hotel?", "english": "Where is the hotel?" },
+    { "spanish": "Ella es muy inteligente.", "english": "She is very intelligent." },
+    { "spanish": "El niño está aburrido.", "english": "The child is bored." },
+    { "spanish": "La película es aburrida.", "english": "The movie is boring." }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "number": 14,
+  "title": "Regular -ar verbs",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/14/"
+  },
+  "concepts": [
+    "Regular -ar verbs follow a predictable pattern",
+    "Drop -ar, add: -o, -as, -a, -amos, -an",
+    "The subject pronouns (yo, tú, él, etc.) are optional — the verb ending tells you who",
+    "Hablar = to speak: hablo, hablas, habla, hablamos, hablan"
+  ],
+  "verbs": [
+    {
+      "spanish": "hablar",
+      "english": "to speak",
+      "forms": ["hablo", "hablas", "habla", "hablamos", "hablan"]
+    },
+    {
+      "spanish": "tomar",
+      "english": "to take / to drink",
+      "forms": ["tomo", "tomas", "toma", "tomamos", "toman"]
+    },
+    {
+      "spanish": "llamar",
+      "english": "to call",
+      "forms": ["llamo", "llamas", "llama", "llamamos", "llaman"]
+    },
+    {
+      "spanish": "llevar",
+      "english": "to carry / to wear / to take",
+      "forms": ["llevo", "llevas", "lleva", "llevamos", "llevan"]
+    },
+    {
+      "spanish": "esperar",
+      "english": "to wait / to hope / to expect"
+    }
+  ],
+  "keywords": [
+    { "spanish": "hablo", "english": "I speak" },
+    { "spanish": "hablas", "english": "you speak" },
+    { "spanish": "habla", "english": "he/she speaks" },
+    { "spanish": "hablamos", "english": "we speak" },
+    { "spanish": "hablan", "english": "they speak" }
+  ],
+  "sentences": [
+    { "spanish": "Hablo español.", "english": "I speak Spanish." },
+    { "spanish": "¿Hablas inglés?", "english": "Do you speak English?" },
+    { "spanish": "Ella habla francés.", "english": "She speaks French." },
+    { "spanish": "Hablamos mucho.", "english": "We talk a lot." },
+    { "spanish": "Tomo café.", "english": "I drink coffee." },
+    { "spanish": "¿Llamas a tu madre?", "english": "Do you call your mother?" },
+    { "spanish": "Llevo una camisa azul.", "english": "I'm wearing a blue shirt." }
+  ]
+}

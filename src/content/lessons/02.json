@@ -1,0 +1,28 @@
+{
+  "number": 2,
+  "title": "Cognates and gender",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/2/"
+  },
+  "concepts": [
+    "Spanish nouns have gender: masculine (el) or feminine (la)",
+    "Many -o words are masculine, many -a words are feminine",
+    "Words ending in -dad and -ción are almost always feminine",
+    "El = the (masculine), La = the (feminine)"
+  ],
+  "verbs": [],
+  "keywords": [
+    { "spanish": "el", "english": "the (masculine)" },
+    { "spanish": "la", "english": "the (feminine)" },
+    { "spanish": "el problema", "english": "the problem" },
+    { "spanish": "la palabra", "english": "the word" },
+    { "spanish": "la ciudad", "english": "the city" },
+    { "spanish": "el café", "english": "the coffee" }
+  ],
+  "sentences": [
+    { "spanish": "El café está caliente.", "english": "The coffee is hot." },
+    { "spanish": "La ciudad es grande.", "english": "The city is big." }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "number": 13,
+  "title": "Tener que — obligation",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/13/"
+  },
+  "concepts": [
+    "Tener que + infinitive = to have to do something",
+    "Works like 'have to' in English — conjugate tener, then add que + infinitive",
+    "Many common verbs are regular -ar, -er, -ir infinitives",
+    "Smart strategy: learn tener que first, then add verbs as you go"
+  ],
+  "verbs": [
+    {
+      "spanish": "tener que",
+      "english": "to have to",
+      "note": "tener que + infinitive"
+    },
+    {
+      "spanish": "hablar",
+      "english": "to speak",
+      "forms": ["hablo", "hablas", "habla", "hablamos", "hablan"]
+    },
+    {
+      "spanish": "comer",
+      "english": "to eat"
+    },
+    {
+      "spanish": "beber",
+      "english": "to drink"
+    },
+    {
+      "spanish": "estudiar",
+      "english": "to study"
+    },
+    {
+      "spanish": "trabajar",
+      "english": "to work"
+    }
+  ],
+  "keywords": [
+    { "spanish": "que", "english": "that / than" },
+    { "spanish": "tengo que", "english": "I have to" },
+    { "spanish": "tienes que", "english": "you have to" }
+  ],
+  "sentences": [
+    { "spanish": "Tengo que estudiar.", "english": "I have to study." },
+    { "spanish": "Tienes que comer.", "english": "You have to eat." },
+    { "spanish": "Él tiene que trabajar.", "english": "He has to work." },
+    { "spanish": "Tenemos que hablar.", "english": "We have to talk." },
+    { "spanish": "Ellos tienen que beber agua.", "english": "They have to drink water." },
+    { "spanish": "¿Tienes que ir?", "english": "Do you have to go?" }
+  ]
+}

@@ -1,0 +1,131 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getLesson, getAllLessons } from "../../lib/lessons";
+import { findGroupForLesson } from "../../lib/groups";
+
+export async function getStaticPaths() {
+  const lessons = getAllLessons();
+  return lessons.map((l) => ({
+    params: { lesson: String(l.number) },
+  }));
+}
+
+const { lesson } = Astro.params;
+const data = getLesson(Number(lesson));
+if (!data) {
+  return Astro.redirect("/");
+}
+
+const allLessons = getAllLessons();
+const currentIndex = allLessons.findIndex((l) => l.number === data.number);
+const prevLesson = currentIndex > 0 ? allLessons[currentIndex - 1] : null;
+const nextLesson = currentIndex < allLessons.length - 1 ? allLessons[currentIndex + 1] : null;
+const cheatSheetGroup = findGroupForLesson(data.number);
+---
+
+<BaseLayout
+  title={`Lesson ${data.number}: ${data.title} — Complete Spanish Reference`}
+  description={`Key concepts, verbs, and sentences from Lesson ${data.number}: ${data.title}.`}
+>
+  <h1>Lesson {data.number}: {data.title}</h1>
+  {data.source?.url && (
+    <p lang="en">
+      <a href={data.source.url} target="_blank" rel="noreferrer noopener">Original tribute note</a>
+    </p>
+  )}
+
+  {data.concepts.length > 0 && (
+    <>
+      <h2>Key concepts</h2>
+      <ul>
+        {data.concepts.map((c) => (
+          <li>{c}</li>
+        ))}
+      </ul>
+    </>
+  )}
+
+  {data.verbs.length > 0 && (
+    <>
+      <h2>Verbs</h2>
+      <table>
+        <thead>
+          <tr>
+            <th scope="col" lang="es">Spanish</th>
+            <th scope="col" lang="en">English</th>
+            <th scope="col">Forms</th>
+            <th scope="col">Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          {data.verbs.map((v) => (
+            <tr>
+              <td lang="es">{v.spanish}</td>
+              <td lang="en">{v.english}</td>
+              <td>{v.forms?.join(", ")}</td>
+              <td>{v.note}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </>
+  )}
+
+  {data.keywords.length > 0 && (
+    <>
+      <h2>Keywords</h2>
+      <table>
+        <thead>
+          <tr>
+            <th scope="col" lang="es">Spanish</th>
+            <th scope="col" lang="en">English</th>
+          </tr>
+        </thead>
+        <tbody>
+          {data.keywords.map((k) => (
+            <tr>
+              <td lang="es">{k.spanish}</td>
+              <td lang="en">{k.english}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </>
+  )}
+
+  {data.sentences.length > 0 && (
+    <>
+      <h2>Sentences</h2>
+      <table>
+        <thead>
+          <tr>
+            <th scope="col" lang="es">Spanish</th>
+            <th scope="col" lang="en">English</th>
+          </tr>
+        </thead>
+        <tbody>
+          {data.sentences.map((s) => (
+            <tr>
+              <td lang="es">{s.spanish}</td>
+              <td lang="en">{s.english}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </>
+  )}
+
+  <nav class="lesson-nav no-print">
+    {prevLesson && (
+      <a href={`/lessons/${prevLesson.number}/`}>← Lesson {prevLesson.number}</a>
+    )}
+    {cheatSheetGroup && (
+      <a href={`/cheat-sheets/${cheatSheetGroup.slug}/`}>
+        {cheatSheetGroup.label} cheat sheet
+      </a>
+    )}
+    {nextLesson && (
+      <a href={`/lessons/${nextLesson.number}/`}>Lesson {nextLesson.number} →</a>
+    )}
+  </nav>
+</BaseLayout>

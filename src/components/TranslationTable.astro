@@ -1,0 +1,40 @@
+---
+import type { Lesson } from "../lib/schema";
+
+export interface Props {
+  lessons: Lesson[];
+  showLessonHeaders?: boolean;
+}
+
+const { lessons, showLessonHeaders = true } = Astro.props;
+---
+
+<table>
+  <thead>
+    <tr>
+      <th scope="col" lang="es">Spanish</th>
+      <th scope="col" lang="en">English</th>
+    </tr>
+  </thead>
+  <tbody>
+    {
+      lessons.map((lesson) => (
+        <>
+          {showLessonHeaders && (
+            <tr id={`lesson-${lesson.number}`}>
+              <th scope="colgroup" colspan="2" lang="en">
+                Lesson {lesson.number}: {lesson.title}
+              </th>
+            </tr>
+          )}
+          {lesson.sentences.map((s) => (
+            <tr>
+              <td lang="es">{s.spanish}</td>
+              <td lang="en">{s.english}</td>
+            </tr>
+          ))}
+        </>
+      ))
+    }
+  </tbody>
+</table>

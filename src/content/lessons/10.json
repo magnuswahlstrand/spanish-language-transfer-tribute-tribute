@@ -1,0 +1,45 @@
+{
+  "number": 10,
+  "title": "Querer and Poder — wanting and being able",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/10/"
+  },
+  "concepts": [
+    "Querer (to want) and poder (to be able to / can) are stem-changing verbs",
+    "e → ie in all forms except nosotros: quiero, quieres, quiere, queremos, quieren",
+    "o → ue in poder: puedo, puedes, puede, podemos, pueden",
+    "When one verb follows another, the second stays in the infinitive"
+  ],
+  "verbs": [
+    {
+      "spanish": "querer",
+      "english": "to want",
+      "forms": ["quiero", "quieres", "quiere", "queremos", "quieren"],
+      "note": "e→ie stem change"
+    },
+    {
+      "spanish": "poder",
+      "english": "to be able to / can",
+      "forms": ["puedo", "puedes", "puede", "podemos", "pueden"],
+      "note": "o→ue stem change"
+    }
+  ],
+  "keywords": [
+    { "spanish": "quiero", "english": "I want" },
+    { "spanish": "quieres", "english": "you want" },
+    { "spanish": "quiere", "english": "he/she wants" },
+    { "spanish": "puedo", "english": "I can" },
+    { "spanish": "puedes", "english": "you can" },
+    { "spanish": "puede", "english": "he/she can" }
+  ],
+  "sentences": [
+    { "spanish": "Quiero un café.", "english": "I want a coffee." },
+    { "spanish": "¿Quieres ir al cine?", "english": "Do you want to go to the cinema?" },
+    { "spanish": "Él quiere aprender español.", "english": "He wants to learn Spanish." },
+    { "spanish": "Puedo hablar español.", "english": "I can speak Spanish." },
+    { "spanish": "¿Puedes ayudarme?", "english": "Can you help me?" },
+    { "spanish": "No podemos comer ahora.", "english": "We can't eat now." }
+  ]
+}

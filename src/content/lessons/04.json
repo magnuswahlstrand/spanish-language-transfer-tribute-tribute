@@ -1,0 +1,36 @@
+{
+  "number": 4,
+  "title": "Soy and Eres — I am and you are",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/4/"
+  },
+  "concepts": [
+    "Soy = I am (permanent/inherent qualities)",
+    "Eres = you are (singular informal)",
+    "Subject pronouns (yo, tú) are optional — the verb ending tells you who",
+    "To say where you are from: Soy de España"
+  ],
+  "verbs": [
+    {
+      "spanish": "ser",
+      "english": "to be",
+      "forms": ["soy", "eres", "es"],
+      "note": "Partial conjugation"
+    }
+  ],
+  "keywords": [
+    { "spanish": "soy", "english": "I am" },
+    { "spanish": "eres", "english": "you are (informal)" },
+    { "spanish": "de", "english": "from / of" },
+    { "spanish": "yo", "english": "I" },
+    { "spanish": "tú", "english": "you (informal)" }
+  ],
+  "sentences": [
+    { "spanish": "Soy de España.", "english": "I am from Spain." },
+    { "spanish": "¿De dónde eres?", "english": "Where are you from?" },
+    { "spanish": "Soy estudiante.", "english": "I am a student." },
+    { "spanish": "Eres inteligente.", "english": "You are intelligent." }
+  ]
+}

@@ -1,0 +1,56 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getAllLessons, getMaxLessonNumber } from "../lib/lessons";
+
+const lessons = getAllLessons();
+const maxLesson = getMaxLessonNumber();
+---
+
+<BaseLayout
+  title="Language Transfer Tribute TRIBUTE"
+  description="A condensed bilingual reference for the Complete Spanish course by Language Transfer. Sentence tables, cheat sheets, and key concepts."
+>
+  <h1>Language Transfer Tribute TRIBUTE</h1>
+  <p lang="en">
+    <a href="https://www.languagetransfer.org/" target="_blank" rel="noreferrer noopener">Language Transfer</a>
+    created the Complete Spanish course and the Thinking Method.
+    The
+    <a href="https://languagetransfertribute.com/" target="_blank" rel="noreferrer noopener">Language Transfer Tribute</a>
+    author created detailed written notes for every lesson
+    (try the <a href="http://languagetransfertribute.com/lessons/" target="_blank" rel="noreferrer noopener">HTTP address</a>
+    if HTTPS doesn't work; it may be temporarily unavailable).
+    This project reorganises that material into cheat sheets and reference tables.
+  </p>
+  <p lang="en">Language Transfer and the Tribute are both awesome — you can support Language Transfer at
+    <a href="https://www.patreon.com/languagetransfer" target="_blank" rel="noreferrer noopener">Patreon</a>
+    or
+    <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T54HRGDW4TVBN&source=url" target="_blank" rel="noreferrer noopener">PayPal</a>.</p>
+  <p lang="en">This site is unofficial and independent.</p>
+
+  {lessons.length > 0 && (
+    <>
+      <h2>Lessons</h2>
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Status</th>
+            <th scope="col">Sentences</th>
+          </tr>
+        </thead>
+        <tbody>
+          {lessons.map((l) => (
+            <tr>
+              <td>{l.number}</td>
+              <td>{l.title}</td>
+              <td>{l.status}</td>
+              <td>{l.sentences.length}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </>
+  )}
+
+</BaseLayout>

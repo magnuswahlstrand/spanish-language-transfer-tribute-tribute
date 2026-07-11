@@ -1,0 +1,42 @@
+{
+  "number": 20,
+  "title": "More gustar — nos gusta, les gusta",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/20/"
+  },
+  "concepts": [
+    "Nos gusta = we like it",
+    "Les gusta = they/you plural like it",
+    "Gustar + infinitive = to like doing something",
+    "A + mí/ti/él/etc = clarifies or emphasizes who likes it",
+    "A mí me gusta = I like (emphatic or clarifying)"
+  ],
+  "verbs": [
+    {
+      "spanish": "gustar",
+      "english": "to like / to please",
+      "forms": ["gusta", "gustan"]
+    }
+  ],
+  "keywords": [
+    { "spanish": "nos gusta", "english": "we like (it)" },
+    { "spanish": "les gusta", "english": "they/you (plural) like (it)" },
+    { "spanish": "a mí", "english": "me (clarifying)" },
+    { "spanish": "a ti", "english": "you (clarifying)" },
+    { "spanish": "a él / a ella", "english": "him / her (clarifying)" },
+    { "spanish": "también", "english": "also" },
+    { "spanish": "tampoco", "english": "neither / either (negation)" }
+  ],
+  "sentences": [
+    { "spanish": "Nos gusta viajar.", "english": "We like to travel." },
+    { "spanish": "Les gusta bailar.", "english": "They like to dance." },
+    { "spanish": "¿Les gusta el cine?", "english": "Do you (plural) like cinema?" },
+    { "spanish": "A mí me gusta el chocolate.", "english": "I like chocolate." },
+    { "spanish": "A ella le gusta leer.", "english": "She likes to read." },
+    { "spanish": "A nosotros nos gusta nadar.", "english": "We like to swim." },
+    { "spanish": "A mí también.", "english": "Me too." },
+    { "spanish": "A mí no me gusta el café.", "english": "I don't like coffee." }
+  ]
+}

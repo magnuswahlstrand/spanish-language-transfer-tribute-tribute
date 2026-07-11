@@ -1,0 +1,41 @@
+{
+  "number": 6,
+  "title": "Regular -ar verbs — hablar",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/6/"
+  },
+  "concepts": [
+    "Regular -ar verbs: drop -ar, add -o, -as, -a, -amos, -an",
+    "Hablar = to speak: hablo, hablas, habla, hablamos, hablan",
+    "The verb ending tells you the subject — pronouns are optional",
+    "Hablo = I speak (no need to say yo unless emphasising)"
+  ],
+  "verbs": [
+    {
+      "spanish": "hablar",
+      "english": "to speak",
+      "forms": ["hablo", "hablas", "habla", "hablamos", "hablan"]
+    },
+    {
+      "spanish": "cantar",
+      "english": "to sing",
+      "forms": ["canto", "cantas", "canta", "cantamos", "cantan"]
+    }
+  ],
+  "keywords": [
+    { "spanish": "hablo", "english": "I speak" },
+    { "spanish": "hablas", "english": "you speak" },
+    { "spanish": "habla", "english": "he/she speaks" },
+    { "spanish": "hablamos", "english": "we speak" },
+    { "spanish": "hablan", "english": "they speak" }
+  ],
+  "sentences": [
+    { "spanish": "Hablo español.", "english": "I speak Spanish." },
+    { "spanish": "¿Hablas inglés?", "english": "Do you speak English?" },
+    { "spanish": "Ella habla francés.", "english": "She speaks French." },
+    { "spanish": "Hablamos mucho.", "english": "We talk a lot." },
+    { "spanish": "Ellos hablan italiano.", "english": "They speak Italian." }
+  ]
+}

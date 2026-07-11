@@ -1,0 +1,36 @@
+{
+  "number": 8,
+  "title": "Negation — no",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/8/"
+  },
+  "concepts": [
+    "No before the verb = negation",
+    "Spanish uses double negatives: No tengo nada = I don't have anything",
+    "No = no/not, nada = nothing, nunca = never",
+    "Word order: No + verb + (rest)"
+  ],
+  "verbs": [
+    {
+      "spanish": "tener",
+      "english": "to have",
+      "forms": ["tengo", "tienes", "tiene"],
+      "note": "Intro — irregular"
+    }
+  ],
+  "keywords": [
+    { "spanish": "no", "english": "no / not" },
+    { "spanish": "nada", "english": "nothing" },
+    { "spanish": "nunca", "english": "never" },
+    { "spanish": "nadie", "english": "nobody" }
+  ],
+  "sentences": [
+    { "spanish": "No hablo francés.", "english": "I don't speak French." },
+    { "spanish": "No tengo dinero.", "english": "I don't have money." },
+    { "spanish": "No tengo nada.", "english": "I don't have anything." },
+    { "spanish": "Nunca como carne.", "english": "I never eat meat." },
+    { "spanish": "No veo a nadie.", "english": "I don't see anyone." }
+  ]
+}

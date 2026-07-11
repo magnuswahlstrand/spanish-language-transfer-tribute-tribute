@@ -1,0 +1,35 @@
+{
+  "number": 5,
+  "title": "Usted and nationalities",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/5/"
+  },
+  "concepts": [
+    "Usted (Ud.) = you (formal, singular) — uses third person verb form",
+    "Tú = you (informal) — use with friends, family, people your age",
+    "Usted = you (formal) — use with strangers, elders, authority figures",
+    "Nationalities are not capitalised in Spanish"
+  ],
+  "verbs": [
+    {
+      "spanish": "ser",
+      "english": "to be",
+      "forms": ["soy", "eres", "es", "somos", "son"]
+    }
+  ],
+  "keywords": [
+    { "spanish": "usted", "english": "you (formal)" },
+    { "spanish": "tú", "english": "you (informal)" },
+    { "spanish": "español / española", "english": "Spanish" },
+    { "spanish": "inglés / inglesa", "english": "English" },
+    { "spanish": "americano / americana", "english": "American" }
+  ],
+  "sentences": [
+    { "spanish": "¿Es usted español?", "english": "Are you Spanish? (formal)" },
+    { "spanish": "Soy inglés.", "english": "I am English." },
+    { "spanish": "Ella es americana.", "english": "She is American." },
+    { "spanish": "Somos de México.", "english": "We are from Mexico." }
+  ]
+}

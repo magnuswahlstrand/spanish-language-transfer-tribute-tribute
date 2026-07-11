@@ -1,0 +1,25 @@
+{
+  "number": 1,
+  "title": "The Thinking Method — getting started",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/1/"
+  },
+  "concepts": [
+    "The Thinking Method focuses on understanding patterns, not memorising rules",
+    "Spanish and English share thousands of cognates — words that look alike and have similar meanings",
+    "Words ending in -tion in English often end in -ción in Spanish: nation → nación",
+    "Spanish pronunciation is consistent: each letter has one sound"
+  ],
+  "verbs": [],
+  "keywords": [
+    { "spanish": "nación", "english": "nation" },
+    { "spanish": "conversación", "english": "conversation" },
+    { "spanish": "situación", "english": "situation" }
+  ],
+  "sentences": [
+    { "spanish": "La conversación.", "english": "The conversation." },
+    { "spanish": "La situación.", "english": "The situation." }
+  ]
+}

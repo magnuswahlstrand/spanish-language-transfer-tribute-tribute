@@ -1,0 +1,47 @@
+{
+  "number": 17,
+  "title": "Ser vs estar — introduction",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/17/"
+  },
+  "concepts": [
+    "Spanish has two 'to be' verbs: ser and estar",
+    "Ser = permanent/essential characteristics: soy, eres, es, somos, son",
+    "Estar = temporary states/locations: estoy, estás, está, estamos, están",
+    "Ser for: identity, profession, origin, time, inherent qualities",
+    "Estar for: location, mood, health, temporary conditions"
+  ],
+  "verbs": [
+    {
+      "spanish": "ser",
+      "english": "to be (permanent)",
+      "forms": ["soy", "eres", "es", "somos", "son"],
+      "note": "Irregular"
+    },
+    {
+      "spanish": "estar",
+      "english": "to be (temporary)",
+      "forms": ["estoy", "estás", "está", "estamos", "están"],
+      "note": "Irregular; first person singular is estoy (not esto)"
+    }
+  ],
+  "keywords": [
+    { "spanish": "soy", "english": "I am (permanent)" },
+    { "spanish": "eres", "english": "you are (permanent)" },
+    { "spanish": "es", "english": "he/she is (permanent)" },
+    { "spanish": "estoy", "english": "I am (temporary/location)" },
+    { "spanish": "estás", "english": "you are (temporary/location)" },
+    { "spanish": "está", "english": "he/she is (temporary/location)" }
+  ],
+  "sentences": [
+    { "spanish": "Soy profesor.", "english": "I am a teacher." },
+    { "spanish": "Eres de España.", "english": "You are from Spain." },
+    { "spanish": "Es alto.", "english": "He is tall." },
+    { "spanish": "Estoy en casa.", "english": "I am at home." },
+    { "spanish": "¿Cómo estás?", "english": "How are you?" },
+    { "spanish": "Está cansado.", "english": "He is tired." },
+    { "spanish": "Somos amigos.", "english": "We are friends." }
+  ]
+}

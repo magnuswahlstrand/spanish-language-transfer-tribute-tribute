@@ -1,0 +1,37 @@
+{
+  "number": 3,
+  "title": "Es and Un/Una — is and a/an",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/3/"
+  },
+  "concepts": [
+    "Es = is (third person singular of ser)",
+    "Un = a/an (masculine), Una = a/an (feminine)",
+    "Word order is flexible: 'Es un libro' = 'It is a book'",
+    "You can ask: ¿Qué es? = What is it?"
+  ],
+  "verbs": [
+    {
+      "spanish": "ser",
+      "english": "to be",
+      "forms": ["es"],
+      "note": "es = he/she/it is"
+    }
+  ],
+  "keywords": [
+    { "spanish": "es", "english": "is" },
+    { "spanish": "un", "english": "a/an (masculine)" },
+    { "spanish": "una", "english": "a/an (feminine)" },
+    { "spanish": "qué", "english": "what" },
+    { "spanish": "libro", "english": "book" },
+    { "spanish": "casa", "english": "house" }
+  ],
+  "sentences": [
+    { "spanish": "Es un libro.", "english": "It is a book." },
+    { "spanish": "Es una casa.", "english": "It is a house." },
+    { "spanish": "¿Qué es?", "english": "What is it?" },
+    { "spanish": "Es un problema.", "english": "It is a problem." }
+  ]
+}

@@ -1,0 +1,239 @@
+---
+export interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={Astro.url.href} />
+    <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      :root {
+        --color-text: #1a1a1a;
+        --color-bg: #ffffff;
+        --color-accent: #0055aa;
+        --color-accent-light: #e8f0fe;
+        --color-accent-subtle: #f4f7fb;
+        --color-border: #d4d4d4;
+        --color-border-light: #eaeaea;
+        --color-muted: #666;
+        --color-row-alt: #f9fafb;
+        --font-body: system-ui, -apple-system, sans-serif;
+        --font-size-sm: 0.875rem;
+        --font-size-xs: 0.8rem;
+        --radius: 8px;
+      }
+      html {
+        font-size: 100%;
+      }
+      body {
+        font-family: var(--font-body);
+        color: var(--color-text);
+        background: var(--color-bg);
+        line-height: 1.7;
+        padding: 0;
+        max-width: 64rem;
+        margin: 0 auto;
+        min-height: 100vh;
+      }
+      main {
+        padding: 0 1.5rem;
+      }
+      a {
+        color: var(--color-accent);
+        text-decoration: underline;
+        text-underline-offset: 2px;
+      }
+      a:hover {
+        text-decoration: none;
+      }
+      h1, h2, h3 {
+        line-height: 1.3;
+        margin-bottom: 0.5rem;
+      }
+      h1 {
+        font-size: 1.75rem;
+        margin-top: 0;
+        font-weight: 700;
+        letter-spacing: -0.02em;
+      }
+      h2 {
+        font-size: 1.35rem;
+        margin-top: 2rem;
+        font-weight: 600;
+      }
+      h3 {
+        font-size: 1.1rem;
+        margin-top: 1.5rem;
+        font-weight: 600;
+      }
+      p, ul, ol {
+        margin-bottom: 0.75rem;
+      }
+      nav {
+        padding: 0.75rem 1.5rem;
+        border-bottom: 1px solid var(--color-border);
+        margin-bottom: 1.5rem;
+        background: var(--color-accent-subtle);
+      }
+      nav a {
+        margin-right: 1.25rem;
+        font-size: var(--font-size-sm);
+        font-weight: 500;
+        text-decoration: none;
+      }
+      nav a:hover {
+        text-decoration: underline;
+      }
+      .lesson-nav {
+        margin-top: 2rem;
+        padding-top: 1rem;
+        border-top: 1px solid var(--color-border);
+        display: flex;
+        gap: 1.5rem;
+      }
+      table {
+        width: 100%;
+        border-collapse: separate;
+        border-spacing: 0;
+        margin-bottom: 1.5rem;
+        border: 1px solid var(--color-border);
+        border-radius: var(--radius);
+        overflow: hidden;
+        font-size: var(--font-size-sm);
+      }
+      thead {
+        position: sticky;
+        top: 0;
+        z-index: 1;
+      }
+      th {
+        background: var(--color-accent-light);
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        font-size: var(--font-size-xs);
+        color: var(--color-muted);
+        padding: 0.6rem 0.8rem;
+        border-bottom: 2px solid var(--color-border);
+        text-align: left;
+        vertical-align: top;
+      }
+      th[scope="colgroup"] {
+        text-transform: none;
+        letter-spacing: normal;
+        font-size: var(--font-size-sm);
+        color: var(--color-text);
+        background: var(--color-accent-subtle);
+        border-bottom: 2px solid var(--color-border);
+      }
+      td {
+        padding: 0.5rem 0.8rem;
+        border-bottom: 1px solid var(--color-border-light);
+        text-align: left;
+        vertical-align: top;
+        line-height: 1.5;
+      }
+      tbody tr:last-child td {
+        border-bottom: none;
+      }
+      tbody tr:nth-child(even) {
+        background: var(--color-row-alt);
+      }
+      tbody tr:hover {
+        background: var(--color-accent-light);
+      }
+      footer {
+        margin-top: 4rem;
+        padding: 1.5rem;
+        border-top: 1px solid var(--color-border);
+        font-size: var(--font-size-sm);
+        color: var(--color-muted);
+        background: var(--color-accent-subtle);
+      }
+      footer p {
+        margin-bottom: 0.25rem;
+      }
+      footer a {
+        color: var(--color-muted);
+      }
+      @media print {
+        nav, .no-print {
+          display: none;
+        }
+        body {
+          font-size: 10pt;
+          color: #000;
+          background: #fff;
+          padding: 0;
+        }
+        a {
+          color: #000;
+          text-decoration: underline;
+        }
+        table {
+          border: 1px solid #999;
+          font-size: 9pt;
+        }
+        th {
+          background: #eee !important;
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+        }
+        tbody tr:nth-child(even) {
+          background: #f5f5f5 !important;
+          -webkit-print-color-adjust: exact;
+          print-color-adjust: exact;
+        }
+        tr {
+          break-inside: avoid;
+        }
+        @page {
+          margin: 12mm;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <a href="/">Home</a>
+      <a href="/all/">All sentences</a>
+      <a href="/cheat-sheets/1-10/">Cheat sheets</a>
+    </nav>
+    <main>
+      <slot />
+    </main>
+    <footer>
+      <p>
+        An unofficial tribute to
+        <a href="https://www.languagetransfer.org/" target="_blank" rel="noreferrer noopener">Language Transfer</a>
+        and the
+        <a href="https://languagetransfertribute.com/" target="_blank" rel="noreferrer noopener">Language Transfer Tribute</a>.
+        Source code on
+        <a href="https://github.com/magnuswahlstrand/spanish-language-transfer-tribute" target="_blank" rel="noreferrer noopener">GitHub</a>.
+        <a href="https://github.com/magnuswahlstrand/spanish-language-transfer-tribute/issues/new" target="_blank" rel="noreferrer noopener">Corrections welcome</a>.
+      </p>
+      <p>
+        Support Language Transfer at
+        <a href="https://www.patreon.com/languagetransfer" target="_blank" rel="noreferrer noopener">Patreon</a>
+        or
+        <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T54HRGDW4TVBN&source=url" target="_blank" rel="noreferrer noopener">PayPal</a>.
+      </p>
+    </footer>
+  </body>
+</html>

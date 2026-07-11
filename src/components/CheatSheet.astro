@@ -1,0 +1,99 @@
+---
+import type { Lesson } from "../lib/schema";
+
+export interface Props {
+  lessons: Lesson[];
+  groupLabel: string;
+}
+
+const { lessons, groupLabel } = Astro.props;
+---
+
+<h1>{groupLabel} — Cheat sheet</h1>
+
+{lessons.map((lesson) => (
+  <section id={`lesson-${lesson.number}`}>
+    <h2>
+      Lesson {lesson.number}: {lesson.title}
+    </h2>
+
+    {lesson.concepts.length > 0 && (
+      <>
+        <h3>Key ideas</h3>
+        <ul>
+          {lesson.concepts.map((c) => (
+            <li>{c}</li>
+          ))}
+        </ul>
+      </>
+    )}
+
+    {lesson.verbs.length > 0 && (
+      <>
+        <h3>Verbs</h3>
+        <table>
+          <thead>
+            <tr>
+              <th scope="col" lang="es">Spanish</th>
+              <th scope="col" lang="en">English</th>
+              <th scope="col">Notes</th>
+            </tr>
+          </thead>
+          <tbody>
+            {lesson.verbs.map((v) => (
+              <tr>
+                <td lang="es">{v.spanish}</td>
+                <td lang="en">{v.english}</td>
+                <td>{v.note}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </>
+    )}
+
+    {lesson.keywords.length > 0 && (
+      <>
+        <h3>Key words</h3>
+        <table>
+          <thead>
+            <tr>
+              <th scope="col" lang="es">Spanish</th>
+              <th scope="col" lang="en">English</th>
+            </tr>
+          </thead>
+          <tbody>
+            {lesson.keywords.map((k) => (
+              <tr>
+                <td lang="es">{k.spanish}</td>
+                <td lang="en">{k.english}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </>
+    )}
+
+    {lesson.sentences.length > 0 && (
+      <>
+        <h3>Example sentences</h3>
+        <table>
+          <thead>
+            <tr>
+              <th scope="col" lang="es">Spanish</th>
+              <th scope="col" lang="en">English</th>
+            </tr>
+          </thead>
+          <tbody>
+            {lesson.sentences.map((s) => (
+              <tr>
+                <td lang="es">{s.spanish}</td>
+                <td lang="en">{s.english}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </>
+    )}
+  </section>
+))}

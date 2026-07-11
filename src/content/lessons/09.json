@@ -1,0 +1,29 @@
+{
+  "number": 9,
+  "title": "Plurals — los and las",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/9/"
+  },
+  "concepts": [
+    "Plural of el = los, plural of la = las",
+    "Words ending in a vowel add -s: libro → libros",
+    "Words ending in a consonant add -es: ciudad → ciudades",
+    "Adjectives must agree in number and gender with the noun"
+  ],
+  "verbs": [],
+  "keywords": [
+    { "spanish": "los", "english": "the (masculine plural)" },
+    { "spanish": "las", "english": "the (feminine plural)" },
+    { "spanish": "libros", "english": "books" },
+    { "spanish": "ciudades", "english": "cities" },
+    { "spanish": "casas", "english": "houses" }
+  ],
+  "sentences": [
+    { "spanish": "Los libros son interesantes.", "english": "The books are interesting." },
+    { "spanish": "Las casas son blancas.", "english": "The houses are white." },
+    { "spanish": "Las ciudades son grandes.", "english": "The cities are big." },
+    { "spanish": "Tengo dos perros.", "english": "I have two dogs." }
+  ]
+}

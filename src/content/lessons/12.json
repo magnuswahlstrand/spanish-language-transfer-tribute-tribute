@@ -1,0 +1,45 @@
+{
+  "number": 12,
+  "title": "More tener — we have, they have",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/12/"
+  },
+  "concepts": [
+    "Tenemos = we have",
+    "Tienen = they have / you plural have",
+    "Tener expressions: use tener + noun for feelings/states",
+    "Tener hambre = to be hungry (literally 'to have hunger')",
+    "Tener sed = to be thirsty",
+    "Tener frío = to be cold",
+    "Tener calor = to be hot"
+  ],
+  "verbs": [
+    {
+      "spanish": "tener",
+      "english": "to have",
+      "forms": ["tengo", "tienes", "tiene", "tenemos", "tienen"],
+      "note": "Complete present tense: e→ie, nosotros regular"
+    }
+  ],
+  "keywords": [
+    { "spanish": "tenemos", "english": "we have" },
+    { "spanish": "tienen", "english": "they have / you (plural) have" },
+    { "spanish": "hambre", "english": "hunger" },
+    { "spanish": "sed", "english": "thirst" },
+    { "spanish": "frío", "english": "cold" },
+    { "spanish": "calor", "english": "heat" },
+    { "spanish": "miedo", "english": "fear" },
+    { "spanish": "prisa", "english": "hurry / rush" }
+  ],
+  "sentences": [
+    { "spanish": "Tenemos hambre.", "english": "We are hungry." },
+    { "spanish": "Tienen sed.", "english": "They are thirsty." },
+    { "spanish": "Tengo frío.", "english": "I am cold." },
+    { "spanish": "¿Tienes calor?", "english": "Are you hot?" },
+    { "spanish": "El niño tiene miedo.", "english": "The boy is scared." },
+    { "spanish": "Tenemos prisa.", "english": "We are in a hurry." },
+    { "spanish": "Ellos tienen razón.", "english": "They are right." }
+  ]
+}

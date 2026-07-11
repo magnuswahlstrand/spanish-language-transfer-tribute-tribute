@@ -1,0 +1,24 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import TranslationTable from "../components/TranslationTable.astro";
+import { getAllLessons } from "../lib/lessons";
+
+const lessons = getAllLessons();
+const totalSentences = lessons.reduce((sum, l) => sum + l.sentences.length, 0);
+---
+
+<BaseLayout
+  title="All sentence pairs — Complete Spanish Reference"
+  description="Every available Spanish/English sentence pair from the Complete Spanish course, grouped by lesson."
+>
+  <h1>All sentence pairs</h1>
+  <p lang="en">{totalSentences} sentences across {lessons.length} lessons.</p>
+
+  <nav class="lesson-nav no-print">
+    {lessons.map((l) => (
+      <a href={`#lesson-${l.number}`}>Lesson {l.number}</a>
+    ))}
+  </nav>
+
+  <TranslationTable {lessons} />
+</BaseLayout>

@@ -1,0 +1,40 @@
+{
+  "number": 11,
+  "title": "Tener — to have",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/11/"
+  },
+  "concepts": [
+    "Tener (to have) is an irregular verb with stem changes",
+    "Tengo = I have (not 'yo tengo' in normal speech unless emphasizing)",
+    "Tienes = you have (singular informal)",
+    "Tiene = he/she/you formal has",
+    "Use tener to express age: Tengo 30 años — I am 30 years old"
+  ],
+  "verbs": [
+    {
+      "spanish": "tener",
+      "english": "to have",
+      "forms": ["tengo", "tienes", "tiene"],
+      "note": "Irregular; e→ie stem change in present tense"
+    }
+  ],
+  "keywords": [
+    { "spanish": "tengo", "english": "I have" },
+    { "spanish": "tienes", "english": "you have (singular)" },
+    { "spanish": "tiene", "english": "he/she/you formal has" },
+    { "spanish": "años", "english": "years" },
+    { "spanish": "edad", "english": "age" }
+  ],
+  "sentences": [
+    { "spanish": "Tengo un coche.", "english": "I have a car." },
+    { "spanish": "Tienes un libro.", "english": "You have a book." },
+    { "spanish": "Él tiene una casa.", "english": "He has a house." },
+    { "spanish": "Ella tiene un perro.", "english": "She has a dog." },
+    { "spanish": "¿Cuántos años tienes?", "english": "How old are you?" },
+    { "spanish": "Tengo treinta años.", "english": "I am 30 years old." },
+    { "spanish": "¿Tiene usted una pregunta?", "english": "Do you have a question?" }
+  ]
+}

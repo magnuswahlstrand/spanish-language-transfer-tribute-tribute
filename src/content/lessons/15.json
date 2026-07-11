@@ -1,0 +1,57 @@
+{
+  "number": 15,
+  "title": "Regular -er and -ir verbs",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/15/"
+  },
+  "concepts": [
+    "-er verbs: drop -er, add -o, -es, -e, -emos, -en",
+    "-ir verbs: drop -ir, add -o, -es, -e, -imos, -en",
+    "-er and -ir share the same endings except for nosotros/nosotras",
+    "Comer (to eat): como, comes, come, comemos, comen",
+    "Vivir (to live): vivo, vives, vive, vivimos, viven"
+  ],
+  "verbs": [
+    {
+      "spanish": "comer",
+      "english": "to eat",
+      "forms": ["como", "comes", "come", "comemos", "comen"]
+    },
+    {
+      "spanish": "beber",
+      "english": "to drink",
+      "forms": ["bebo", "bebes", "bebe", "bebemos", "beben"]
+    },
+    {
+      "spanish": "vivir",
+      "english": "to live",
+      "forms": ["vivo", "vives", "vive", "vivimos", "viven"]
+    },
+    {
+      "spanish": "escribir",
+      "english": "to write",
+      "forms": ["escribo", "escribes", "escribe", "escribimos", "escriben"]
+    },
+    {
+      "spanish": "comprender",
+      "english": "to understand"
+    }
+  ],
+  "keywords": [
+    { "spanish": "como", "english": "I eat" },
+    { "spanish": "vives", "english": "you live" },
+    { "spanish": "escribe", "english": "he/she writes" },
+    { "spanish": "comprendo", "english": "I understand" }
+  ],
+  "sentences": [
+    { "spanish": "Como pan todos los días.", "english": "I eat bread every day." },
+    { "spanish": "¿Bebes vino?", "english": "Do you drink wine?" },
+    { "spanish": "Él come en casa.", "english": "He eats at home." },
+    { "spanish": "Vivimos en Madrid.", "english": "We live in Madrid." },
+    { "spanish": "¿Dónde vives?", "english": "Where do you live?" },
+    { "spanish": "Escribo una carta.", "english": "I write a letter." },
+    { "spanish": "No comprendo.", "english": "I don't understand." }
+  ]
+}

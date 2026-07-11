@@ -1,0 +1,41 @@
+{
+  "number": 16,
+  "title": "Ir — to go",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/16/"
+  },
+  "concepts": [
+    "Ir (to go) is highly irregular: voy, vas, va, vamos, van",
+    "Ir a + infinitive = near future ('going to do something')",
+    "A + el = al (contraction)",
+    "Common: ¿Adónde vas? = Where are you going?"
+  ],
+  "verbs": [
+    {
+      "spanish": "ir",
+      "english": "to go",
+      "forms": ["voy", "vas", "va", "vamos", "van"],
+      "note": "Irregular — completely different from infinitive pattern"
+    }
+  ],
+  "keywords": [
+    { "spanish": "voy", "english": "I go" },
+    { "spanish": "vas", "english": "you go" },
+    { "spanish": "va", "english": "he/she goes" },
+    { "spanish": "vamos", "english": "we go" },
+    { "spanish": "van", "english": "they go" },
+    { "spanish": "al", "english": "to the (a + el)" },
+    { "spanish": "adónde", "english": "where (to)" }
+  ],
+  "sentences": [
+    { "spanish": "Voy al mercado.", "english": "I go to the market." },
+    { "spanish": "¿Adónde vas?", "english": "Where are you going?" },
+    { "spanish": "Él va a la escuela.", "english": "He goes to school." },
+    { "spanish": "Vamos a casa.", "english": "We go home." },
+    { "spanish": "Van al cine.", "english": "They go to the cinema." },
+    { "spanish": "Voy a comer.", "english": "I am going to eat." },
+    { "spanish": "¿Vas a estudiar?", "english": "Are you going to study?" }
+  ]
+}

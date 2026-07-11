@@ -1,0 +1,42 @@
+{
+  "number": 7,
+  "title": "Questions and word order",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/7/"
+  },
+  "concepts": [
+    "Question words carry an accent: qué, dónde, cómo, cuándo, por qué",
+    "Word order in questions is flexible — rising intonation can turn a statement into a question",
+    "¿Qué? = What? ¿Dónde? = Where? ¿Cómo? = How?",
+    "¿Por qué? = Why? (two words, with accent and space)"
+  ],
+  "verbs": [
+    {
+      "spanish": "hablar",
+      "english": "to speak",
+      "forms": ["hablo", "hablas", "habla", "hablamos", "hablan"]
+    },
+    {
+      "spanish": "estar",
+      "english": "to be (location/state)",
+      "note": "Intro: está = is (location)"
+    }
+  ],
+  "keywords": [
+    { "spanish": "qué", "english": "what" },
+    { "spanish": "dónde", "english": "where" },
+    { "spanish": "cómo", "english": "how" },
+    { "spanish": "cuándo", "english": "when" },
+    { "spanish": "por qué", "english": "why" },
+    { "spanish": "dónde está", "english": "where is" }
+  ],
+  "sentences": [
+    { "spanish": "¿Qué es esto?", "english": "What is this?" },
+    { "spanish": "¿Dónde está el banco?", "english": "Where is the bank?" },
+    { "spanish": "¿Cómo estás?", "english": "How are you?" },
+    { "spanish": "¿Por qué estudias español?", "english": "Why do you study Spanish?" },
+    { "spanish": "¿Cuándo llegas?", "english": "When do you arrive?" }
+  ]
+}

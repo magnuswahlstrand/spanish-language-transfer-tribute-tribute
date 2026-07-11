@@ -1,0 +1,42 @@
+{
+  "number": 19,
+  "title": "Gustar — to like",
+  "status": "draft",
+  "source": {
+    "type": "tribute",
+    "url": "https://languagetransfertribute.com/lessons/19/"
+  },
+  "concepts": [
+    "Gustar literally means 'to please' — the thing liked is the subject",
+    "Me gusta = it pleases me = I like it",
+    "Te gusta = you like it",
+    "Le gusta = he/she/you formal likes it",
+    "Use singular gusta with singular nouns and infinitives",
+    "Use plural gustan with plural nouns"
+  ],
+  "verbs": [
+    {
+      "spanish": "gustar",
+      "english": "to like / to please",
+      "forms": ["gusta", "gustan"],
+      "note": "Only two forms in present: gusta (singular) and gustan (plural)"
+    }
+  ],
+  "keywords": [
+    { "spanish": "me gusta", "english": "I like (it)" },
+    { "spanish": "te gusta", "english": "you like (it)" },
+    { "spanish": "le gusta", "english": "he/she/you formal likes (it)" },
+    { "spanish": "me gustan", "english": "I like (them)" },
+    { "spanish": "el café", "english": "coffee" },
+    { "spanish": "la música", "english": "music" },
+    { "spanish": "el libro", "english": "book" }
+  ],
+  "sentences": [
+    { "spanish": "Me gusta el café.", "english": "I like coffee." },
+    { "spanish": "¿Te gusta la música?", "english": "Do you like music?" },
+    { "spanish": "Le gusta el libro.", "english": "He/She likes the book." },
+    { "spanish": "Me gustan los perros.", "english": "I like dogs." },
+    { "spanish": "¿Te gustan las flores?", "english": "Do you like flowers?" },
+    { "spanish": "No me gusta el té.", "english": "I don't like tea." }
+  ]
+}

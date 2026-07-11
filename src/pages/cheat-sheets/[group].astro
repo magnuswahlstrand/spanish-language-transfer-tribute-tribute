@@ -1,0 +1,29 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CheatSheet from "../../components/CheatSheet.astro";
+import { getGroupBySlug } from "../../lib/groups";
+import { getLessonsInRange } from "../../lib/lessons";
+
+export async function getStaticPaths() {
+  const { CHEAT_SHEET_GROUPS } = await import("../../lib/groups");
+  return CHEAT_SHEET_GROUPS.map((g) => ({
+    params: { group: g.slug },
+  }));
+}
+
+const { group } = Astro.params;
+const sheetGroup = getGroupBySlug(group!);
+
+if (!sheetGroup) {
+  return Astro.redirect("/");
+}
+
+const lessons = getLessonsInRange(sheetGroup.start, sheetGroup.end);
+---
+
+<BaseLayout
+  title={`Cheat sheet: ${sheetGroup.label} — Complete Spanish Reference`}
+  description={`Key concepts, verbs, vocabulary, and example sentences for ${sheetGroup.label}.`}
+>
+  <CheatSheet lessons={lessons} groupLabel={sheetGroup.label} />
+</BaseLayout>
