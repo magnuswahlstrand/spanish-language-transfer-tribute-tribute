@@ -13,7 +13,7 @@ export async function getStaticPaths() {
 const { lesson } = Astro.params;
 const data = getLesson(Number(lesson));
 if (!data) {
-  return Astro.redirect("/");
+  return Astro.redirect(base);
 }
 
 const allLessons = getAllLessons();
@@ -21,6 +21,8 @@ const currentIndex = allLessons.findIndex((l) => l.number === data.number);
 const prevLesson = currentIndex > 0 ? allLessons[currentIndex - 1] : null;
 const nextLesson = currentIndex < allLessons.length - 1 ? allLessons[currentIndex + 1] : null;
 const cheatSheetGroup = findGroupForLesson(data.number);
+const raw = import.meta.env.BASE_URL;
+const base = raw.endsWith("/") ? raw : raw + "/";
 ---
 
 <BaseLayout
@@ -117,15 +119,15 @@ const cheatSheetGroup = findGroupForLesson(data.number);
 
   <nav class="lesson-nav no-print">
     {prevLesson && (
-      <a href={`/lessons/${prevLesson.number}/`}>← Lesson {prevLesson.number}</a>
+      <a href={base + `lessons/${prevLesson.number}/`}>← Lesson {prevLesson.number}</a>
     )}
     {cheatSheetGroup && (
-      <a href={`/cheat-sheets/${cheatSheetGroup.slug}/`}>
+      <a href={base + `cheat-sheets/${cheatSheetGroup.slug}/`}>
         {cheatSheetGroup.label} cheat sheet
       </a>
     )}
     {nextLesson && (
-      <a href={`/lessons/${nextLesson.number}/`}>Lesson {nextLesson.number} →</a>
+      <a href={base + `lessons/${nextLesson.number}/`}>Lesson {nextLesson.number} →</a>
     )}
   </nav>
 </BaseLayout>

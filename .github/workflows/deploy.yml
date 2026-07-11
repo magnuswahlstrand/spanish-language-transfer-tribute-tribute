@@ -27,8 +27,8 @@ jobs:
       - run: pnpm install --frozen-lockfile
       - run: pnpm build
         env:
-          ASTRO_SITE: https://magnuswahlstrand.github.io
-          ASTRO_BASE: /spanish-language-transfer-tribute
+          ASTRO_SITE: https://wahlstrand.dev
+          ASTRO_BASE: /spanish-language-transfer-tribute-tribute
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist/
