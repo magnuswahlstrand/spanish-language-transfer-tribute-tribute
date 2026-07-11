@@ -1,15 +1,22 @@
 # Language Transfer Tribute TRIBUTE
 
-This is a tribute to the [Language Transfer Tribute](https://languagetransfertribute.com/) — the excellent fan-made site that transcribed the [Complete Spanish](https://www.languagetransfer.org/) course by Mihalis Eleftheriou. We are deeply grateful for that work.
+[Language Transfer](https://www.languagetransfer.org/) is probably the best resource I have found for learning Spanish speaking.
+[Language Transfer Tribute](https://languagetransfertribute.com/) (not this page) is an overview of lessons 1–68 from the Language Transfer course, with notes, translations, and audio. A very useful (non-affiliated) addition to the audio only course!
 
-The original tribute site is comprehensive but has no single-page overview of all lessons and isn't available over HTTPS, making it less accessible in some networks. This project reorganises the same material into a static, printable reference with sentence tables, cheat sheets, and a compact all-lessons page.
+The tribute page, while awesome, lacked a few things I wanted:
 
-If you find this useful, please support [Language Transfer](https://www.languagetransfer.org/support) — the real project behind the Thinking Method.
+- It doesn't support HTTPS, making it harder to access in modern browsers.
+- There is no overview page suitable for printing — making printing harder.
+- Lessons 69–90 are missing for some reason.
+
+This Tribute TRIBUTE aims to improve those shortcomings.
+
+You can support Language Transfer at [Patreon](https://www.patreon.com/languagetransfer) or [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T54HRGDW4TVBN&source=url).
 
 ## Pages
 
-- `/all/` — all sentence pairs in one table
-- `/cheat-sheets/N-M/` — grouped cheat sheets for lesson ranges
+- `/all/` — all sentence pairs in one table (print-friendly)
+- `/cheat-sheets/` — key concepts, verbs, vocabulary grouped by lesson range
 
 ## Development
 
@@ -19,13 +26,9 @@ pnpm dev       # dev server
 pnpm build     # static build → dist/
 pnpm validate  # schema + data checks
 pnpm test      # full test suite
-pnpm import:lesson 1-20   # import from tribute site
+pnpm import:lesson 21-68   # import from tribute site
 ```
 
 ## Stack
 
 Astro, TypeScript, Vitest, plain CSS. No framework, no database, no backend.
-
-## Deployment
-
-Set `ASTRO_SITE` and `ASTRO_BASE` when building for a subpath deployment. See `.github/workflows/deploy.yml`.

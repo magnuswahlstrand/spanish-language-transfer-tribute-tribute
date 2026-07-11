@@ -7,24 +7,29 @@ const maxLesson = getMaxLessonNumber();
 const base = import.meta.env.BASE_URL.endsWith("/")
   ? import.meta.env.BASE_URL
   : import.meta.env.BASE_URL + "/";
+const lessonNumbers = new Set(lessons.map((l) => l.number));
+const allNumbers = Array.from({ length: 90 }, (_, i) => i + 1);
 ---
 
 <BaseLayout
   title="Language Transfer Tribute TRIBUTE"
   description="A condensed bilingual reference for the Complete Spanish course by Language Transfer. Sentence tables, cheat sheets, and key concepts."
 >
-  <h1>Language Transfer Tribute TRIBUTE</h1>
+  <h1>Language Transfer <span style="font-size:1.3em">Tribute</span> <span style="font-size:1.7em">TRIBUTE</span></h1>
   <p lang="en">
     <a href="https://www.languagetransfer.org/" target="_blank" rel="noreferrer noopener">Language Transfer</a>
-    created the Complete Spanish course and the Thinking Method.
-    The
-    <a href="https://languagetransfertribute.com/" target="_blank" rel="noreferrer noopener">Language Transfer Tribute</a>
-    author created detailed written notes for every lesson
-    (try the <a href="http://languagetransfertribute.com/lessons/" target="_blank" rel="noreferrer noopener">HTTP address</a>
-    if HTTPS doesn't work; it may be temporarily unavailable).
-    This project reorganises that material into cheat sheets and reference tables.
+    is probably the best resource I have found for learning Spanish speaking.
+    <a href="https://languagetransfertribute.com/" target="_blank" rel="noreferrer noopener">Language Transfer Tribute</a> (not this page)
+    is an overview of lessons 1–68 from the Language Transfer course, with notes, translations, and audio. A very useful (non-affiliated) addition to the audio only course!
   </p>
-  <p lang="en">Language Transfer and the Tribute are both awesome — you can support Language Transfer at
+  <p lang="en">The tribute page, while awesome, lacked a few things I wanted:</p>
+  <ul lang="en">
+    <li>It doesn't support HTTPS, making it harder to access in modern browsers.</li>
+    <li>There is no overview page suitable for printing — making printing harder.</li>
+    <li>Lessons 69–90 are missing for some reason.</li>
+  </ul>
+  <p lang="en">This Tribute TRIBUTE aims to improve those shortcomings.</p>
+  <p lang="en">You can support Language Transfer at
     <a href="https://www.patreon.com/languagetransfer" target="_blank" rel="noreferrer noopener">Patreon</a>
     or
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T54HRGDW4TVBN&source=url" target="_blank" rel="noreferrer noopener">PayPal</a>.</p>
@@ -48,14 +53,27 @@ const base = import.meta.env.BASE_URL.endsWith("/")
           </tr>
         </thead>
         <tbody>
-          {lessons.map((l) => (
-            <tr>
-              <td><a href={base + `all/#lesson-${l.number}`}>{l.number}</a></td>
-              <td>{l.title}</td>
-              <td>{l.status}</td>
-              <td>{l.sentences.length}</td>
-            </tr>
-          ))}
+          {allNumbers.map((n) => {
+            const l = lessonNumbers.has(n) ? lessons.find((x) => x.number === n) : undefined;
+            if (l) {
+              return (
+                <tr>
+                  <td><a href={base + `all/#lesson-${l.number}`}>{l.number}</a></td>
+                  <td>{l.title}</td>
+                  <td>{l.status}</td>
+                  <td>{l.sentences.length}</td>
+                </tr>
+              );
+            }
+            return (
+              <tr>
+                <td>{n}</td>
+                <td lang="en">—</td>
+                <td>not-yet-transcribed</td>
+                <td>—</td>
+              </tr>
+            );
+          })}
         </tbody>
       </table>
     </>
