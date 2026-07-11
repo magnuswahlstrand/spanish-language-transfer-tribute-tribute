@@ -1,56 +1,133 @@
 {
   "number": 13,
-  "title": "Tener que — obligation",
+  "title": "Lesson 13: Hacer (to do), qué (what), puedo (I can) and Esperar (I wait/hope)",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/13/"
+    "url": "http://languagetransfertribute.com/lesson-13-hacer-que-puedo-esperar/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Tener que + infinitive = to have to do something",
-    "Works like 'have to' in English — conjugate tener, then add que + infinitive",
-    "Many common verbs are regular -ar, -er, -ir infinitives",
-    "Smart strategy: learn tener que first, then add verbs as you go"
+    "By the end of this page you'll be familiar with Hacer (to do), qué (what), puedo (I can) and Esperar (I wait/hope) but without memorizing parrot fashion."
   ],
-  "verbs": [
-    {
-      "spanish": "tener que",
-      "english": "to have to",
-      "note": "tener que + infinitive"
-    },
-    {
-      "spanish": "hablar",
-      "english": "to speak",
-      "forms": ["hablo", "hablas", "habla", "hablamos", "hablan"]
-    },
-    {
-      "spanish": "comer",
-      "english": "to eat"
-    },
-    {
-      "spanish": "beber",
-      "english": "to drink"
-    },
-    {
-      "spanish": "estudiar",
-      "english": "to study"
-    },
-    {
-      "spanish": "trabajar",
-      "english": "to work"
-    }
-  ],
-  "keywords": [
-    { "spanish": "que", "english": "that / than" },
-    { "spanish": "tengo que", "english": "I have to" },
-    { "spanish": "tienes que", "english": "you have to" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "Tengo que estudiar.", "english": "I have to study." },
-    { "spanish": "Tienes que comer.", "english": "You have to eat." },
-    { "spanish": "Él tiene que trabajar.", "english": "He has to work." },
-    { "spanish": "Tenemos que hablar.", "english": "We have to talk." },
-    { "spanish": "Ellos tienen que beber agua.", "english": "They have to drink water." },
-    { "spanish": "¿Tienes que ir?", "english": "Do you have to go?" }
+    {
+      "spanish": "Hace",
+      "english": "he/she/it is making/doing"
+    },
+    {
+      "spanish": "Hace",
+      "english": "you (formal) are making/doing"
+    },
+    {
+      "spanish": "Lo hace",
+      "english": "you (formal) are doing it"
+    },
+    {
+      "spanish": "Lo hacen",
+      "english": "you (guys) are doing it"
+    },
+    {
+      "spanish": "Lo hacen",
+      "english": "They are doing it"
+    },
+    {
+      "spanish": "Lo haces",
+      "english": "You (informal) are doing it"
+    },
+    {
+      "spanish": "¿Qué haces?",
+      "english": "What are you (informal) doing"
+    },
+    {
+      "spanish": "Puede",
+      "english": "he/she/it/you (formal) can"
+    },
+    {
+      "spanish": "Puedes",
+      "english": "you (informal) can"
+    },
+    {
+      "spanish": "¿Puedes venir?",
+      "english": "Can you (informal) come?"
+    },
+    {
+      "spanish": "¿No puedes venir?",
+      "english": "Can't you (informal) come?"
+    },
+    {
+      "spanish": "¿Por qué no puedes venir?",
+      "english": "Why can't you (informal) come?"
+    },
+    {
+      "spanish": "Quiero saber por qué no puedes venir",
+      "english": "I want to know why you can't come"
+    },
+    {
+      "spanish": "Llego",
+      "english": "I arrive"
+    },
+    {
+      "spanish": "Salgo",
+      "english": "I leave / I'm going out"
+    },
+    {
+      "spanish": "Tengo",
+      "english": "I have"
+    },
+    {
+      "spanish": "Vengo",
+      "english": "I come"
+    },
+    {
+      "spanish": "Esperar",
+      "english": "To wait / to hope"
+    },
+    {
+      "spanish": "Espero",
+      "english": "I wait / I hope"
+    },
+    {
+      "spanish": "Espera",
+      "english": "He/she/it waits / hopes"
+    },
+    {
+      "spanish": "Espera",
+      "english": "You (formal) wait / hope"
+    },
+    {
+      "spanish": "Esperan",
+      "english": "They/you guys wait / hope"
+    },
+    {
+      "spanish": "Me esperan",
+      "english": "They are waiting for me"
+    },
+    {
+      "spanish": "No me esperan",
+      "english": "They are not waiting for me"
+    },
+    {
+      "spanish": "Quiero saber por qué no me esperan",
+      "english": "I want to know why they're not waiting for me"
+    },
+    {
+      "spanish": "Vocabulario",
+      "english": "Vocabulary"
+    },
+    {
+      "spanish": "Boca",
+      "english": "Mouth"
+    },
+    {
+      "spanish": "Necesario",
+      "english": "Necesary"
+    },
+    {
+      "spanish": "Contrario",
+      "english": "Contrary"
+    }
   ]
 }

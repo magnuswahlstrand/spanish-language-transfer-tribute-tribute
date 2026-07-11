@@ -1,41 +1,91 @@
 {
   "number": 6,
-  "title": "Regular -ar verbs — hablar",
+  "title": "Lesson Six: Intento and Spanish H and V",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/6/"
+    "url": "http://languagetransfertribute.com/lesson-six-intento-spanish-h-v/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Regular -ar verbs: drop -ar, add -o, -as, -a, -amos, -an",
-    "Hablar = to speak: hablo, hablas, habla, hablamos, hablan",
-    "The verb ending tells you the subject — pronouns are optional",
-    "Hablo = I speak (no need to say yo unless emphasising)"
+    "Introducing how to say 'I try' and how to pronounce 'h' and 'v' in Spanish ... as well as a bunch of new words which you knew all along or you can find via the Thinking Method",
+    "Pronounciation - Don't get too hung up on this. I continued to say 'v' for a long time when I was learning Spanish to remind myself of how the word was spelt. As long as you keep it as a soft 'v', almost an 'f', you will be fully understood. Later as you become more confident in the language you can start moving your 'v' to 'b'",
+    "Remembering - think of 'voy' as in 'voyage'. In a voyage you are going somewhere and 'voy' is 'I go'."
   ],
-  "verbs": [
+  "verbs": [],
+  "keywords": [],
+  "sentences": [
     {
-      "spanish": "hablar",
-      "english": "to speak",
-      "forms": ["hablo", "hablas", "habla", "hablamos", "hablan"]
+      "spanish": "Intento",
+      "english": "I try / I am trying"
     },
     {
-      "spanish": "cantar",
-      "english": "to sing",
-      "forms": ["canto", "cantas", "canta", "cantamos", "cantan"]
+      "spanish": "Intento publicarlo",
+      "english": "I'm trying to publish it"
+    },
+    {
+      "spanish": "Intento administrarlo",
+      "english": "I'm trying to administer it"
+    },
+    {
+      "spanish": "Intento imitarlo",
+      "english": "I'm trying to imitate it"
+    },
+    {
+      "spanish": "Hospital",
+      "english": "Hospital"
+    },
+    {
+      "spanish": "Horrible",
+      "english": "Horrible"
+    },
+    {
+      "spanish": "Habitual",
+      "english": "Habitual"
+    },
+    {
+      "spanish": "Habitualmente",
+      "english": "Habitually"
+    },
+    {
+      "spanish": "Ahora",
+      "english": "Now"
+    },
+    {
+      "spanish": "Voy",
+      "english": "I go / I am going"
+    },
+    {
+      "spanish": "Voy ahora",
+      "english": "I am going now"
+    },
+    {
+      "spanish": "No voy ahora",
+      "english": "I'm not going now"
+    },
+    {
+      "spanish": "Quiero visitarlo",
+      "english": "I want to visit him"
+    },
+    {
+      "spanish": "Quiero visitarlo",
+      "english": "I want to visit it"
+    },
+    {
+      "spanish": "Visible",
+      "english": "Visible"
+    },
+    {
+      "spanish": "Viral",
+      "english": "Viral"
+    },
+    {
+      "spanish": "Virus",
+      "english": "Virus"
+    },
+    {
+      "spanish": "Conveniente",
+      "english": "Convenient"
     }
-  ],
-  "keywords": [
-    { "spanish": "hablo", "english": "I speak" },
-    { "spanish": "hablas", "english": "you speak" },
-    { "spanish": "habla", "english": "he/she speaks" },
-    { "spanish": "hablamos", "english": "we speak" },
-    { "spanish": "hablan", "english": "they speak" }
-  ],
-  "sentences": [
-    { "spanish": "Hablo español.", "english": "I speak Spanish." },
-    { "spanish": "¿Hablas inglés?", "english": "Do you speak English?" },
-    { "spanish": "Ella habla francés.", "english": "She speaks French." },
-    { "spanish": "Hablamos mucho.", "english": "We talk a lot." },
-    { "spanish": "Ellos hablan italiano.", "english": "They speak Italian." }
   ]
 }

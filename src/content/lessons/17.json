@@ -1,47 +1,273 @@
 {
   "number": 17,
-  "title": "Ser vs estar — introduction",
+  "title": "Lesson 17: Colgar, Tomar, Cerrar and the we form of verbs",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/17/"
+    "url": "http://languagetransfertribute.com/lesson-17-colgar-tomar-cerrar-we-form/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Spanish has two 'to be' verbs: ser and estar",
-    "Ser = permanent/essential characteristics: soy, eres, es, somos, son",
-    "Estar = temporary states/locations: estoy, estás, está, estamos, están",
-    "Ser for: identity, profession, origin, time, inherent qualities",
-    "Estar for: location, mood, health, temporary conditions"
+    "We'll carry on building out new verbs and learn the we form of all verbs in the present tense."
   ],
-  "verbs": [
+  "verbs": [],
+  "keywords": [],
+  "sentences": [
     {
-      "spanish": "ser",
-      "english": "to be (permanent)",
-      "forms": ["soy", "eres", "es", "somos", "son"],
-      "note": "Irregular"
+      "spanish": "Querer",
+      "english": "to want"
     },
     {
-      "spanish": "estar",
-      "english": "to be (temporary)",
-      "forms": ["estoy", "estás", "está", "estamos", "están"],
-      "note": "Irregular; first person singular is estoy (not esto)"
+      "spanish": "Quiero",
+      "english": "I want"
+    },
+    {
+      "spanish": "Quiere",
+      "english": "he/she/it/you (formal) want(s)"
+    },
+    {
+      "spanish": "Quieren",
+      "english": "They want"
+    },
+    {
+      "spanish": "Quieres",
+      "english": "You (informal) want"
+    },
+    {
+      "spanish": "¿Qué quieres?",
+      "english": "What do you want"
+    },
+    {
+      "spanish": "Perder",
+      "english": "to lose"
+    },
+    {
+      "spanish": "Pierdo",
+      "english": "I lose"
+    },
+    {
+      "spanish": "Pierde",
+      "english": "he/she/it/you (formal) lose(s)"
+    },
+    {
+      "spanish": "Pierden",
+      "english": "they lose"
+    },
+    {
+      "spanish": "Pierdes",
+      "english": "you (informal) lose"
+    },
+    {
+      "spanish": "Dormir",
+      "english": "to sleep"
+    },
+    {
+      "spanish": "Duermo",
+      "english": "I sleep"
+    },
+    {
+      "spanish": "Me duermo",
+      "english": "I fall asleep"
+    },
+    {
+      "spanish": "Duerme",
+      "english": "He sleeps"
+    },
+    {
+      "spanish": "Duermen",
+      "english": "They sleep"
+    },
+    {
+      "spanish": "Comer",
+      "english": "to eat"
+    },
+    {
+      "spanish": "Como",
+      "english": "I eat"
+    },
+    {
+      "spanish": "Colgar",
+      "english": "to hang"
+    },
+    {
+      "spanish": "Cuelgo",
+      "english": "I hang"
+    },
+    {
+      "spanish": "Cuelga",
+      "english": "He hangs"
+    },
+    {
+      "spanish": "Cuelgan",
+      "english": "They hang"
+    },
+    {
+      "spanish": "Lo Cuelgan",
+      "english": "They hang it"
+    },
+    {
+      "spanish": "Los Cuelgan",
+      "english": "They hang them"
+    },
+    {
+      "spanish": "Los Cuelga",
+      "english": "She hangs them"
+    },
+    {
+      "spanish": "No tomo alcohol",
+      "english": "I don't drink alcohol"
+    },
+    {
+      "spanish": "No tomo azúcar",
+      "english": "I don't take sugar"
+    },
+    {
+      "spanish": "Toma",
+      "english": "he/she/it/you (formal) take(s)"
+    },
+    {
+      "spanish": "Tomas",
+      "english": "you (informal) take"
+    },
+    {
+      "spanish": "¿Qué tomas?",
+      "english": "What are you taking?"
+    },
+    {
+      "spanish": "¿Qué tomas?",
+      "english": "What do you want to drink?"
+    },
+    {
+      "spanish": "Toman",
+      "english": "They drink"
+    },
+    {
+      "spanish": "Beber",
+      "english": "To drink"
+    },
+    {
+      "spanish": "Una Bebida",
+      "english": "A drink"
+    },
+    {
+      "spanish": "La Bebida",
+      "english": "The drink"
+    },
+    {
+      "spanish": "Tomamos",
+      "english": "We take"
+    },
+    {
+      "spanish": "Hablar",
+      "english": "To speak"
+    },
+    {
+      "spanish": "Hablo",
+      "english": "I speak"
+    },
+    {
+      "spanish": "Hablamos",
+      "english": "We speak"
+    },
+    {
+      "spanish": "Encontrar",
+      "english": "To find / encounter"
+    },
+    {
+      "spanish": "Encuentro",
+      "english": "I find / I'm finding"
+    },
+    {
+      "spanish": "Encuentra",
+      "english": "He finds"
+    },
+    {
+      "spanish": "Encuentran",
+      "english": "They find"
+    },
+    {
+      "spanish": "Encuentras",
+      "english": "You (informal) find"
+    },
+    {
+      "spanish": "Encontramos",
+      "english": "We find"
+    },
+    {
+      "spanish": "Mostrar",
+      "english": "To show"
+    },
+    {
+      "spanish": "Muestro",
+      "english": "I show / I'm showing"
+    },
+    {
+      "spanish": "Muestra",
+      "english": "He shows"
+    },
+    {
+      "spanish": "Muestran",
+      "english": "They show"
+    },
+    {
+      "spanish": "Muestras",
+      "english": "You (informal) show"
+    },
+    {
+      "spanish": "Mostramos",
+      "english": "We show"
+    },
+    {
+      "spanish": "Pensar",
+      "english": "To think"
+    },
+    {
+      "spanish": "Pienso",
+      "english": "I think"
+    },
+    {
+      "spanish": "Pienso que sí",
+      "english": "I think so"
+    },
+    {
+      "spanish": "Piensa",
+      "english": "he/she thinks"
+    },
+    {
+      "spanish": "Piensan",
+      "english": "They think"
+    },
+    {
+      "spanish": "Piensas",
+      "english": "You (informal) think"
+    },
+    {
+      "spanish": "¿Qué piensas?",
+      "english": "What do you think?"
+    },
+    {
+      "spanish": "¿Qué piensas hacer?",
+      "english": "What are you thinking of doing?"
+    },
+    {
+      "spanish": "Pensamos",
+      "english": "We think"
+    },
+    {
+      "spanish": "Cerrar",
+      "english": "To close"
+    },
+    {
+      "spanish": "Cierro",
+      "english": "I close"
+    },
+    {
+      "spanish": "Cierra",
+      "english": "he/she/it/you (formal) close(s)"
+    },
+    {
+      "spanish": "Cerramos",
+      "english": "We close"
     }
-  ],
-  "keywords": [
-    { "spanish": "soy", "english": "I am (permanent)" },
-    { "spanish": "eres", "english": "you are (permanent)" },
-    { "spanish": "es", "english": "he/she is (permanent)" },
-    { "spanish": "estoy", "english": "I am (temporary/location)" },
-    { "spanish": "estás", "english": "you are (temporary/location)" },
-    { "spanish": "está", "english": "he/she is (temporary/location)" }
-  ],
-  "sentences": [
-    { "spanish": "Soy profesor.", "english": "I am a teacher." },
-    { "spanish": "Eres de España.", "english": "You are from Spain." },
-    { "spanish": "Es alto.", "english": "He is tall." },
-    { "spanish": "Estoy en casa.", "english": "I am at home." },
-    { "spanish": "¿Cómo estás?", "english": "How are you?" },
-    { "spanish": "Está cansado.", "english": "He is tired." },
-    { "spanish": "Somos amigos.", "english": "We are friends." }
   ]
 }

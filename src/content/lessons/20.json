@@ -1,42 +1,113 @@
 {
   "number": 20,
-  "title": "More gustar — nos gusta, les gusta",
+  "title": "Lesson 20: Using the present tense to describe future events",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/20/"
+    "url": "http://languagetransfertribute.com/lesson-20-using-present-tense-for-future-events/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Nos gusta = we like it",
-    "Les gusta = they/you plural like it",
-    "Gustar + infinitive = to like doing something",
-    "A + mí/ti/él/etc = clarifies or emphasizes who likes it",
-    "A mí me gusta = I like (emphatic or clarifying)"
+    "We've already covered some of this in an earlier lesson but we're going to expand it now that we know new verb forms and words."
   ],
-  "verbs": [
-    {
-      "spanish": "gustar",
-      "english": "to like / to please",
-      "forms": ["gusta", "gustan"]
-    }
-  ],
-  "keywords": [
-    { "spanish": "nos gusta", "english": "we like (it)" },
-    { "spanish": "les gusta", "english": "they/you (plural) like (it)" },
-    { "spanish": "a mí", "english": "me (clarifying)" },
-    { "spanish": "a ti", "english": "you (clarifying)" },
-    { "spanish": "a él / a ella", "english": "him / her (clarifying)" },
-    { "spanish": "también", "english": "also" },
-    { "spanish": "tampoco", "english": "neither / either (negation)" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "Nos gusta viajar.", "english": "We like to travel." },
-    { "spanish": "Les gusta bailar.", "english": "They like to dance." },
-    { "spanish": "¿Les gusta el cine?", "english": "Do you (plural) like cinema?" },
-    { "spanish": "A mí me gusta el chocolate.", "english": "I like chocolate." },
-    { "spanish": "A ella le gusta leer.", "english": "She likes to read." },
-    { "spanish": "A nosotros nos gusta nadar.", "english": "We like to swim." },
-    { "spanish": "A mí también.", "english": "Me too." },
-    { "spanish": "A mí no me gusta el café.", "english": "I don't like coffee." }
+    {
+      "spanish": "Mañana",
+      "english": "tomorrow"
+    },
+    {
+      "spanish": "Más tarde",
+      "english": "later"
+    },
+    {
+      "spanish": "Esta noche",
+      "english": "tonight"
+    },
+    {
+      "spanish": "Pronto",
+      "english": "soon"
+    },
+    {
+      "spanish": "Ve",
+      "english": "He sees"
+    },
+    {
+      "spanish": "Ven",
+      "english": "They see"
+    },
+    {
+      "spanish": "Ves",
+      "english": "You (informal) see"
+    },
+    {
+      "spanish": "Vemos",
+      "english": "We see"
+    },
+    {
+      "spanish": "Veo",
+      "english": "I see"
+    },
+    {
+      "spanish": "La veo más tarde",
+      "english": "I'm seeing her later"
+    },
+    {
+      "spanish": "La veo esta noche",
+      "english": "I'm seeing her tonight"
+    },
+    {
+      "spanish": "La vemos pronto",
+      "english": "We're seeing her soon"
+    },
+    {
+      "spanish": "Las vemos pronto",
+      "english": "We're seeing them (females) soon"
+    },
+    {
+      "spanish": "Las ve pronto",
+      "english": "He is seeing them (females) soon"
+    },
+    {
+      "spanish": "¿Las ves pronto?",
+      "english": "Are you seeing them (females) soon?"
+    },
+    {
+      "spanish": "¿No las ves pronto?",
+      "english": "Aren't you seeing them (females) soon?"
+    },
+    {
+      "spanish": "¿Por qué no las ves pronto?",
+      "english": "Why aren't you seeing them (females) soon?"
+    },
+    {
+      "spanish": "Vamos a verla",
+      "english": "We are going to see her"
+    },
+    {
+      "spanish": "¿Vas a verlo pronto?",
+      "english": "Are you going to see him soon?"
+    },
+    {
+      "spanish": "¿Vas a vernos pronto?",
+      "english": "Are you going to see us soon?"
+    },
+    {
+      "spanish": "¿Nos vas a ver pronto?",
+      "english": "Are you going to see us soon?"
+    },
+    {
+      "spanish": "La semana que viene",
+      "english": "Next week"
+    },
+    {
+      "spanish": "Hablamos la semana que viene",
+      "english": "Let's speak next week"
+    },
+    {
+      "spanish": "Nos vemos la semana que viene",
+      "english": "Let's meet next week"
+    }
   ]
 }

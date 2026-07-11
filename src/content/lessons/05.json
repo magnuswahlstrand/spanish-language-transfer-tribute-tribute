@@ -1,35 +1,129 @@
 {
   "number": 5,
-  "title": "Usted and nationalities",
+  "title": "Lesson Five: Starting to use the Thinking Method",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/5/"
+    "url": "http://languagetransfertribute.com/lesson-five-starting-to-use-thinking-method/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Usted (Ud.) = you (formal, singular) — uses third person verb form",
-    "Tú = you (informal) — use with friends, family, people your age",
-    "Usted = you (formal) — use with strangers, elders, authority figures",
-    "Nationalities are not capitalised in Spanish"
+    "How to know what you don't know by following the rules we've learned so far",
+    "Illustrate (or ilustrar) both contain the word 'lus'. Luz (with a z) in Spanish means light so you can see the root of the verb illustrate comes from the idea of putting light on something to make it clearer.",
+    "So there you go. Now you know the Spanish word for light!",
+    "Experimentar also means to experience and that's a great concept. We learn by experimenting, we learn by experience.",
+    "So \"I want to experience it\" is Quiero experimentarlo"
   ],
-  "verbs": [
-    {
-      "spanish": "ser",
-      "english": "to be",
-      "forms": ["soy", "eres", "es", "somos", "son"]
-    }
-  ],
-  "keywords": [
-    { "spanish": "usted", "english": "you (formal)" },
-    { "spanish": "tú", "english": "you (informal)" },
-    { "spanish": "español / española", "english": "Spanish" },
-    { "spanish": "inglés / inglesa", "english": "English" },
-    { "spanish": "americano / americana", "english": "American" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "¿Es usted español?", "english": "Are you Spanish? (formal)" },
-    { "spanish": "Soy inglés.", "english": "I am English." },
-    { "spanish": "Ella es americana.", "english": "She is American." },
-    { "spanish": "Somos de México.", "english": "We are from Mexico." }
+    {
+      "spanish": "Quiero celebrar",
+      "english": "I want to celebrate"
+    },
+    {
+      "spanish": "Quiero ilustrar",
+      "english": "I want to illustrate"
+    },
+    {
+      "spanish": "Quiero informarme",
+      "english": "I want to find out / inform myself"
+    },
+    {
+      "spanish": "Te",
+      "english": "You / Yourself"
+    },
+    {
+      "spanish": "No quiero obligarte",
+      "english": "I don't want to oblige you"
+    },
+    {
+      "spanish": "No quiero provocarte",
+      "english": "I don't want to provoke you"
+    },
+    {
+      "spanish": "Quiero cancelarlo",
+      "english": "I want to cancel it"
+    },
+    {
+      "spanish": "Regular",
+      "english": "To regulate"
+    },
+    {
+      "spanish": "Real",
+      "english": "Real"
+    },
+    {
+      "spanish": "Arroz",
+      "english": "Rice"
+    },
+    {
+      "spanish": "Pero",
+      "english": "But"
+    },
+    {
+      "spanish": "Perro",
+      "english": "Dog"
+    },
+    {
+      "spanish": "Quiero salvarlo",
+      "english": "I want to save him"
+    },
+    {
+      "spanish": "Situación",
+      "english": "Situation"
+    },
+    {
+      "spanish": "Situar",
+      "english": "To Situate (to position)"
+    },
+    {
+      "spanish": "Participación",
+      "english": "Participation"
+    },
+    {
+      "spanish": "Participar",
+      "english": "To participate"
+    },
+    {
+      "spanish": "Creación",
+      "english": "Creation"
+    },
+    {
+      "spanish": "Crear",
+      "english": "To create"
+    },
+    {
+      "spanish": "Experimentación",
+      "english": "Experimentation"
+    },
+    {
+      "spanish": "Experimentar",
+      "english": "To experiment"
+    },
+    {
+      "spanish": "Diferencia",
+      "english": "Difference"
+    },
+    {
+      "spanish": "Influencia",
+      "english": "Influence"
+    },
+    {
+      "spanish": "Existencia",
+      "english": "Existence"
+    },
+    {
+      "spanish": "Consistencia",
+      "english": "Consistence"
+    },
+    {
+      "spanish": "Inconsistencia",
+      "english": "Inconsistence"
+    },
+    {
+      "spanish": "Incongruencia",
+      "english": "Incongruence"
+    }
   ]
 }

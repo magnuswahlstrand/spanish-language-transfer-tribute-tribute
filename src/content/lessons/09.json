@@ -1,29 +1,85 @@
 {
   "number": 9,
-  "title": "Plurals — los and las",
+  "title": "Lesson Nine: Saber, si and long sentences",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/9/"
+    "url": "http://languagetransfertribute.com/lesson-nine-saber-si-and-long-sentences/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Plural of el = los, plural of la = las",
-    "Words ending in a vowel add -s: libro → libros",
-    "Words ending in a consonant add -es: ciudad → ciudades",
-    "Adjectives must agree in number and gender with the noun"
+    "In this lesson you'll start to see how you can already know how to put together long and complex sentences'"
   ],
   "verbs": [],
-  "keywords": [
-    { "spanish": "los", "english": "the (masculine plural)" },
-    { "spanish": "las", "english": "the (feminine plural)" },
-    { "spanish": "libros", "english": "books" },
-    { "spanish": "ciudades", "english": "cities" },
-    { "spanish": "casas", "english": "houses" }
-  ],
+  "keywords": [],
   "sentences": [
-    { "spanish": "Los libros son interesantes.", "english": "The books are interesting." },
-    { "spanish": "Las casas son blancas.", "english": "The houses are white." },
-    { "spanish": "Las ciudades son grandes.", "english": "The cities are big." },
-    { "spanish": "Tengo dos perros.", "english": "I have two dogs." }
+    {
+      "spanish": "Quiero saber",
+      "english": "I want to know"
+    },
+    {
+      "spanish": "No quiero saber",
+      "english": "I don't want to know"
+    },
+    {
+      "spanish": "Quiere saber",
+      "english": "He/She wants to know"
+    },
+    {
+      "spanish": "No quiere saber",
+      "english": "He/She doesn't want to know"
+    },
+    {
+      "spanish": "Por qué no quiere saber",
+      "english": "Why doesn't He/She want to know"
+    },
+    {
+      "spanish": "Quiero saber por qué no quiere saber",
+      "english": "I want to know why he doesn't want to know"
+    },
+    {
+      "spanish": "Quiero saber si quiere saber",
+      "english": "I want to know if you (formal) want to know"
+    },
+    {
+      "spanish": "Quiero saber si quiere saber",
+      "english": "I want to know if he/she wants to know"
+    },
+    {
+      "spanish": "No quiero imaginarlo",
+      "english": "I don't want to imagine it"
+    },
+    {
+      "spanish": "Quiero saber por qué no quiere venir a la casa a visitarme",
+      "english": "I want to know why she doesn't want to come to the house to visit me"
+    },
+    {
+      "spanish": "Voy a invitarlo pero no voy a invitarlo ahora",
+      "english": "I'm going to invite him but I'm not going to invite him now"
+    },
+    {
+      "spanish": "Quiero iniciarlo ahora",
+      "english": "I want to start it now"
+    },
+    {
+      "spanish": "Quiere iniciarlo ahora",
+      "english": "He/She wants to start it now"
+    },
+    {
+      "spanish": "Por qué no quiere informarme",
+      "english": "Why doesn't he/she want to inform me"
+    },
+    {
+      "spanish": "No intento justificarme",
+      "english": "I'm not trying to justify myself"
+    },
+    {
+      "spanish": "No intento justificarme pero quiero explicarte algo",
+      "english": "I'm not trying to justify myself but I want to explain something to you"
+    },
+    {
+      "spanish": "Inexplicable",
+      "english": "Inexplicable"
+    }
   ]
 }

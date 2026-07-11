@@ -1,40 +1,169 @@
 {
   "number": 11,
-  "title": "Tener — to have",
+  "title": "Lesson Eleven: Verb groups, ar endings and it",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/11/"
+    "url": "http://languagetransfertribute.com/lesson-eleven-verb-groups-ar-endings-and-it/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Tener (to have) is an irregular verb with stem changes",
-    "Tengo = I have (not 'yo tengo' in normal speech unless emphasizing)",
-    "Tienes = you have (singular informal)",
-    "Tiene = he/she/you formal has",
-    "Use tener to express age: Tengo 30 años — I am 30 years old"
+    "In this lesson we'll see the three main verb groups, how to conjugate verbs ending ar and where to put it in a sentence"
   ],
-  "verbs": [
-    {
-      "spanish": "tener",
-      "english": "to have",
-      "forms": ["tengo", "tienes", "tiene"],
-      "note": "Irregular; e→ie stem change in present tense"
-    }
-  ],
-  "keywords": [
-    { "spanish": "tengo", "english": "I have" },
-    { "spanish": "tienes", "english": "you have (singular)" },
-    { "spanish": "tiene", "english": "he/she/you formal has" },
-    { "spanish": "años", "english": "years" },
-    { "spanish": "edad", "english": "age" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "Tengo un coche.", "english": "I have a car." },
-    { "spanish": "Tienes un libro.", "english": "You have a book." },
-    { "spanish": "Él tiene una casa.", "english": "He has a house." },
-    { "spanish": "Ella tiene un perro.", "english": "She has a dog." },
-    { "spanish": "¿Cuántos años tienes?", "english": "How old are you?" },
-    { "spanish": "Tengo treinta años.", "english": "I am 30 years old." },
-    { "spanish": "¿Tiene usted una pregunta?", "english": "Do you have a question?" }
+    {
+      "spanish": "Tolerar",
+      "english": "To tolerate"
+    },
+    {
+      "spanish": "Tolero",
+      "english": "I tolerate"
+    },
+    {
+      "spanish": "Twittear",
+      "english": "To tweet"
+    },
+    {
+      "spanish": "Facebookear",
+      "english": "To Facebook"
+    },
+    {
+      "spanish": "Googlear",
+      "english": "To Google"
+    },
+    {
+      "spanish": "Iliminar",
+      "english": "To illiminate"
+    },
+    {
+      "spanish": "Ilimino",
+      "english": "I illiminate"
+    },
+    {
+      "spanish": "Ilimina",
+      "english": "he/she/it/you (formal) illiminates"
+    },
+    {
+      "spanish": "Durar",
+      "english": "To last"
+    },
+    {
+      "spanish": "Dura mucho",
+      "english": "It lasts a long time"
+    },
+    {
+      "spanish": "No dura mucho",
+      "english": "It doesn't last long"
+    },
+    {
+      "spanish": "Demostración",
+      "english": "Demonstration"
+    },
+    {
+      "spanish": "Exageración",
+      "english": "Exageration"
+    },
+    {
+      "spanish": "Exagerar",
+      "english": "To exagerate"
+    },
+    {
+      "spanish": "Exagero",
+      "english": "I exagerate"
+    },
+    {
+      "spanish": "Exagera",
+      "english": "He/she/it/you (formal) exagerates"
+    },
+    {
+      "spanish": "No exagera",
+      "english": "He/she/it/you (formal) isn't exagerating"
+    },
+    {
+      "spanish": "Masticar",
+      "english": "To chew"
+    },
+    {
+      "spanish": "Morder",
+      "english": "To bite"
+    },
+    {
+      "spanish": "Mastico",
+      "english": "I chew"
+    },
+    {
+      "spanish": "Mastica",
+      "english": "he/she/it/you (formal) chew"
+    },
+    {
+      "spanish": "Colaboración",
+      "english": "Collaboration"
+    },
+    {
+      "spanish": "Colaborar",
+      "english": "To collaborate"
+    },
+    {
+      "spanish": "Colaboro",
+      "english": "I colaborate / I am collaborating"
+    },
+    {
+      "spanish": "Colabora",
+      "english": "he/she/it/you (formal) colaborates"
+    },
+    {
+      "spanish": "Colaboran",
+      "english": "they/you (plural) colaborate"
+    },
+    {
+      "spanish": "Hablar",
+      "english": "To speak"
+    },
+    {
+      "spanish": "Hablo",
+      "english": "I speak / I am speaking"
+    },
+    {
+      "spanish": "Habla",
+      "english": "he/she/it/you (formal) speak"
+    },
+    {
+      "spanish": "No hablan con Pablo",
+      "english": "They're not speaking with Pablo"
+    },
+    {
+      "spanish": "Quiero hablar",
+      "english": "I want to speak"
+    },
+    {
+      "spanish": "Voy a hablar",
+      "english": "I'm going to speak"
+    },
+    {
+      "spanish": "Hablas",
+      "english": "You (informal) speak / you are speaking"
+    },
+    {
+      "spanish": "Lo quiero",
+      "english": "I want it"
+    },
+    {
+      "spanish": "Lo quiero ver",
+      "english": "I want to see it"
+    },
+    {
+      "spanish": "Quiero verlo",
+      "english": "I want to see it"
+    },
+    {
+      "spanish": "Debo invitarlo",
+      "english": "I must invite him"
+    },
+    {
+      "spanish": "Lo debo invitar",
+      "english": "I must invite him"
+    }
   ]
 }

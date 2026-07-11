@@ -1,45 +1,237 @@
 {
   "number": 12,
-  "title": "More tener — we have, they have",
+  "title": "Lesson 12: How to know which words are feminine and how verbs ending 'er' and 'ir' work",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/12/"
+    "url": "http://languagetransfertribute.com/lesson-12-feminine-words-and-er-ir-verbs/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Tenemos = we have",
-    "Tienen = they have / you plural have",
-    "Tener expressions: use tener + noun for feelings/states",
-    "Tener hambre = to be hungry (literally 'to have hunger')",
-    "Tener sed = to be thirsty",
-    "Tener frío = to be cold",
-    "Tener calor = to be hot"
+    "In this lesson we'll see the three main verb groups, how to conjugate verbs ending ir and how to know if a word is feminine or masculine",
+    "When I first started learning Spanish all these little words - 'lo', 'me', 'no' - used to confuse the hell out of me until I used the following method.",
+    "Jumping far ahead here (but it helps!) the Spanish for \"I gave it to myself\" is 'Me lo dí' which sounds like the English word \"Melody\" so now we know the order of these small words.",
+    "Next remember that a \"melody\" should not be broken so if there is a 'no' involved it will have to be outside and remember it as \"No melody\".",
+    "\"I gave it to myself\" might be a strange one but we use it sometimes - \"I bought it for her birthday but she didn't invite me so I gave it to myself!\"."
   ],
-  "verbs": [
-    {
-      "spanish": "tener",
-      "english": "to have",
-      "forms": ["tengo", "tienes", "tiene", "tenemos", "tienen"],
-      "note": "Complete present tense: e→ie, nosotros regular"
-    }
-  ],
-  "keywords": [
-    { "spanish": "tenemos", "english": "we have" },
-    { "spanish": "tienen", "english": "they have / you (plural) have" },
-    { "spanish": "hambre", "english": "hunger" },
-    { "spanish": "sed", "english": "thirst" },
-    { "spanish": "frío", "english": "cold" },
-    { "spanish": "calor", "english": "heat" },
-    { "spanish": "miedo", "english": "fear" },
-    { "spanish": "prisa", "english": "hurry / rush" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "Tenemos hambre.", "english": "We are hungry." },
-    { "spanish": "Tienen sed.", "english": "They are thirsty." },
-    { "spanish": "Tengo frío.", "english": "I am cold." },
-    { "spanish": "¿Tienes calor?", "english": "Are you hot?" },
-    { "spanish": "El niño tiene miedo.", "english": "The boy is scared." },
-    { "spanish": "Tenemos prisa.", "english": "We are in a hurry." },
-    { "spanish": "Ellos tienen razón.", "english": "They are right." }
+    {
+      "spanish": "Contaminar",
+      "english": "To contaminate"
+    },
+    {
+      "spanish": "Contamina",
+      "english": "It's contaminating"
+    },
+    {
+      "spanish": "Contaminan",
+      "english": "The contaminate"
+    },
+    {
+      "spanish": "Contaminas",
+      "english": "You (formal) contaminate"
+    },
+    {
+      "spanish": "Vender",
+      "english": "To sell"
+    },
+    {
+      "spanish": "Vendo",
+      "english": "I sell / I'm selling"
+    },
+    {
+      "spanish": "Lo vendo",
+      "english": "I'm selling it"
+    },
+    {
+      "spanish": "Los vendo",
+      "english": "I'm selling them"
+    },
+    {
+      "spanish": "Las vendo",
+      "english": "I'm selling them"
+    },
+    {
+      "spanish": "Vendo las casas",
+      "english": "I'm selling the houses"
+    },
+    {
+      "spanish": "La casa",
+      "english": "The house"
+    },
+    {
+      "spanish": "La administración",
+      "english": "The administration"
+    },
+    {
+      "spanish": "La opinión",
+      "english": "The opinion"
+    },
+    {
+      "spanish": "La asosiación",
+      "english": "The association"
+    },
+    {
+      "spanish": "La celebración",
+      "english": "The celebration"
+    },
+    {
+      "spanish": "Diversidad",
+      "english": "Diversity"
+    },
+    {
+      "spanish": "La diversidad",
+      "english": "The diversity"
+    },
+    {
+      "spanish": "La nacionalidad",
+      "english": "The nationality"
+    },
+    {
+      "spanish": "La creatividad",
+      "english": "The creativity"
+    },
+    {
+      "spanish": "La electricidad",
+      "english": "The electricity"
+    },
+    {
+      "spanish": "Electrico",
+      "english": "Electric"
+    },
+    {
+      "spanish": "Generosidad",
+      "english": "Generosity"
+    },
+    {
+      "spanish": "Generoso",
+      "english": "Generous"
+    },
+    {
+      "spanish": "Generosa",
+      "english": "Generous"
+    },
+    {
+      "spanish": "Generosos",
+      "english": "Generous (them, male)"
+    },
+    {
+      "spanish": "Generosas",
+      "english": "Generous (them, female)"
+    },
+    {
+      "spanish": "Comunidad",
+      "english": "Commnunity"
+    },
+    {
+      "spanish": "La comunidad",
+      "english": "The commnunity"
+    },
+    {
+      "spanish": "Común",
+      "english": "Common"
+    },
+    {
+      "spanish": "Oportunidad",
+      "english": "Opportunity"
+    },
+    {
+      "spanish": "Oportuno",
+      "english": "Opportune (masculine word)"
+    },
+    {
+      "spanish": "Oportuna",
+      "english": "Opportune (feminine word)"
+    },
+    {
+      "spanish": "Claridad",
+      "english": "Clarity"
+    },
+    {
+      "spanish": "Claro",
+      "english": "Clear"
+    },
+    {
+      "spanish": "Personalidad",
+      "english": "Personality"
+    },
+    {
+      "spanish": "Persona",
+      "english": "Person"
+    },
+    {
+      "spanish": "Sinceridad",
+      "english": "Sincerity"
+    },
+    {
+      "spanish": "Sincero",
+      "english": "Sincere (masuline word)"
+    },
+    {
+      "spanish": "Quiero vender",
+      "english": "I want to sell"
+    },
+    {
+      "spanish": "Quiero vender lo",
+      "english": "I want to sell it"
+    },
+    {
+      "spanish": "Vende",
+      "english": "he/she/it/you (formal) sells"
+    },
+    {
+      "spanish": "Lo vende",
+      "english": "he/she/it/you (formal) sells it"
+    },
+    {
+      "spanish": "Vende algo",
+      "english": "he/she/it/you (formal) sells something"
+    },
+    {
+      "spanish": "Venden",
+      "english": "they/you (plural) sell"
+    },
+    {
+      "spanish": "No venden",
+      "english": "they/you (plural) are not selling"
+    },
+    {
+      "spanish": "No lo venden",
+      "english": "they/you (plural) are not selling it"
+    },
+    {
+      "spanish": "Por qué no lo venden",
+      "english": "Why aren't they/you (plural) selling it"
+    },
+    {
+      "spanish": "Me lo venden",
+      "english": "they/you (plural) are selling it to me"
+    },
+    {
+      "spanish": "No me lo venden",
+      "english": "they/you (plural) aren't selling it to me"
+    },
+    {
+      "spanish": "¿Por qué no me lo venden?",
+      "english": "Why aren't they/you (plural) selling it to me"
+    },
+    {
+      "spanish": "Nos venden algo",
+      "english": "they/you (plural) are selling us something"
+    },
+    {
+      "spanish": "Nos lo venden",
+      "english": "they/you (plural) are selling it to us"
+    },
+    {
+      "spanish": "No nos lo venden",
+      "english": "they/you (plural) are not selling it to us"
+    },
+    {
+      "spanish": "¿Por qué no nos lo venden?",
+      "english": "Why aren't they/you (plural) selling it to us?"
+    }
   ]
 }

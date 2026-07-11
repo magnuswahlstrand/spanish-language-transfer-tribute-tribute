@@ -1,41 +1,150 @@
 {
   "number": 16,
-  "title": "Ir — to go",
+  "title": "Lesson 16: Empezar, more verb softening, dormir, encontrar and mostrar",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/16/"
+    "url": "http://languagetransfertribute.com/lesson-16-empezar-more-verb-softening-dormir-encontrar-mostrar/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Ir (to go) is highly irregular: voy, vas, va, vamos, van",
-    "Ir a + infinitive = near future ('going to do something')",
-    "A + el = al (contraction)",
-    "Common: ¿Adónde vas? = Where are you going?"
+    "Here we'll cover more verbs that change slightly to soften themselves when comparing the 'to form' and I/you/he/she/it/they forms.",
+    "Just as another way to remember 'Pueblo' one of the most popular tourist destinations in Mexico is the city of 'Puebla' (look it up!) so there we have a city that is almost spelt like \"village\" ... well it probably was once!"
   ],
-  "verbs": [
-    {
-      "spanish": "ir",
-      "english": "to go",
-      "forms": ["voy", "vas", "va", "vamos", "van"],
-      "note": "Irregular — completely different from infinitive pattern"
-    }
-  ],
-  "keywords": [
-    { "spanish": "voy", "english": "I go" },
-    { "spanish": "vas", "english": "you go" },
-    { "spanish": "va", "english": "he/she goes" },
-    { "spanish": "vamos", "english": "we go" },
-    { "spanish": "van", "english": "they go" },
-    { "spanish": "al", "english": "to the (a + el)" },
-    { "spanish": "adónde", "english": "where (to)" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "Voy al mercado.", "english": "I go to the market." },
-    { "spanish": "¿Adónde vas?", "english": "Where are you going?" },
-    { "spanish": "Él va a la escuela.", "english": "He goes to school." },
-    { "spanish": "Vamos a casa.", "english": "We go home." },
-    { "spanish": "Van al cine.", "english": "They go to the cinema." },
-    { "spanish": "Voy a comer.", "english": "I am going to eat." },
-    { "spanish": "¿Vas a estudiar?", "english": "Are you going to study?" }
+    {
+      "spanish": "Empezar",
+      "english": "to start"
+    },
+    {
+      "spanish": "Empiezo",
+      "english": "I start"
+    },
+    {
+      "spanish": "Empieza",
+      "english": "He starts"
+    },
+    {
+      "spanish": "Empiezan",
+      "english": "They start"
+    },
+    {
+      "spanish": "Empiezas",
+      "english": "You start"
+    },
+    {
+      "spanish": "¿Cuándo empiezas?",
+      "english": "When are you starting?"
+    },
+    {
+      "spanish": "Comenzar",
+      "english": "to commence / to start"
+    },
+    {
+      "spanish": "Poder",
+      "english": "to be able to"
+    },
+    {
+      "spanish": "El poder",
+      "english": "the power"
+    },
+    {
+      "spanish": "Puerto",
+      "english": "Port"
+    },
+    {
+      "spanish": "Puerto Rico",
+      "english": "Rich Port"
+    },
+    {
+      "spanish": "Fuerza",
+      "english": "Force"
+    },
+    {
+      "spanish": "Escuela",
+      "english": "School"
+    },
+    {
+      "spanish": "Cuerpo",
+      "english": "Corpse (body)"
+    },
+    {
+      "spanish": "Nuevo",
+      "english": "New"
+    },
+    {
+      "spanish": "Pueblo",
+      "english": "A people / village"
+    },
+    {
+      "spanish": "La muerte",
+      "english": "The death"
+    },
+    {
+      "spanish": "Muerto",
+      "english": "Dead"
+    },
+    {
+      "spanish": "Muerto",
+      "english": "Dead (for a male singular word)"
+    },
+    {
+      "spanish": "Muerta",
+      "english": "Dead (for a female singular word)"
+    },
+    {
+      "spanish": "Muertos",
+      "english": "Dead (for a male plural word)"
+    },
+    {
+      "spanish": "Muertas",
+      "english": "Dead (for a male plural word)"
+    },
+    {
+      "spanish": "Dormir",
+      "english": "to sleep"
+    },
+    {
+      "spanish": "Duermo",
+      "english": "I sleep"
+    },
+    {
+      "spanish": "Me duermo",
+      "english": "I fall asleep"
+    },
+    {
+      "spanish": "Duerme",
+      "english": "He sleeps"
+    },
+    {
+      "spanish": "Duermen",
+      "english": "They sleep"
+    },
+    {
+      "spanish": "Un encuentro",
+      "english": "An encounter"
+    },
+    {
+      "spanish": "Encuentro",
+      "english": "I encounter / find"
+    },
+    {
+      "spanish": "Mostrar",
+      "english": "To show"
+    },
+    {
+      "spanish": "Muestro",
+      "english": "I show"
+    },
+    {
+      "spanish": "Muestra",
+      "english": "He shows"
+    },
+    {
+      "spanish": "Una muestra",
+      "english": "A sample"
+    }
   ]
 }

@@ -1,37 +1,137 @@
 {
   "number": 3,
-  "title": "Es and Un/Una — is and a/an",
+  "title": "Lesson Three: Similar Words - words ending 'ant', 'ent', 'ably', 'ibly'",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/3/"
+    "url": "http://languagetransfertribute.com/lesson-three-similar-words-words-ending-ant-ent-ably-ibly/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Es = is (third person singular of ser)",
-    "Un = a/an (masculine), Una = a/an (feminine)",
-    "Word order is flexible: 'Es un libro' = 'It is a book'",
-    "You can ask: ¿Qué es? = What is it?"
+    "Learn hundreds more Spanish words instantly simply by understanding a few more simple rules for English words that end 'ant', 'ent', 'ably' and 'ibly'!"
   ],
-  "verbs": [
-    {
-      "spanish": "ser",
-      "english": "to be",
-      "forms": ["es"],
-      "note": "es = he/she/it is"
-    }
-  ],
-  "keywords": [
-    { "spanish": "es", "english": "is" },
-    { "spanish": "un", "english": "a/an (masculine)" },
-    { "spanish": "una", "english": "a/an (feminine)" },
-    { "spanish": "qué", "english": "what" },
-    { "spanish": "libro", "english": "book" },
-    { "spanish": "casa", "english": "house" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "Es un libro.", "english": "It is a book." },
-    { "spanish": "Es una casa.", "english": "It is a house." },
-    { "spanish": "¿Qué es?", "english": "What is it?" },
-    { "spanish": "Es un problema.", "english": "It is a problem." }
+    {
+      "spanish": "Es importante",
+      "english": "It's important"
+    },
+    {
+      "spanish": "No es importante",
+      "english": "It's not important"
+    },
+    {
+      "spanish": "Diferente",
+      "english": "Different"
+    },
+    {
+      "spanish": "No es diferente",
+      "english": "It's not different"
+    },
+    {
+      "spanish": "Constante",
+      "english": "Constant"
+    },
+    {
+      "spanish": "Es constante",
+      "english": "It's constant"
+    },
+    {
+      "spanish": "Constantemente",
+      "english": "Constantly"
+    },
+    {
+      "spanish": "Urgente",
+      "english": "Urgent"
+    },
+    {
+      "spanish": "Urgentemente",
+      "english": "Urgently"
+    },
+    {
+      "spanish": "Legalmente",
+      "english": "Legally"
+    },
+    {
+      "spanish": "Ilegalmente",
+      "english": "Illegally"
+    },
+    {
+      "spanish": "Real",
+      "english": "Real"
+    },
+    {
+      "spanish": "Realmente",
+      "english": "Really"
+    },
+    {
+      "spanish": "Normalmente",
+      "english": "Normally"
+    },
+    {
+      "spanish": "Normalmente es importante",
+      "english": "Normally it's important"
+    },
+    {
+      "spanish": "Global",
+      "english": "Global"
+    },
+    {
+      "spanish": "Globalmente",
+      "english": "Globally"
+    },
+    {
+      "spanish": "Argentina",
+      "english": "Argentina"
+    },
+    {
+      "spanish": "General",
+      "english": "General"
+    },
+    {
+      "spanish": "Generalmente",
+      "english": "Generally"
+    },
+    {
+      "spanish": "Original",
+      "english": "Original"
+    },
+    {
+      "spanish": "Originalmente",
+      "english": "Originally"
+    },
+    {
+      "spanish": "Digital",
+      "english": "Digital"
+    },
+    {
+      "spanish": "Naturalmente",
+      "english": "Naturally"
+    },
+    {
+      "spanish": "Naturalmente es original",
+      "english": "Naturally it's original"
+    },
+    {
+      "spanish": "Posible",
+      "english": "Possible"
+    },
+    {
+      "spanish": "Probable",
+      "english": "Probable"
+    },
+    {
+      "spanish": "Probablemente",
+      "english": "Probably"
+    },
+    {
+      "spanish": "Posiblemente es original",
+      "english": "Possibly it's original"
+    },
+    {
+      "spanish": "Flexible",
+      "english": "Flexible"
+    }
   ]
 }

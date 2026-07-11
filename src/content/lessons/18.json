@@ -1,35 +1,121 @@
 {
   "number": 18,
-  "title": "Ser vs estar — location and description",
+  "title": "Lesson 18: The we form for 'er' and 'ir' verbs",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/18/"
+    "url": "http://languagetransfertribute.com/lesson-18-we-form-for-er-ir-verbs/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Estar is always used for location (with few exceptions)",
-    "Ser for descriptions of inherent qualities",
-    "Estar for conditions that can change",
-    "Same adjective can change meaning: ser listo (to be clever) vs estar listo (to be ready)",
-    "More prepositions of location: en, cerca de, lejos de, al lado de"
+    "Here we'll cover how to say 'we' with verbs that end 'er' or 'ir'"
   ],
   "verbs": [],
-  "keywords": [
-    { "spanish": "estamos", "english": "we are (location/temporary)" },
-    { "spanish": "están", "english": "they are (location/temporary)" },
-    { "spanish": "cerca de", "english": "near / close to" },
-    { "spanish": "lejos de", "english": "far from" },
-    { "spanish": "al lado de", "english": "next to" },
-    { "spanish": "listo / lista", "english": "clever (with ser); ready (with estar)" },
-    { "spanish": "aburrido", "english": "boring (with ser); bored (with estar)" }
-  ],
+  "keywords": [],
   "sentences": [
-    { "spanish": "El banco está cerca de aquí.", "english": "The bank is near here." },
-    { "spanish": "Madrid está lejos de Barcelona.", "english": "Madrid is far from Barcelona." },
-    { "spanish": "Somos de Colombia.", "english": "We are from Colombia." },
-    { "spanish": "¿Dónde está el hotel?", "english": "Where is the hotel?" },
-    { "spanish": "Ella es muy inteligente.", "english": "She is very intelligent." },
-    { "spanish": "El niño está aburrido.", "english": "The child is bored." },
-    { "spanish": "La película es aburrida.", "english": "The movie is boring." }
+    {
+      "spanish": "Preferir",
+      "english": "to prefer"
+    },
+    {
+      "spanish": "Prefiero",
+      "english": "I prefer"
+    },
+    {
+      "spanish": "Prefiere",
+      "english": "he/she/it/you (formal) prefer(s)"
+    },
+    {
+      "spanish": "Prefieren",
+      "english": "They prefer"
+    },
+    {
+      "spanish": "Preferimos",
+      "english": "We prefer"
+    },
+    {
+      "spanish": "Venir",
+      "english": "To come"
+    },
+    {
+      "spanish": "Venimos",
+      "english": "We come / we are coming"
+    },
+    {
+      "spanish": "Vivir",
+      "english": "To live"
+    },
+    {
+      "spanish": "Vivo",
+      "english": "I live"
+    },
+    {
+      "spanish": "Vivo aquí",
+      "english": "I live here"
+    },
+    {
+      "spanish": "No vivo aquí",
+      "english": "I don't live here"
+    },
+    {
+      "spanish": "No vivo aquí pero él vive aquí",
+      "english": "I don't live here but he lives here"
+    },
+    {
+      "spanish": "¿Dónde viven?",
+      "english": "Where do they live?"
+    },
+    {
+      "spanish": "Quiero saber dónde viven",
+      "english": "I want to know where they live"
+    },
+    {
+      "spanish": "Vivimos",
+      "english": "We live"
+    },
+    {
+      "spanish": "Entender",
+      "english": "To understand"
+    },
+    {
+      "spanish": "Entiendo",
+      "english": "I understand"
+    },
+    {
+      "spanish": "Entiende",
+      "english": "He understands"
+    },
+    {
+      "spanish": "No entiende",
+      "english": "He doesn't understand"
+    },
+    {
+      "spanish": "¿Por qué no entiende?",
+      "english": "Why doesn't he understand"
+    },
+    {
+      "spanish": "Quiero saber por qué no entiende",
+      "english": "I want to know why he doesn't understand"
+    },
+    {
+      "spanish": "Entendemos",
+      "english": "We understand"
+    },
+    {
+      "spanish": "Perder",
+      "english": "to lose"
+    },
+    {
+      "spanish": "Pierdo",
+      "english": "I lose"
+    },
+    {
+      "spanish": "Perdemos",
+      "english": "we lose"
+    },
+    {
+      "spanish": "Siempre perdemos",
+      "english": "we always lose"
+    }
   ]
 }

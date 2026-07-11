@@ -1,45 +1,178 @@
 {
   "number": 10,
-  "title": "Querer and Poder — wanting and being able",
+  "title": "Lesson Ten: Spanish verbs, the future and more on Tener (to have)",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/10/"
+    "url": "http://languagetransfertribute.com/lesson-ten-verbs-future-tener/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Querer (to want) and poder (to be able to / can) are stem-changing verbs",
-    "e → ie in all forms except nosotros: quiero, quieres, quiere, queremos, quieren",
-    "o → ue in poder: puedo, puedes, puede, podemos, pueden",
-    "When one verb follows another, the second stays in the infinitive"
+    "In this lesson we'll take what we've learnt and spot the patterns of verbs as well as look more at how to talk about the future and a great way to remember Tener",
+    "Create is a nice one to know because when you say \"Creo\" you can also mean \"I think\" and 'thinking' as a creative process so a good hook here is to remember 'Creo' as 'creating in the mind'."
   ],
-  "verbs": [
+  "verbs": [],
+  "keywords": [],
+  "sentences": [
     {
-      "spanish": "querer",
-      "english": "to want",
-      "forms": ["quiero", "quieres", "quiere", "queremos", "quieren"],
-      "note": "e→ie stem change"
+      "spanish": "Ventilar",
+      "english": "To ventilate"
     },
     {
-      "spanish": "poder",
-      "english": "to be able to / can",
-      "forms": ["puedo", "puedes", "puede", "podemos", "pueden"],
-      "note": "o→ue stem change"
+      "spanish": "Separar",
+      "english": "To separate"
+    },
+    {
+      "spanish": "Saber",
+      "english": "To know"
+    },
+    {
+      "spanish": "Venir",
+      "english": "To come"
+    },
+    {
+      "spanish": "Segregar",
+      "english": "To segregate"
+    },
+    {
+      "spanish": "Simular",
+      "english": "To simulate"
+    },
+    {
+      "spanish": "Respirar",
+      "english": "To respirate (to breath)"
+    },
+    {
+      "spanish": "Quiero",
+      "english": "I want"
+    },
+    {
+      "spanish": "Debo",
+      "english": "I owe / I must"
+    },
+    {
+      "spanish": "Intento",
+      "english": "I try"
+    },
+    {
+      "spanish": "Voy",
+      "english": "I am going"
+    },
+    {
+      "spanish": "Intentar",
+      "english": "To try"
+    },
+    {
+      "spanish": "Donar",
+      "english": "To donate"
+    },
+    {
+      "spanish": "Dono",
+      "english": "I donate"
+    },
+    {
+      "spanish": "No dono",
+      "english": "I don't donate"
+    },
+    {
+      "spanish": "Crear",
+      "english": "To create"
+    },
+    {
+      "spanish": "Creo",
+      "english": "I create"
+    },
+    {
+      "spanish": "Comer",
+      "english": "To eat"
+    },
+    {
+      "spanish": "Como",
+      "english": "I eat"
+    },
+    {
+      "spanish": "Voy a comer",
+      "english": "I'm going to eat"
+    },
+    {
+      "spanish": "Tarde",
+      "english": "Late"
+    },
+    {
+      "spanish": "Voy a comer tarde",
+      "english": "I'm going to eat late"
+    },
+    {
+      "spanish": "Voy a comer mañana",
+      "english": "I'm going to eat tomorrow"
+    },
+    {
+      "spanish": "Como mañana",
+      "english": "I'm eating tomorrow"
+    },
+    {
+      "spanish": "Como con Pablo mañana",
+      "english": "I'm eating with Pablo tomorrow"
+    },
+    {
+      "spanish": "Organizar",
+      "english": "To organize"
+    },
+    {
+      "spanish": "Organizo",
+      "english": "I organize / I'm organizing"
+    },
+    {
+      "spanish": "Tener",
+      "english": "To have"
+    },
+    {
+      "spanish": "Quiero tenerlo",
+      "english": "I want to have it"
+    },
+    {
+      "spanish": "Voy a tenerlo",
+      "english": "I'm going to have it"
+    },
+    {
+      "spanish": "Voy a tenerlo tarde",
+      "english": "I'm going to have it late"
+    },
+    {
+      "spanish": "Voy a tenerlo más tarde",
+      "english": "I'm going to have it later"
+    },
+    {
+      "spanish": "Contener",
+      "english": "To contain"
+    },
+    {
+      "spanish": "Obtener",
+      "english": "To obtain"
+    },
+    {
+      "spanish": "Sostener",
+      "english": "To sustain"
+    },
+    {
+      "spanish": "Mantener",
+      "english": "To maintain"
+    },
+    {
+      "spanish": "Entretener",
+      "english": "To entertain"
+    },
+    {
+      "spanish": "Tengo",
+      "english": "I have"
+    },
+    {
+      "spanish": "Vengo",
+      "english": "I come"
+    },
+    {
+      "spanish": "Vengo mañana",
+      "english": "I'm coming tomorrow"
     }
-  ],
-  "keywords": [
-    { "spanish": "quiero", "english": "I want" },
-    { "spanish": "quieres", "english": "you want" },
-    { "spanish": "quiere", "english": "he/she wants" },
-    { "spanish": "puedo", "english": "I can" },
-    { "spanish": "puedes", "english": "you can" },
-    { "spanish": "puede", "english": "he/she can" }
-  ],
-  "sentences": [
-    { "spanish": "Quiero un café.", "english": "I want a coffee." },
-    { "spanish": "¿Quieres ir al cine?", "english": "Do you want to go to the cinema?" },
-    { "spanish": "Él quiere aprender español.", "english": "He wants to learn Spanish." },
-    { "spanish": "Puedo hablar español.", "english": "I can speak Spanish." },
-    { "spanish": "¿Puedes ayudarme?", "english": "Can you help me?" },
-    { "spanish": "No podemos comer ahora.", "english": "We can't eat now." }
   ]
 }

@@ -3,5 +3,6 @@ dist/
 .astro/
 .playwright-mcp/
 homepage-snapshot.yml
+sources/html/
 .DS_Store
 *.local

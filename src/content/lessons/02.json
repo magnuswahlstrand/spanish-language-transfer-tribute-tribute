@@ -1,28 +1,114 @@
 {
   "number": 2,
-  "title": "Cognates and gender",
+  "title": "Lesson Two: Similar Words - words ending 'al'",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/2/"
+    "url": "http://languagetransfertribute.com/lesson-two-similar-words-words-ending-al/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Spanish nouns have gender: masculine (el) or feminine (la)",
-    "Many -o words are masculine, many -a words are feminine",
-    "Words ending in -dad and -ción are almost always feminine",
-    "El = the (masculine), La = the (feminine)"
+    "Learn hundreds of Spanish words instantly simply by understanding a few simple rules!",
+    "In Google Translate there is a little loud speaker button in the bottom left of the box that shows the Spanish translation. Click this to hear the word being pronounced."
   ],
   "verbs": [],
-  "keywords": [
-    { "spanish": "el", "english": "the (masculine)" },
-    { "spanish": "la", "english": "the (feminine)" },
-    { "spanish": "el problema", "english": "the problem" },
-    { "spanish": "la palabra", "english": "the word" },
-    { "spanish": "la ciudad", "english": "the city" },
-    { "spanish": "el café", "english": "the coffee" }
-  ],
+  "keywords": [],
   "sentences": [
-    { "spanish": "El café está caliente.", "english": "The coffee is hot." },
-    { "spanish": "La ciudad es grande.", "english": "The city is big." }
+    {
+      "spanish": "Normal",
+      "english": "Normal"
+    },
+    {
+      "spanish": "Metal",
+      "english": "Metal"
+    },
+    {
+      "spanish": "Es",
+      "english": "Is"
+    },
+    {
+      "spanish": "Es normal",
+      "english": "He is normal"
+    },
+    {
+      "spanish": "Es normal",
+      "english": "She is normal"
+    },
+    {
+      "spanish": "Es normal",
+      "english": "It is normal"
+    },
+    {
+      "spanish": "Legal",
+      "english": "Legal"
+    },
+    {
+      "spanish": "Es legal",
+      "english": "It is normal"
+    },
+    {
+      "spanish": "Ilegal",
+      "english": "Illegal"
+    },
+    {
+      "spanish": "Es ilegal",
+      "english": "It is illegal"
+    },
+    {
+      "spanish": "Es liberal",
+      "english": "He is liberal"
+    },
+    {
+      "spanish": "Natural",
+      "english": "Natural"
+    },
+    {
+      "spanish": "Es natural",
+      "english": "It's natural"
+    },
+    {
+      "spanish": "No es normal",
+      "english": "It's not normal"
+    },
+    {
+      "spanish": "No es ideal",
+      "english": "It's not ideal"
+    },
+    {
+      "spanish": "Fatal",
+      "english": "Fatal"
+    },
+    {
+      "spanish": "Natal",
+      "english": "Natal"
+    },
+    {
+      "spanish": "Colonial",
+      "english": "Colonial"
+    },
+    {
+      "spanish": "Cultural",
+      "english": "Cultural"
+    },
+    {
+      "spanish": "Anual",
+      "english": "Annual"
+    },
+    {
+      "spanish": "Dental",
+      "english": "Dental"
+    },
+    {
+      "spanish": "Personal",
+      "english": "Personal"
+    },
+    {
+      "spanish": "Total",
+      "english": "Total"
+    },
+    {
+      "spanish": "Verbal",
+      "english": "Verbal"
+    }
   ]
 }

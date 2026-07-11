@@ -1,36 +1,132 @@
 {
   "number": 4,
-  "title": "Soy and Eres — I am and you are",
+  "title": "Lesson Four: Similar Words - words ending 'ion'",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/4/"
+    "url": "http://languagetransfertribute.com/lesson-four-similar-words-words-ending-ion/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Soy = I am (permanent/inherent qualities)",
-    "Eres = you are (singular informal)",
-    "Subject pronouns (yo, tú) are optional — the verb ending tells you who",
-    "To say where you are from: Soy de España"
+    "Learn even more Spanish words instantly simply by understanding a few simple rules about English words that end 'ion'!",
+    "Have a look at that word 'Confirmación' again. In Spanish 'Con' means 'With' and 'Firma' means 'Signature' and this is the root of the English word 'Confirm'. When you say \"I confirm I will do it\" you are partly speaking the latin and meaning \"I, with signature, will do it\"",
+    "So there are two more words in Spanish you won't forget - 'con' and 'firma'!",
+    "Now you'll start to notice more and more English words that have their roots in Spanish:",
+    "Conversation - 'con', 'vers', \"with verse\".",
+    "Confrontation - 'con', 'fronta', \"with\" and the Spanish word for forehead is \"frente\" which has been changed slightly to \"fronta\" in English.",
+    "When you spot these it makes it much easier to learn Spanish vocabulary rather than just trying to memorize lists of words.",
+    "One other thing to notice here is when you put 'q' and 'u' together the 'q' takes a 'k' sound. Watch out for this in the future and you'll spot the pattern making it easier to pronounce new words correctly."
   ],
-  "verbs": [
-    {
-      "spanish": "ser",
-      "english": "to be",
-      "forms": ["soy", "eres", "es"],
-      "note": "Partial conjugation"
-    }
-  ],
-  "keywords": [
-    { "spanish": "soy", "english": "I am" },
-    { "spanish": "eres", "english": "you are (informal)" },
-    { "spanish": "de", "english": "from / of" },
-    { "spanish": "yo", "english": "I" },
-    { "spanish": "tú", "english": "you (informal)" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "Soy de España.", "english": "I am from Spain." },
-    { "spanish": "¿De dónde eres?", "english": "Where are you from?" },
-    { "spanish": "Soy estudiante.", "english": "I am a student." },
-    { "spanish": "Eres inteligente.", "english": "You are intelligent." }
+    {
+      "spanish": "Opinión",
+      "english": "Opinion"
+    },
+    {
+      "spanish": "Pasión",
+      "english": "Passion"
+    },
+    {
+      "spanish": "Organización",
+      "english": "Organization"
+    },
+    {
+      "spanish": "Preparación",
+      "english": "Preparation"
+    },
+    {
+      "spanish": "Generación",
+      "english": "Generaction"
+    },
+    {
+      "spanish": "Confirmación",
+      "english": "Confirmation"
+    },
+    {
+      "spanish": "Conversación",
+      "english": "Conversation"
+    },
+    {
+      "spanish": "Confrontación",
+      "english": "Confrontation"
+    },
+    {
+      "spanish": "Complicación",
+      "english": "Complication"
+    },
+    {
+      "spanish": "Preparar",
+      "english": "To prepare"
+    },
+    {
+      "spanish": "Generar",
+      "english": "To generate"
+    },
+    {
+      "spanish": "Confirmar",
+      "english": "To confirm"
+    },
+    {
+      "spanish": "Complicar",
+      "english": "To complicate"
+    },
+    {
+      "spanish": "Cooperación",
+      "english": "Cooperacion"
+    },
+    {
+      "spanish": "Cooperar",
+      "english": "To cooperate"
+    },
+    {
+      "spanish": "Cancelación",
+      "english": "Cancelation"
+    },
+    {
+      "spanish": "Cancelar",
+      "english": "To cancel"
+    },
+    {
+      "spanish": "Exploración",
+      "english": "Exploration"
+    },
+    {
+      "spanish": "Explorar",
+      "english": "To explore"
+    },
+    {
+      "spanish": "Quiero",
+      "english": "I want"
+    },
+    {
+      "spanish": "Quiero preparar",
+      "english": "I want to prepare"
+    },
+    {
+      "spanish": "Quiero cooperar",
+      "english": "I want to cooperate"
+    },
+    {
+      "spanish": "Quiero cancelar",
+      "english": "I want to cancel"
+    },
+    {
+      "spanish": "No quiero cancelar",
+      "english": "I don't want to cancel"
+    },
+    {
+      "spanish": "Quiero explorar",
+      "english": "I want to explore"
+    },
+    {
+      "spanish": "Me",
+      "english": "Me"
+    },
+    {
+      "spanish": "Quiero prepararme",
+      "english": "I want to prepare myself"
+    }
   ]
 }

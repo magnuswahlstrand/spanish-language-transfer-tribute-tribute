@@ -1,57 +1,161 @@
 {
   "number": 15,
-  "title": "Regular -er and -ir verbs",
+  "title": "Lesson 15: Pasar, 'Softening verbs', Pensar, Intender and Perder",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/15/"
+    "url": "http://languagetransfertribute.com/lesson-15-pasar-softening-verbs-pensar-intender-perder/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "-er verbs: drop -er, add -o, -es, -e, -emos, -en",
-    "-ir verbs: drop -ir, add -o, -es, -e, -imos, -en",
-    "-er and -ir share the same endings except for nosotros/nosotras",
-    "Comer (to eat): como, comes, come, comemos, comen",
-    "Vivir (to live): vivo, vives, vive, vivimos, viven"
+    "We'll look at a few more verbs and in particular at why there is a slight change on some verbs between the spelling of the to form and the I /you/he/she/it/they form."
   ],
-  "verbs": [
-    {
-      "spanish": "comer",
-      "english": "to eat",
-      "forms": ["como", "comes", "come", "comemos", "comen"]
-    },
-    {
-      "spanish": "beber",
-      "english": "to drink",
-      "forms": ["bebo", "bebes", "bebe", "bebemos", "beben"]
-    },
-    {
-      "spanish": "vivir",
-      "english": "to live",
-      "forms": ["vivo", "vives", "vive", "vivimos", "viven"]
-    },
-    {
-      "spanish": "escribir",
-      "english": "to write",
-      "forms": ["escribo", "escribes", "escribe", "escribimos", "escriben"]
-    },
-    {
-      "spanish": "comprender",
-      "english": "to understand"
-    }
-  ],
-  "keywords": [
-    { "spanish": "como", "english": "I eat" },
-    { "spanish": "vives", "english": "you live" },
-    { "spanish": "escribe", "english": "he/she writes" },
-    { "spanish": "comprendo", "english": "I understand" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "Como pan todos los días.", "english": "I eat bread every day." },
-    { "spanish": "¿Bebes vino?", "english": "Do you drink wine?" },
-    { "spanish": "Él come en casa.", "english": "He eats at home." },
-    { "spanish": "Vivimos en Madrid.", "english": "We live in Madrid." },
-    { "spanish": "¿Dónde vives?", "english": "Where do you live?" },
-    { "spanish": "Escribo una carta.", "english": "I write a letter." },
-    { "spanish": "No comprendo.", "english": "I don't understand." }
+    {
+      "spanish": "Pasar",
+      "english": "to pass"
+    },
+    {
+      "spanish": "Pasa",
+      "english": "he/she/it passes"
+    },
+    {
+      "spanish": "¿Qué pasa?",
+      "english": "What's happening"
+    },
+    {
+      "spanish": "Quiero saber qué pasa",
+      "english": "I want to know what's happening"
+    },
+    {
+      "spanish": "¿Qué pasó?",
+      "english": "What happened"
+    },
+    {
+      "spanish": "Tener",
+      "english": "to have"
+    },
+    {
+      "spanish": "Tiene",
+      "english": "he/she/it/you (formal) has/have"
+    },
+    {
+      "spanish": "Querer",
+      "english": "to want"
+    },
+    {
+      "spanish": "Quiero",
+      "english": "I want"
+    },
+    {
+      "spanish": "Venir",
+      "english": "to come"
+    },
+    {
+      "spanish": "Viene",
+      "english": "he comes"
+    },
+    {
+      "spanish": "Vienen",
+      "english": "they / you guys come"
+    },
+    {
+      "spanish": "Vienes",
+      "english": "you (informal) come"
+    },
+    {
+      "spanish": "¿Cuándo vienes?",
+      "english": "When are you coming?"
+    },
+    {
+      "spanish": "Tiempo",
+      "english": "Time"
+    },
+    {
+      "spanish": "Concierto",
+      "english": "Concert"
+    },
+    {
+      "spanish": "Noviembre",
+      "english": "November"
+    },
+    {
+      "spanish": "llegar",
+      "english": "To arrive"
+    },
+    {
+      "spanish": "llego",
+      "english": "I arrive"
+    },
+    {
+      "spanish": "Esperar",
+      "english": "To wait / hope"
+    },
+    {
+      "spanish": "Espero",
+      "english": "To wait / hope"
+    },
+    {
+      "spanish": "Pensar",
+      "english": "To think"
+    },
+    {
+      "spanish": "Pienso",
+      "english": "I think"
+    },
+    {
+      "spanish": "Piensa",
+      "english": "he/she/it/you (formal) think(s)"
+    },
+    {
+      "spanish": "Piensas",
+      "english": "you (informal) think"
+    },
+    {
+      "spanish": "¿Qué piensas?",
+      "english": "What do you (informal) think?"
+    },
+    {
+      "spanish": "Pienso comer",
+      "english": "I plan to eat"
+    },
+    {
+      "spanish": "Pienso comer más tarde",
+      "english": "I plan to eat later"
+    },
+    {
+      "spanish": "Entender",
+      "english": "To understand"
+    },
+    {
+      "spanish": "Entiendo",
+      "english": "I understand"
+    },
+    {
+      "spanish": "Entiende",
+      "english": "He understands"
+    },
+    {
+      "spanish": "Entienden",
+      "english": "They understands"
+    },
+    {
+      "spanish": "Perder",
+      "english": "to lose"
+    },
+    {
+      "spanish": "Pierdo",
+      "english": "I lose"
+    },
+    {
+      "spanish": "Lo pierdo",
+      "english": "I lose it"
+    },
+    {
+      "spanish": "Los pierdo",
+      "english": "I lose them"
+    }
   ]
 }

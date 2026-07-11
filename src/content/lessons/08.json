@@ -1,36 +1,133 @@
 {
   "number": 8,
-  "title": "Negation — no",
+  "title": "Lesson Eight: Por qué, venir and debo",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/8/"
+    "url": "http://languagetransfertribute.com/lesson-eight-por-que-venir-debo/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "No before the verb = negation",
-    "Spanish uses double negatives: No tengo nada = I don't have anything",
-    "No = no/not, nada = nothing, nunca = never",
-    "Word order: No + verb + (rest)"
+    "How to ask 'Why?', the verb to come and how to say 'I must'"
   ],
-  "verbs": [
-    {
-      "spanish": "tener",
-      "english": "to have",
-      "forms": ["tengo", "tienes", "tiene"],
-      "note": "Intro — irregular"
-    }
-  ],
-  "keywords": [
-    { "spanish": "no", "english": "no / not" },
-    { "spanish": "nada", "english": "nothing" },
-    { "spanish": "nunca", "english": "never" },
-    { "spanish": "nadie", "english": "nobody" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "No hablo francés.", "english": "I don't speak French." },
-    { "spanish": "No tengo dinero.", "english": "I don't have money." },
-    { "spanish": "No tengo nada.", "english": "I don't have anything." },
-    { "spanish": "Nunca como carne.", "english": "I never eat meat." },
-    { "spanish": "No veo a nadie.", "english": "I don't see anyone." }
+    {
+      "spanish": "Voy a confiscarlo",
+      "english": "I am going to confiscate it"
+    },
+    {
+      "spanish": "Voy a examinarlo",
+      "english": "I am going to examine it"
+    },
+    {
+      "spanish": "Quiero verla",
+      "english": "I want to see it"
+    },
+    {
+      "spanish": "Quiero verla",
+      "english": "I want to see her"
+    },
+    {
+      "spanish": "Quiero verla",
+      "english": "I want to see you (formal)"
+    },
+    {
+      "spanish": "Quiere visitarme",
+      "english": "You (formal) want to visit me"
+    },
+    {
+      "spanish": "Quiere visitarme",
+      "english": "He wants to visit me"
+    },
+    {
+      "spanish": "Quiere visitarme",
+      "english": "She wants to visit me"
+    },
+    {
+      "spanish": "Quiere visitarme?",
+      "english": "Do you (formal) want to visit me"
+    },
+    {
+      "spanish": "Quiere visitarme?",
+      "english": "Does he want to visit me"
+    },
+    {
+      "spanish": "Quiere visitarme?",
+      "english": "Does she want to visit me"
+    },
+    {
+      "spanish": "No quiere visitarme",
+      "english": "You (formal) don't want to visit me"
+    },
+    {
+      "spanish": "No quiere visitarme",
+      "english": "He doesn't want to visit me"
+    },
+    {
+      "spanish": "No quiere visitarme",
+      "english": "She doesn't want to visit me"
+    },
+    {
+      "spanish": "Quiere visitarme?",
+      "english": "Don't you (formal) want to visit me"
+    },
+    {
+      "spanish": "Quiere visitarme?",
+      "english": "Doesn't he want to visit me"
+    },
+    {
+      "spanish": "Quiere visitarme?",
+      "english": "Doesn't she want to visit me"
+    },
+    {
+      "spanish": "Por qué no quiere visitarme?",
+      "english": "Why don't you (formal) want to visit me"
+    },
+    {
+      "spanish": "Por qué no quiere visitarme?",
+      "english": "Why doesn't he want to visit me"
+    },
+    {
+      "spanish": "Por qué no quiere visitarme?",
+      "english": "Why doesn't she want to visit me"
+    },
+    {
+      "spanish": "Quiere venir?",
+      "english": "Do you (formal) want to come"
+    },
+    {
+      "spanish": "Quiere venir a la casa?",
+      "english": "Do you (formal) want to come to the house"
+    },
+    {
+      "spanish": "Quiere venir a visitarme?",
+      "english": "Do you (formal) want to come to visit me"
+    },
+    {
+      "spanish": "No quiere venir a visitarme?",
+      "english": "Don't you (formal) want to come to visit me"
+    },
+    {
+      "spanish": "Por qué no quiere venir a visitarme?",
+      "english": "Why don't you (formal) want to come to visit me"
+    },
+    {
+      "spanish": "Debo continuar",
+      "english": "I must continue"
+    },
+    {
+      "spanish": "Debo identificarlo",
+      "english": "I must identify it"
+    },
+    {
+      "spanish": "Debo identificarlos",
+      "english": "I must identify them"
+    },
+    {
+      "spanish": "Debo identificarlas",
+      "english": "I must identify them (feminine words)"
+    }
   ]
 }

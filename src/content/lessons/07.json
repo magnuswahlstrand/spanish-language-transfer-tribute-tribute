@@ -1,42 +1,90 @@
 {
   "number": 7,
-  "title": "Questions and word order",
+  "title": "Lesson Seven: Voy a and verbs of movement",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/7/"
+    "url": "http://languagetransfertribute.com/lesson-seven-voy-a-and-verbs-of-movement/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Question words carry an accent: qué, dónde, cómo, cuándo, por qué",
-    "Word order in questions is flexible — rising intonation can turn a statement into a question",
-    "¿Qué? = What? ¿Dónde? = Where? ¿Cómo? = How?",
-    "¿Por qué? = Why? (two words, with accent and space)"
+    "How you can start talking about the future by learning one word and what Spanish 'verbs of movement' are all about!",
+    "So demostrar if like 'of showing' and now you've also learnt the verb 'to show' along the way!"
   ],
-  "verbs": [
+  "verbs": [],
+  "keywords": [],
+  "sentences": [
     {
-      "spanish": "hablar",
-      "english": "to speak",
-      "forms": ["hablo", "hablas", "habla", "hablamos", "hablan"]
+      "spanish": "Quiero continuar",
+      "english": "I want to continue / carry on"
     },
     {
-      "spanish": "estar",
-      "english": "to be (location/state)",
-      "note": "Intro: está = is (location)"
+      "spanish": "Quiero continuarlo",
+      "english": "I want to continue it"
+    },
+    {
+      "spanish": "Intento continuar",
+      "english": "I'm trying to continue"
+    },
+    {
+      "spanish": "Demostración",
+      "english": "Demonstration"
+    },
+    {
+      "spanish": "Demostrar",
+      "english": "To demonstrate"
+    },
+    {
+      "spanish": "Mostrar",
+      "english": "To show"
+    },
+    {
+      "spanish": "Quiero mostrarte algo",
+      "english": "I want to show you something"
+    },
+    {
+      "spanish": "Voy a continuar",
+      "english": "I am going to continue"
+    },
+    {
+      "spanish": "Voy a confiscarlo",
+      "english": "I am going to confiscate it"
+    },
+    {
+      "spanish": "Voy a examinarlo",
+      "english": "I am going to examine it"
+    },
+    {
+      "spanish": "Quiero verlos",
+      "english": "I want to see them"
+    },
+    {
+      "spanish": "Voy a verlos",
+      "english": "I am going to see them"
+    },
+    {
+      "spanish": "Intento verlos",
+      "english": "I am trying to see them"
+    },
+    {
+      "spanish": "Quiero intentar",
+      "english": "I want to try"
+    },
+    {
+      "spanish": "Voy a intentar",
+      "english": "I am going to try"
+    },
+    {
+      "spanish": "Voy a pasar a visitarte",
+      "english": "I going to pass by to visit you"
+    },
+    {
+      "spanish": "Voy a intentar pasar a visitarte",
+      "english": "I'm going to try to pass by to visit you"
+    },
+    {
+      "spanish": "Quiero pasar a mostrarte algo",
+      "english": "I want to pass by to show you something"
     }
-  ],
-  "keywords": [
-    { "spanish": "qué", "english": "what" },
-    { "spanish": "dónde", "english": "where" },
-    { "spanish": "cómo", "english": "how" },
-    { "spanish": "cuándo", "english": "when" },
-    { "spanish": "por qué", "english": "why" },
-    { "spanish": "dónde está", "english": "where is" }
-  ],
-  "sentences": [
-    { "spanish": "¿Qué es esto?", "english": "What is this?" },
-    { "spanish": "¿Dónde está el banco?", "english": "Where is the bank?" },
-    { "spanish": "¿Cómo estás?", "english": "How are you?" },
-    { "spanish": "¿Por qué estudias español?", "english": "Why do you study Spanish?" },
-    { "spanish": "¿Cuándo llegas?", "english": "When do you arrive?" }
   ]
 }

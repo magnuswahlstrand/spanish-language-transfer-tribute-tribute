@@ -1,57 +1,229 @@
 {
   "number": 14,
-  "title": "Regular -ar verbs",
+  "title": "Lesson 14: Sé, el, ella, yo, tengo que and Poner",
   "status": "draft",
   "source": {
     "type": "tribute",
-    "url": "https://languagetransfertribute.com/lessons/14/"
+    "url": "http://languagetransfertribute.com/lesson-14-se-el-ella-yo-tengo-que-and-pongo/",
+    "importedAt": "2026-07-11"
   },
   "concepts": [
-    "Regular -ar verbs follow a predictable pattern",
-    "Drop -ar, add: -o, -as, -a, -amos, -an",
-    "The subject pronouns (yo, tú, él, etc.) are optional — the verb ending tells you who",
-    "Hablar = to speak: hablo, hablas, habla, hablamos, hablan"
+    "By the end of this lesson you'll know more about the verb Saber (to know) as well as he, she and I, how to say 'have to' and more about 'go' verbs"
   ],
-  "verbs": [
-    {
-      "spanish": "hablar",
-      "english": "to speak",
-      "forms": ["hablo", "hablas", "habla", "hablamos", "hablan"]
-    },
-    {
-      "spanish": "tomar",
-      "english": "to take / to drink",
-      "forms": ["tomo", "tomas", "toma", "tomamos", "toman"]
-    },
-    {
-      "spanish": "llamar",
-      "english": "to call",
-      "forms": ["llamo", "llamas", "llama", "llamamos", "llaman"]
-    },
-    {
-      "spanish": "llevar",
-      "english": "to carry / to wear / to take",
-      "forms": ["llevo", "llevas", "lleva", "llevamos", "llevan"]
-    },
-    {
-      "spanish": "esperar",
-      "english": "to wait / to hope / to expect"
-    }
-  ],
-  "keywords": [
-    { "spanish": "hablo", "english": "I speak" },
-    { "spanish": "hablas", "english": "you speak" },
-    { "spanish": "habla", "english": "he/she speaks" },
-    { "spanish": "hablamos", "english": "we speak" },
-    { "spanish": "hablan", "english": "they speak" }
-  ],
+  "verbs": [],
+  "keywords": [],
   "sentences": [
-    { "spanish": "Hablo español.", "english": "I speak Spanish." },
-    { "spanish": "¿Hablas inglés?", "english": "Do you speak English?" },
-    { "spanish": "Ella habla francés.", "english": "She speaks French." },
-    { "spanish": "Hablamos mucho.", "english": "We talk a lot." },
-    { "spanish": "Tomo café.", "english": "I drink coffee." },
-    { "spanish": "¿Llamas a tu madre?", "english": "Do you call your mother?" },
-    { "spanish": "Llevo una camisa azul.", "english": "I'm wearing a blue shirt." }
+    {
+      "spanish": "Sé",
+      "english": "I know"
+    },
+    {
+      "spanish": "No sé",
+      "english": "I don't know"
+    },
+    {
+      "spanish": "Lo sé",
+      "english": "I know it"
+    },
+    {
+      "spanish": "Sabe",
+      "english": "he/she/it/you (formal) knows"
+    },
+    {
+      "spanish": "No sé que quiere",
+      "english": "I don't know what he wants"
+    },
+    {
+      "spanish": "Él",
+      "english": "He"
+    },
+    {
+      "spanish": "No sé que él quiere",
+      "english": "I don't know what he wants"
+    },
+    {
+      "spanish": "No sé que quiere él",
+      "english": "I don't know what he wants"
+    },
+    {
+      "spanish": "Quiero verla",
+      "english": "I want to see her"
+    },
+    {
+      "spanish": "Ella",
+      "english": "She"
+    },
+    {
+      "spanish": "Ella ve",
+      "english": "She sees"
+    },
+    {
+      "spanish": "Ella tiene",
+      "english": "She has"
+    },
+    {
+      "spanish": "No quiero invitarlo per ella sí",
+      "english": "I don't want to invite him but she does"
+    },
+    {
+      "spanish": "Yo no quiero invitarlo per ella sí",
+      "english": "I don't want to invite him but she does"
+    },
+    {
+      "spanish": "Salgo",
+      "english": "I'm leaving / going out"
+    },
+    {
+      "spanish": "Sale",
+      "english": "he/she/it/you (formal) leave(s)"
+    },
+    {
+      "spanish": "Salen",
+      "english": "they/you guys leave"
+    },
+    {
+      "spanish": "Sales",
+      "english": "you (informal) leave"
+    },
+    {
+      "spanish": "Salgo a comer",
+      "english": "I'm going out to eat"
+    },
+    {
+      "spanish": "Tengo",
+      "english": "I have"
+    },
+    {
+      "spanish": "Lo tengo",
+      "english": "I have it"
+    },
+    {
+      "spanish": "Los tengo",
+      "english": "I have them"
+    },
+    {
+      "spanish": "Tengo que comer",
+      "english": "I have to eat"
+    },
+    {
+      "spanish": "Tengo que hacerlo",
+      "english": "I have to do it"
+    },
+    {
+      "spanish": "Lo tengo que hacer",
+      "english": "I have to do it"
+    },
+    {
+      "spanish": "Tengo que verla",
+      "english": "I have to see her"
+    },
+    {
+      "spanish": "La tengo que ver",
+      "english": "I have to see her"
+    },
+    {
+      "spanish": "Tienen",
+      "english": "They / you guys have"
+    },
+    {
+      "spanish": "Tienes",
+      "english": "You (informal) have"
+    },
+    {
+      "spanish": "Vienes",
+      "english": "You (informal) come"
+    },
+    {
+      "spanish": "Cuándo vienes?",
+      "english": "When are you coming"
+    },
+    {
+      "spanish": "Cuándo vienes a comer?",
+      "english": "When are you coming to eat"
+    },
+    {
+      "spanish": "Contener",
+      "english": "To contain"
+    },
+    {
+      "spanish": "Obtener",
+      "english": "To obtain"
+    },
+    {
+      "spanish": "Sostener",
+      "english": "To sustain"
+    },
+    {
+      "spanish": "Mantener",
+      "english": "To maintain"
+    },
+    {
+      "spanish": "Entretener",
+      "english": "To entertain"
+    },
+    {
+      "spanish": "Obtengo",
+      "english": "I obtain"
+    },
+    {
+      "spanish": "Pongo",
+      "english": "I put"
+    },
+    {
+      "spanish": "Componer",
+      "english": "To compose"
+    },
+    {
+      "spanish": "Suponer",
+      "english": "To suppose"
+    },
+    {
+      "spanish": "Supongo",
+      "english": "I suppose"
+    },
+    {
+      "spanish": "Supongo que sí",
+      "english": "I suppose so"
+    },
+    {
+      "spanish": "Imponer",
+      "english": "To impose"
+    },
+    {
+      "spanish": "Exponer",
+      "english": "Expose"
+    },
+    {
+      "spanish": "Oponer",
+      "english": "To oppose"
+    },
+    {
+      "spanish": "Lo Opongo",
+      "english": "I oppose it"
+    },
+    {
+      "spanish": "Tengo que comer ahora",
+      "english": "I have to eat now"
+    },
+    {
+      "spanish": "Debo comer",
+      "english": "I must eat"
+    },
+    {
+      "spanish": "Voy a intentar comer más tarde",
+      "english": "I'm going to try to eat later"
+    },
+    {
+      "spanish": "Voy a comer",
+      "english": "I'm going to eat"
+    },
+    {
+      "spanish": "Puedo comer",
+      "english": "I can to eat"
+    },
+    {
+      "spanish": "Quiero comer",
+      "english": "I want to eat"
+    }
   ]
 }
