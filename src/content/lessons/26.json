@@ -103,7 +103,8 @@
     },
     {
       "spanish": "Llamar",
-      "english": "To call"
+      "english": "To call",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me llamo",

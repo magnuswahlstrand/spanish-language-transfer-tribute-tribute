@@ -47,15 +47,18 @@
     },
     {
       "spanish": "¿Quieres hacer me lo?",
-      "english": "Do you want to do it for me?"
+      "english": "Do you want to do it for me?",
+      "showInMode": "compact"
     },
     {
       "spanish": "La cocina",
-      "english": "The kitchen"
+      "english": "The kitchen",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cocinar",
-      "english": "To cook"
+      "english": "To cook",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cocino",
@@ -71,11 +74,13 @@
     },
     {
       "spanish": "Cocinan",
-      "english": "They/you guys cook"
+      "english": "They/you guys cook",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cocinamos",
-      "english": "We cook"
+      "english": "We cook",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Puedes cocinar?",
@@ -123,11 +128,13 @@
     },
     {
       "spanish": "Yo me quedo",
-      "english": "I am staying"
+      "english": "I am staying",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nosotros nos quedamos",
-      "english": "We are staying"
+      "english": "We are staying",
+      "showInMode": "compact"
     }
   ]
 }

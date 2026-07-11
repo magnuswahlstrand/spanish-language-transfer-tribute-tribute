@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "hace",
-      "english": "He/she/it/you (informal) make/do"
+      "english": "He/she/it/you (informal) make/do",
+      "showInMode": "compact"
     },
     {
       "spanish": "hace dos semanas",
@@ -35,7 +36,8 @@
     },
     {
       "spanish": "Le respondí hace seite semanas",
-      "english": "I responded to her seven weeks ago"
+      "english": "I responded to her seven weeks ago",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se lo respondí",
@@ -43,15 +45,18 @@
     },
     {
       "spanish": "Se lo respondí hace un mes",
-      "english": "I responded to her [thing] one month ago"
+      "english": "I responded to her [thing] one month ago",
+      "showInMode": "compact"
     },
     {
       "spanish": "Respondió",
-      "english": "He/she/it/you (informal) responded"
+      "english": "He/she/it/you (informal) responded",
+      "showInMode": "compact"
     },
     {
       "spanish": "Respondimos",
-      "english": "We responded"
+      "english": "We responded",
+      "showInMode": "compact"
     },
     {
       "spanish": "Discriminé",
@@ -59,11 +64,13 @@
     },
     {
       "spanish": "Discriminó",
-      "english": "He/she/it/you (formal) discriminated"
+      "english": "He/she/it/you (formal) discriminated",
+      "showInMode": "compact"
     },
     {
       "spanish": "Discriminamos",
-      "english": "We discriminated"
+      "english": "We discriminated",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablaste",
@@ -75,15 +82,18 @@
     },
     {
       "spanish": "¿Comiste?",
-      "english": "Did you eat?"
+      "english": "Did you eat?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿No comiste?",
-      "english": "Didn't you eat?"
+      "english": "Didn't you eat?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿No lo comiste?",
-      "english": "Didn't you eat it?"
+      "english": "Didn't you eat it?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Saliste?",
@@ -91,11 +101,13 @@
     },
     {
       "spanish": "¿Saliste anoche?",
-      "english": "Did you go out last night?"
+      "english": "Did you go out last night?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿No saliste anoche?",
-      "english": "Didn't you go out last night?"
+      "english": "Didn't you go out last night?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Dónde viviste?",
@@ -111,19 +123,23 @@
     },
     {
       "spanish": "¿Me esperaste?",
-      "english": "Did you wait for me?"
+      "english": "Did you wait for me?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿No me esperaste?",
-      "english": "Didn't you wait for me?"
+      "english": "Didn't you wait for me?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Por qué no me esperaste?",
-      "english": "Why didn't you wait for me?"
+      "english": "Why didn't you wait for me?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Cuándo llegaste?",
-      "english": "When did you arrive?"
+      "english": "When did you arrive?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablaron",
@@ -131,55 +147,68 @@
     },
     {
       "spanish": "Esperaron",
-      "english": "They waited"
+      "english": "They waited",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo prepararon",
-      "english": "They prepared it"
+      "english": "They prepared it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comieron",
-      "english": "They ate"
+      "english": "They ate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Salieron",
-      "english": "They left / went out"
+      "english": "They left / went out",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los vendieron",
-      "english": "They sold them"
+      "english": "They sold them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablé",
-      "english": "I spoke"
+      "english": "I spoke",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habló",
-      "english": "He/she/it/you (formal) spoke"
+      "english": "He/she/it/you (formal) spoke",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablamos",
-      "english": "We spoke"
+      "english": "We spoke",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablaste",
-      "english": "You (informal) spoke"
+      "english": "You (informal) spoke",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comí",
-      "english": "I ate"
+      "english": "I ate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comió",
-      "english": "He/she/it/you (formal) ate"
+      "english": "He/she/it/you (formal) ate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comimos",
-      "english": "We ate"
+      "english": "We ate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comiste",
-      "english": "You (informal) ate"
+      "english": "You (informal) ate",
+      "showInMode": "compact"
     }
   ]
 }

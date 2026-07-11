@@ -23,15 +23,18 @@
     },
     {
       "spanish": "No hablé",
-      "english": "I didn't speak"
+      "english": "I didn't speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "No habló",
-      "english": "He/she/you (formal) didn't speak"
+      "english": "He/she/you (formal) didn't speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habló conmigo",
-      "english": "He/she/you (formal) spoke with me"
+      "english": "He/she/you (formal) spoke with me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo compré",
@@ -51,7 +54,8 @@
     },
     {
       "spanish": "Lo compró para mi",
-      "english": "He bought it for me"
+      "english": "He bought it for me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo envié",
@@ -63,15 +67,18 @@
     },
     {
       "spanish": "No te lo envié",
-      "english": "I didn't sent it to you"
+      "english": "I didn't sent it to you",
+      "showInMode": "compact"
     },
     {
       "spanish": "No te lo envié todavía",
-      "english": "I didn't sent it to you yet"
+      "english": "I didn't sent it to you yet",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo envió ayer",
-      "english": "He sent it yesterday"
+      "english": "He sent it yesterday",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se envió",
@@ -79,7 +86,8 @@
     },
     {
       "spanish": "Se envió ayer",
-      "english": "It was sent yesterday"
+      "english": "It was sent yesterday",
+      "showInMode": "compact"
     },
     {
       "spanish": "No se por que no habló conmigo",
@@ -91,7 +99,8 @@
     },
     {
       "spanish": "Olvidó",
-      "english": "He forgot"
+      "english": "He forgot",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo iba hacer pero lo olvidé",

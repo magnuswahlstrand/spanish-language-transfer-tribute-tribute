@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "Haber",
-      "english": "To have [done/had]"
+      "english": "To have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "He",
@@ -23,7 +24,8 @@
     },
     {
       "spanish": "Hemos",
-      "english": "We have [done/had]"
+      "english": "We have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "He terminado",
@@ -31,19 +33,23 @@
     },
     {
       "spanish": "Ha",
-      "english": "He has [done/had]"
+      "english": "He has [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "Has",
-      "english": "You have [done/had]"
+      "english": "You have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "Han",
-      "english": "They have [done/had]"
+      "english": "They have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "El problema",
-      "english": "The Problem"
+      "english": "The Problem",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ha entendido el problema",
@@ -51,27 +57,33 @@
     },
     {
       "spanish": "El systema",
-      "english": "The system"
+      "english": "The system",
+      "showInMode": "compact"
     },
     {
       "spanish": "Has entendido el systema",
-      "english": "Have you (informal) understood the system"
+      "english": "Have you (informal) understood the system",
+      "showInMode": "compact"
     },
     {
       "spanish": "El programa",
-      "english": "The program"
+      "english": "The program",
+      "showInMode": "compact"
     },
     {
       "spanish": "Has entendido el programa",
-      "english": "Have you (informal) understood the program"
+      "english": "Have you (informal) understood the program",
+      "showInMode": "compact"
     },
     {
       "spanish": "El panorama",
-      "english": "The panorama"
+      "english": "The panorama",
+      "showInMode": "compact"
     },
     {
       "spanish": "El clima",
-      "english": "The climate"
+      "english": "The climate",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Has sentido el aroma?",
@@ -91,7 +103,8 @@
     },
     {
       "spanish": "Tú te has perdido",
-      "english": "You have got lost"
+      "english": "You have got lost",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo hemos perdido",

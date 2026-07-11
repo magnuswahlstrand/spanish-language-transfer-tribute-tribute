@@ -23,15 +23,18 @@
     },
     {
       "spanish": "Quiere saber",
-      "english": "He/She wants to know"
+      "english": "He/She wants to know",
+      "showInMode": "compact"
     },
     {
       "spanish": "No quiere saber",
-      "english": "He/She doesn't want to know"
+      "english": "He/She doesn't want to know",
+      "showInMode": "compact"
     },
     {
       "spanish": "Por qué no quiere saber",
-      "english": "Why doesn't He/She want to know"
+      "english": "Why doesn't He/She want to know",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero saber por qué no quiere saber",
@@ -43,7 +46,8 @@
     },
     {
       "spanish": "Quiero saber si quiere saber",
-      "english": "I want to know if he/she wants to know"
+      "english": "I want to know if he/she wants to know",
+      "showInMode": "compact"
     },
     {
       "spanish": "No quiero imaginarlo",
@@ -63,11 +67,13 @@
     },
     {
       "spanish": "Quiere iniciarlo ahora",
-      "english": "He/She wants to start it now"
+      "english": "He/She wants to start it now",
+      "showInMode": "compact"
     },
     {
       "spanish": "Por qué no quiere informarme",
-      "english": "Why doesn't he/she want to inform me"
+      "english": "Why doesn't he/she want to inform me",
+      "showInMode": "compact"
     },
     {
       "spanish": "No intento justificarme",
@@ -79,7 +85,8 @@
     },
     {
       "spanish": "Inexplicable",
-      "english": "Inexplicable"
+      "english": "Inexplicable",
+      "showInMode": "compact"
     }
   ]
 }

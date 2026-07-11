@@ -27,7 +27,8 @@
     },
     {
       "spanish": "La he cerrado",
-      "english": "I have closed it (feminine thing)"
+      "english": "I have closed it (feminine thing)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Está cerrada",
@@ -47,7 +48,8 @@
     },
     {
       "spanish": "Está terminada",
-      "english": "It is finished (feminine thing)"
+      "english": "It is finished (feminine thing)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Están vendidos",
@@ -67,11 +69,13 @@
     },
     {
       "spanish": "Está cerrado a la idea",
-      "english": "He is closed to the idea"
+      "english": "He is closed to the idea",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es una persona cerrada",
-      "english": "He is a closed person"
+      "english": "He is a closed person",
+      "showInMode": "compact"
     },
     {
       "spanish": "Está perdida",
@@ -79,7 +83,8 @@
     },
     {
       "spanish": "Es una persona perdida",
-      "english": "She is a lost person"
+      "english": "She is a lost person",
+      "showInMode": "compact"
     },
     {
       "spanish": "La silla está mojada",
@@ -87,11 +92,13 @@
     },
     {
       "spanish": "Es una silla mojada",
-      "english": "It is a wet chair"
+      "english": "It is a wet chair",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es una persona feliz",
-      "english": "It is a happy person"
+      "english": "It is a happy person",
+      "showInMode": "compact"
     }
   ]
 }

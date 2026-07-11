@@ -43,7 +43,8 @@
     },
     {
       "spanish": "Eres muy lista",
-      "english": "You are very smart (talking to a female)"
+      "english": "You are very smart (talking to a female)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy tan cansado",
@@ -51,7 +52,8 @@
     },
     {
       "spanish": "Estoy tan cansada",
-      "english": "I (female) am so bored"
+      "english": "I (female) am so bored",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy tan aburrido",
@@ -87,7 +89,8 @@
     },
     {
       "spanish": "Felicidad",
-      "english": "Happiness"
+      "english": "Happiness",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estamos ocupados",
@@ -107,7 +110,8 @@
     },
     {
       "spanish": "Soy una persona feliz",
-      "english": "I'm a happy person"
+      "english": "I'm a happy person",
+      "showInMode": "compact"
     }
   ]
 }

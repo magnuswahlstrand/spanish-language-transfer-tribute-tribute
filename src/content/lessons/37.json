@@ -15,23 +15,28 @@
   "sentences": [
     {
       "spanish": "Daré",
-      "english": "I will give"
+      "english": "I will give",
+      "showInMode": "compact"
     },
     {
       "spanish": "Daremos",
-      "english": "We will give"
+      "english": "We will give",
+      "showInMode": "compact"
     },
     {
       "spanish": "Dara",
-      "english": "He/she will give"
+      "english": "He/she will give",
+      "showInMode": "compact"
     },
     {
       "spanish": "Darán",
-      "english": "They/you guys will give"
+      "english": "They/you guys will give",
+      "showInMode": "compact"
     },
     {
       "spanish": "Daras",
-      "english": "You (informal) will give"
+      "english": "You (informal) will give",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Me lo darán?",
@@ -39,7 +44,8 @@
     },
     {
       "spanish": "¿Me la darán?",
-      "english": "Will you guys give it to me?"
+      "english": "Will you guys give it to me?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Te darán algo",
@@ -51,7 +57,8 @@
     },
     {
       "spanish": "Nos lo darán",
-      "english": "They will give it to us"
+      "english": "They will give it to us",
+      "showInMode": "compact"
     },
     {
       "spanish": "No nos lo darán",
@@ -75,7 +82,8 @@
     },
     {
       "spanish": "Nos damos cuenta",
-      "english": "We realize"
+      "english": "We realize",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los doy",
@@ -87,7 +95,8 @@
     },
     {
       "spanish": "Les doy algo",
-      "english": "I give (to) them something"
+      "english": "I give (to) them something",
+      "showInMode": "compact"
     },
     {
       "spanish": "Le he hablado",
@@ -95,7 +104,8 @@
     },
     {
       "spanish": "Le hemos hablado",
-      "english": "We have spoken to him/her/you (formal)"
+      "english": "We have spoken to him/her/you (formal)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Le han hablado",
@@ -103,7 +113,8 @@
     },
     {
       "spanish": "Les han hablado",
-      "english": "They have spoken to them / you guys"
+      "english": "They have spoken to them / you guys",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me cocina algo",
@@ -111,11 +122,13 @@
     },
     {
       "spanish": "Nos cocina algo",
-      "english": "He is cooking us something"
+      "english": "He is cooking us something",
+      "showInMode": "compact"
     },
     {
       "spanish": "Te cocina algo",
-      "english": "He is cooking you something"
+      "english": "He is cooking you something",
+      "showInMode": "compact"
     },
     {
       "spanish": "Le cocina algo",
@@ -123,7 +136,8 @@
     },
     {
       "spanish": "Les cocina algo",
-      "english": "He is cooking them something"
+      "english": "He is cooking them something",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los cocina",
@@ -139,7 +153,8 @@
     },
     {
       "spanish": "Les hablo",
-      "english": "I'm speaking to them"
+      "english": "I'm speaking to them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Les hablan",

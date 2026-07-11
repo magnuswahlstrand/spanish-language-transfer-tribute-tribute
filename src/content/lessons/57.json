@@ -15,11 +15,13 @@
   "sentences": [
     {
       "spanish": "Comemos",
-      "english": "We are eating"
+      "english": "We are eating",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vivimos",
-      "english": "We are living"
+      "english": "We are living",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo bueno ...",
@@ -27,11 +29,13 @@
     },
     {
       "spanish": "Lo malo ...",
-      "english": "The bad thing ..."
+      "english": "The bad thing ...",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo interesante ...",
-      "english": "The interesting thing ..."
+      "english": "The interesting thing ...",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo interesante es que viven aquí",
@@ -39,19 +43,23 @@
     },
     {
       "spanish": "Lo interesante es que viven juntos",
-      "english": "The interesting thing is that they live together"
+      "english": "The interesting thing is that they live together",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo facíl ...",
-      "english": "The easy thing ..."
+      "english": "The easy thing ...",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo facíl es que vienen juntos",
-      "english": "The easy thing is that they come together"
+      "english": "The easy thing is that they come together",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo complicado es que vienen juntos",
-      "english": "The complicated thing is that they come together"
+      "english": "The complicated thing is that they come together",
+      "showInMode": "compact"
     },
     {
       "spanish": "De esta forma",
@@ -59,7 +67,8 @@
     },
     {
       "spanish": "De esta manera",
-      "english": "In this manner"
+      "english": "In this manner",
+      "showInMode": "compact"
     },
     {
       "spanish": "No hablamos así",
@@ -67,11 +76,13 @@
     },
     {
       "spanish": "No comemos así",
-      "english": "We don't eat like that"
+      "english": "We don't eat like that",
+      "showInMode": "compact"
     },
     {
       "spanish": "No vivimos así",
-      "english": "We don't live like that"
+      "english": "We don't live like that",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo de la fiesta ...",
@@ -79,7 +90,8 @@
     },
     {
       "spanish": "Hablamos sobre lo de la fiesta",
-      "english": "We are speaking about the thing about the party"
+      "english": "We are speaking about the thing about the party",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablamos de lo de la fiesta",

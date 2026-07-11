@@ -19,7 +19,8 @@
     },
     {
       "spanish": "Hace",
-      "english": "you (formal) are making/doing"
+      "english": "you (formal) are making/doing",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo hace",
@@ -31,11 +32,13 @@
     },
     {
       "spanish": "Lo hacen",
-      "english": "They are doing it"
+      "english": "They are doing it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo haces",
-      "english": "You (informal) are doing it"
+      "english": "You (informal) are doing it",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Qué haces?",
@@ -83,11 +86,13 @@
     },
     {
       "spanish": "Esperar",
-      "english": "To wait / to hope"
+      "english": "To wait / to hope",
+      "showInMode": "compact"
     },
     {
       "spanish": "Espero",
-      "english": "I wait / I hope"
+      "english": "I wait / I hope",
+      "showInMode": "compact"
     },
     {
       "spanish": "Espera",
@@ -95,11 +100,13 @@
     },
     {
       "spanish": "Espera",
-      "english": "You (formal) wait / hope"
+      "english": "You (formal) wait / hope",
+      "showInMode": "compact"
     },
     {
       "spanish": "Esperan",
-      "english": "They/you guys wait / hope"
+      "english": "They/you guys wait / hope",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me esperan",
@@ -107,7 +114,8 @@
     },
     {
       "spanish": "No me esperan",
-      "english": "They are not waiting for me"
+      "english": "They are not waiting for me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero saber por qué no me esperan",
@@ -115,19 +123,23 @@
     },
     {
       "spanish": "Vocabulario",
-      "english": "Vocabulary"
+      "english": "Vocabulary",
+      "showInMode": "compact"
     },
     {
       "spanish": "Boca",
-      "english": "Mouth"
+      "english": "Mouth",
+      "showInMode": "compact"
     },
     {
       "spanish": "Necesario",
-      "english": "Necesary"
+      "english": "Necesary",
+      "showInMode": "compact"
     },
     {
       "spanish": "Contrario",
-      "english": "Contrary"
+      "english": "Contrary",
+      "showInMode": "compact"
     }
   ]
 }

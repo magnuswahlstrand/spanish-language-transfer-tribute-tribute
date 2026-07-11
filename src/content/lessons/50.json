@@ -23,15 +23,18 @@
     },
     {
       "spanish": "Para ti",
-      "english": "For you"
+      "english": "For you",
+      "showInMode": "compact"
     },
     {
       "spanish": "Para él",
-      "english": "For him"
+      "english": "For him",
+      "showInMode": "compact"
     },
     {
       "spanish": "Para ella",
-      "english": "For her"
+      "english": "For her",
+      "showInMode": "compact"
     },
     {
       "spanish": "Este es para ti",
@@ -39,7 +42,8 @@
     },
     {
       "spanish": "Estos son para ti",
-      "english": "These (ones) are for you"
+      "english": "These (ones) are for you",
+      "showInMode": "compact"
     },
     {
       "spanish": "Por qué?",
@@ -75,7 +79,8 @@
     },
     {
       "spanish": "Los días",
-      "english": "The days"
+      "english": "The days",
+      "showInMode": "compact"
     },
     {
       "spanish": "Todos los días",
@@ -87,15 +92,18 @@
     },
     {
       "spanish": "Me quedaré por tres días",
-      "english": "I will stay for three days"
+      "english": "I will stay for three days",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me quedaría por tres días",
-      "english": "I would stay for three days"
+      "english": "I would stay for three days",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me quedaría por dos días pero tengo que trabajar",
-      "english": "I would stay for three days but I have to work"
+      "english": "I would stay for three days but I have to work",
+      "showInMode": "compact"
     }
   ]
 }

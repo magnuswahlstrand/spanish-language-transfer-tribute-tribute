@@ -22,39 +22,48 @@
   "sentences": [
     {
       "spanish": "Opinión",
-      "english": "Opinion"
+      "english": "Opinion",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pasión",
-      "english": "Passion"
+      "english": "Passion",
+      "showInMode": "compact"
     },
     {
       "spanish": "Organización",
-      "english": "Organization"
+      "english": "Organization",
+      "showInMode": "compact"
     },
     {
       "spanish": "Preparación",
-      "english": "Preparation"
+      "english": "Preparation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Generación",
-      "english": "Generaction"
+      "english": "Generaction",
+      "showInMode": "compact"
     },
     {
       "spanish": "Confirmación",
-      "english": "Confirmation"
+      "english": "Confirmation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Conversación",
-      "english": "Conversation"
+      "english": "Conversation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Confrontación",
-      "english": "Confrontation"
+      "english": "Confrontation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Complicación",
-      "english": "Complication"
+      "english": "Complication",
+      "showInMode": "compact"
     },
     {
       "spanish": "Preparar",
@@ -62,7 +71,8 @@
     },
     {
       "spanish": "Generar",
-      "english": "To generate"
+      "english": "To generate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Confirmar",
@@ -70,31 +80,38 @@
     },
     {
       "spanish": "Complicar",
-      "english": "To complicate"
+      "english": "To complicate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cooperación",
-      "english": "Cooperacion"
+      "english": "Cooperacion",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cooperar",
-      "english": "To cooperate"
+      "english": "To cooperate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cancelación",
-      "english": "Cancelation"
+      "english": "Cancelation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cancelar",
-      "english": "To cancel"
+      "english": "To cancel",
+      "showInMode": "compact"
     },
     {
       "spanish": "Exploración",
-      "english": "Exploration"
+      "english": "Exploration",
+      "showInMode": "compact"
     },
     {
       "spanish": "Explorar",
-      "english": "To explore"
+      "english": "To explore",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero",
@@ -106,11 +123,13 @@
     },
     {
       "spanish": "Quiero cooperar",
-      "english": "I want to cooperate"
+      "english": "I want to cooperate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero cancelar",
-      "english": "I want to cancel"
+      "english": "I want to cancel",
+      "showInMode": "compact"
     },
     {
       "spanish": "No quiero cancelar",
@@ -118,7 +137,8 @@
     },
     {
       "spanish": "Quiero explorar",
-      "english": "I want to explore"
+      "english": "I want to explore",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me",

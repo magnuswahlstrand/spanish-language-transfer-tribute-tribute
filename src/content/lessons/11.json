@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "Tolerar",
-      "english": "To tolerate"
+      "english": "To tolerate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tolero",
@@ -23,19 +24,23 @@
     },
     {
       "spanish": "Twittear",
-      "english": "To tweet"
+      "english": "To tweet",
+      "showInMode": "compact"
     },
     {
       "spanish": "Facebookear",
-      "english": "To Facebook"
+      "english": "To Facebook",
+      "showInMode": "compact"
     },
     {
       "spanish": "Googlear",
-      "english": "To Google"
+      "english": "To Google",
+      "showInMode": "compact"
     },
     {
       "spanish": "Iliminar",
-      "english": "To illiminate"
+      "english": "To illiminate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ilimino",
@@ -47,7 +52,8 @@
     },
     {
       "spanish": "Durar",
-      "english": "To last"
+      "english": "To last",
+      "showInMode": "compact"
     },
     {
       "spanish": "Dura mucho",
@@ -59,15 +65,18 @@
     },
     {
       "spanish": "Demostración",
-      "english": "Demonstration"
+      "english": "Demonstration",
+      "showInMode": "compact"
     },
     {
       "spanish": "Exageración",
-      "english": "Exageration"
+      "english": "Exageration",
+      "showInMode": "compact"
     },
     {
       "spanish": "Exagerar",
-      "english": "To exagerate"
+      "english": "To exagerate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Exagero",
@@ -83,11 +92,13 @@
     },
     {
       "spanish": "Masticar",
-      "english": "To chew"
+      "english": "To chew",
+      "showInMode": "compact"
     },
     {
       "spanish": "Morder",
-      "english": "To bite"
+      "english": "To bite",
+      "showInMode": "compact"
     },
     {
       "spanish": "Mastico",
@@ -99,11 +110,13 @@
     },
     {
       "spanish": "Colaboración",
-      "english": "Collaboration"
+      "english": "Collaboration",
+      "showInMode": "compact"
     },
     {
       "spanish": "Colaborar",
-      "english": "To collaborate"
+      "english": "To collaborate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Colaboro",
@@ -119,7 +132,8 @@
     },
     {
       "spanish": "Hablar",
-      "english": "To speak"
+      "english": "To speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablo",
@@ -135,11 +149,13 @@
     },
     {
       "spanish": "Quiero hablar",
-      "english": "I want to speak"
+      "english": "I want to speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Voy a hablar",
-      "english": "I'm going to speak"
+      "english": "I'm going to speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablas",
@@ -155,7 +171,8 @@
     },
     {
       "spanish": "Quiero verlo",
-      "english": "I want to see it"
+      "english": "I want to see it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Debo invitarlo",
@@ -163,7 +180,8 @@
     },
     {
       "spanish": "Lo debo invitar",
-      "english": "I must invite him"
+      "english": "I must invite him",
+      "showInMode": "compact"
     }
   ]
 }

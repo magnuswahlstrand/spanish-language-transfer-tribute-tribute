@@ -25,31 +25,38 @@
     },
     {
       "spanish": "Intento administrarlo",
-      "english": "I'm trying to administer it"
+      "english": "I'm trying to administer it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Intento imitarlo",
-      "english": "I'm trying to imitate it"
+      "english": "I'm trying to imitate it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hospital",
-      "english": "Hospital"
+      "english": "Hospital",
+      "showInMode": "compact"
     },
     {
       "spanish": "Horrible",
-      "english": "Horrible"
+      "english": "Horrible",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habitual",
-      "english": "Habitual"
+      "english": "Habitual",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habitualmente",
-      "english": "Habitually"
+      "english": "Habitually",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ahora",
-      "english": "Now"
+      "english": "Now",
+      "showInMode": "compact"
     },
     {
       "spanish": "Voy",
@@ -69,23 +76,28 @@
     },
     {
       "spanish": "Quiero visitarlo",
-      "english": "I want to visit it"
+      "english": "I want to visit it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Visible",
-      "english": "Visible"
+      "english": "Visible",
+      "showInMode": "compact"
     },
     {
       "spanish": "Viral",
-      "english": "Viral"
+      "english": "Viral",
+      "showInMode": "compact"
     },
     {
       "spanish": "Virus",
-      "english": "Virus"
+      "english": "Virus",
+      "showInMode": "compact"
     },
     {
       "spanish": "Conveniente",
-      "english": "Convenient"
+      "english": "Convenient",
+      "showInMode": "compact"
     }
   ]
 }

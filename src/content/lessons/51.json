@@ -23,7 +23,8 @@
     },
     {
       "spanish": "Estoy por ti",
-      "english": "I'm here because of you (informal)"
+      "english": "I'm here because of you (informal)",
+      "showInMode": "compact"
     },
     {
       "spanish": "He venido por ti",
@@ -31,7 +32,8 @@
     },
     {
       "spanish": "Es por ti que hemos venido",
-      "english": "It is because of you that we have come"
+      "english": "It is because of you that we have come",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cambiaría este por ese",
@@ -39,19 +41,23 @@
     },
     {
       "spanish": "Cambiaría estos por esos",
-      "english": "I would change these ones for those ones (masculine things)"
+      "english": "I would change these ones for those ones (masculine things)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cambiaría estas por esas",
-      "english": "I would change these ones for those ones (feminine things)"
+      "english": "I would change these ones for those ones (feminine things)",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Cambiarías estas por esas?",
-      "english": "Would you change these ones for those ones (feminine things)?"
+      "english": "Would you change these ones for those ones (feminine things)?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Por qué no cambiarías estas por esas?",
-      "english": "Why wouldn't you change these ones for those ones (feminine things)?"
+      "english": "Why wouldn't you change these ones for those ones (feminine things)?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ocho por ocho",
@@ -63,7 +69,8 @@
     },
     {
       "spanish": "Gracias por llamarme",
-      "english": "Thank you for calling me"
+      "english": "Thank you for calling me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy cansada de trabajar",
@@ -71,11 +78,13 @@
     },
     {
       "spanish": "Estaba cansada de trabajar",
-      "english": "I was tired of working (female)"
+      "english": "I was tired of working (female)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estábamos cansados de trabajar",
-      "english": "I was tired of working (male/mixed group)"
+      "english": "I was tired of working (male/mixed group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es una forma de hacerlo",

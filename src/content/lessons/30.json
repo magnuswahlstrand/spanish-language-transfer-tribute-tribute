@@ -23,27 +23,33 @@
     },
     {
       "spanish": "Ella está",
-      "english": "She is"
+      "english": "She is",
+      "showInMode": "compact"
     },
     {
       "spanish": "Usted está",
-      "english": "You (formal) are"
+      "english": "You (formal) are",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ellos están",
-      "english": "They are"
+      "english": "They are",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nosotros estamos",
-      "english": "We are"
+      "english": "We are",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nosotras estamos",
-      "english": "We are (female group)"
+      "english": "We are (female group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tú estás",
-      "english": "You (informal) are"
+      "english": "You (informal) are",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Comó estás?",
@@ -99,7 +105,8 @@
     },
     {
       "spanish": "Deben estar cansadas",
-      "english": "They (female group) must be tired"
+      "english": "They (female group) must be tired",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me quedo",

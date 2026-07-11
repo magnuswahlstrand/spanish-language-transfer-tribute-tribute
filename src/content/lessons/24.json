@@ -23,7 +23,8 @@
     },
     {
       "spanish": "Los doy",
-      "english": "I give them / I'm giving them"
+      "english": "I give them / I'm giving them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Da",
@@ -35,7 +36,8 @@
     },
     {
       "spanish": "Das",
-      "english": "You (informal) give"
+      "english": "You (informal) give",
+      "showInMode": "compact"
     },
     {
       "spanish": "Él me da algo",
@@ -43,7 +45,8 @@
     },
     {
       "spanish": "Me dan algo",
-      "english": "They're giving me something"
+      "english": "They're giving me something",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me lo dan",
@@ -59,11 +62,13 @@
     },
     {
       "spanish": "¿Me lo da usted mañana?",
-      "english": "Are you (formal) giving it to me tomorrow?"
+      "english": "Are you (formal) giving it to me tomorrow?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Me lo da mañana usted?",
-      "english": "Are you (formal) giving it to me tomorrow?"
+      "english": "Are you (formal) giving it to me tomorrow?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ustedes",
@@ -75,11 +80,13 @@
     },
     {
       "spanish": "¿Nos lo dan mañana ustedes?",
-      "english": "Will you guys give it to us tomorrow"
+      "english": "Will you guys give it to us tomorrow",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Nos lo dan ustedes mañana?",
-      "english": "Will you guys give it to us tomorrow"
+      "english": "Will you guys give it to us tomorrow",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero dar",

@@ -35,27 +35,33 @@
     },
     {
       "spanish": "El coche",
-      "english": "The car"
+      "english": "The car",
+      "showInMode": "compact"
     },
     {
       "spanish": "Un coche",
-      "english": "A car"
+      "english": "A car",
+      "showInMode": "compact"
     },
     {
       "spanish": "La maquina",
-      "english": "The machine"
+      "english": "The machine",
+      "showInMode": "compact"
     },
     {
       "spanish": "Una maquina",
-      "english": "A machine"
+      "english": "A machine",
+      "showInMode": "compact"
     },
     {
       "spanish": "El carro",
-      "english": "The car"
+      "english": "The car",
+      "showInMode": "compact"
     },
     {
       "spanish": "Un carro",
-      "english": "A car"
+      "english": "A car",
+      "showInMode": "compact"
     },
     {
       "spanish": "La maquina grande",
@@ -63,15 +69,18 @@
     },
     {
       "spanish": "El auto grande",
-      "english": "El auto grande"
+      "english": "El auto grande",
+      "showInMode": "compact"
     },
     {
       "spanish": "La casa",
-      "english": "The house"
+      "english": "The house",
+      "showInMode": "compact"
     },
     {
       "spanish": "Las casas",
-      "english": "The houses"
+      "english": "The houses",
+      "showInMode": "compact"
     },
     {
       "spanish": "Las casas grandes",
@@ -87,7 +96,8 @@
     },
     {
       "spanish": "Los carros grandes",
-      "english": "The big cars"
+      "english": "The big cars",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Ves el auto grande?",

@@ -23,7 +23,8 @@
     },
     {
       "spanish": "Diferente",
-      "english": "Different"
+      "english": "Different",
+      "showInMode": "compact"
     },
     {
       "spanish": "No es diferente",
@@ -31,11 +32,13 @@
     },
     {
       "spanish": "Constante",
-      "english": "Constant"
+      "english": "Constant",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es constante",
-      "english": "It's constant"
+      "english": "It's constant",
+      "showInMode": "compact"
     },
     {
       "spanish": "Constantemente",
@@ -43,31 +46,38 @@
     },
     {
       "spanish": "Urgente",
-      "english": "Urgent"
+      "english": "Urgent",
+      "showInMode": "compact"
     },
     {
       "spanish": "Urgentemente",
-      "english": "Urgently"
+      "english": "Urgently",
+      "showInMode": "compact"
     },
     {
       "spanish": "Legalmente",
-      "english": "Legally"
+      "english": "Legally",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ilegalmente",
-      "english": "Illegally"
+      "english": "Illegally",
+      "showInMode": "compact"
     },
     {
       "spanish": "Real",
-      "english": "Real"
+      "english": "Real",
+      "showInMode": "compact"
     },
     {
       "spanish": "Realmente",
-      "english": "Really"
+      "english": "Really",
+      "showInMode": "compact"
     },
     {
       "spanish": "Normalmente",
-      "english": "Normally"
+      "english": "Normally",
+      "showInMode": "compact"
     },
     {
       "spanish": "Normalmente es importante",
@@ -75,63 +85,78 @@
     },
     {
       "spanish": "Global",
-      "english": "Global"
+      "english": "Global",
+      "showInMode": "compact"
     },
     {
       "spanish": "Globalmente",
-      "english": "Globally"
+      "english": "Globally",
+      "showInMode": "compact"
     },
     {
       "spanish": "Argentina",
-      "english": "Argentina"
+      "english": "Argentina",
+      "showInMode": "compact"
     },
     {
       "spanish": "General",
-      "english": "General"
+      "english": "General",
+      "showInMode": "compact"
     },
     {
       "spanish": "Generalmente",
-      "english": "Generally"
+      "english": "Generally",
+      "showInMode": "compact"
     },
     {
       "spanish": "Original",
-      "english": "Original"
+      "english": "Original",
+      "showInMode": "compact"
     },
     {
       "spanish": "Originalmente",
-      "english": "Originally"
+      "english": "Originally",
+      "showInMode": "compact"
     },
     {
       "spanish": "Digital",
-      "english": "Digital"
+      "english": "Digital",
+      "showInMode": "compact"
     },
     {
       "spanish": "Naturalmente",
-      "english": "Naturally"
+      "english": "Naturally",
+      "showInMode": "compact"
     },
     {
       "spanish": "Naturalmente es original",
-      "english": "Naturally it's original"
+      "english": "Naturally it's original",
+      "showInMode": "compact"
     },
     {
       "spanish": "Posible",
-      "english": "Possible"
+      "english": "Possible",
+      "showInMode": "compact"
     },
     {
       "spanish": "Probable",
-      "english": "Probable"
+      "english": "Probable",
+      "showInMode": "compact"
     },
     {
       "spanish": "Probablemente",
-      "english": "Probably"
+      "english": "Probably",
+      "showInMode": "compact"
     },
     {
       "spanish": "Posiblemente es original",
-      "english": "Possibly it's original"
+      "english": "Possibly it's original",
+      "showInMode": "compact"
     },
     {
       "spanish": "Flexible",
-      "english": "Flexible"
+      "english": "Flexible",
+      "showInMode": "compact"
     }
   ]
 }

@@ -15,11 +15,13 @@
   "sentences": [
     {
       "spanish": "La casa",
-      "english": "The house"
+      "english": "The house",
+      "showInMode": "compact"
     },
     {
       "spanish": "Las casas",
-      "english": "The houses"
+      "english": "The houses",
+      "showInMode": "compact"
     },
     {
       "spanish": "Las casas grandes",
@@ -31,11 +33,13 @@
     },
     {
       "spanish": "Los carros grandes",
-      "english": "The big cars"
+      "english": "The big cars",
+      "showInMode": "compact"
     },
     {
       "spanish": "Caro",
-      "english": "Expensive"
+      "english": "Expensive",
+      "showInMode": "compact"
     },
     {
       "spanish": "El carro es caro",
@@ -79,19 +83,23 @@
     },
     {
       "spanish": "Doctor",
-      "english": "Doctor (male person)"
+      "english": "Doctor (male person)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Doctora",
-      "english": "Doctor (female person)"
+      "english": "Doctor (female person)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Profesores",
-      "english": "Professors (male group or mixed group)"
+      "english": "Professors (male group or mixed group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Profesoras",
-      "english": "Professors (female group)"
+      "english": "Professors (female group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Son profesores",
@@ -127,11 +135,13 @@
     },
     {
       "spanish": "Son intuitivos",
-      "english": "They are Intuitive"
+      "english": "They are Intuitive",
+      "showInMode": "compact"
     },
     {
       "spanish": "Son intuitivas",
-      "english": "They are Intuitive (group of women)"
+      "english": "They are Intuitive (group of women)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es muy atractiva",
@@ -139,7 +149,8 @@
     },
     {
       "spanish": "Ella es muy atractiva",
-      "english": "She is very attractive"
+      "english": "She is very attractive",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ella es muy creativa",
@@ -163,11 +174,13 @@
     },
     {
       "spanish": "Son nativos",
-      "english": "They are natives"
+      "english": "They are natives",
+      "showInMode": "compact"
     },
     {
       "spanish": "Son nativas",
-      "english": "They (female group) are natives"
+      "english": "They (female group) are natives",
+      "showInMode": "compact"
     }
   ]
 }

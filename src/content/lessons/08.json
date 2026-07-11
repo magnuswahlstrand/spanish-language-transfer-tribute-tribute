@@ -15,11 +15,13 @@
   "sentences": [
     {
       "spanish": "Voy a confiscarlo",
-      "english": "I am going to confiscate it"
+      "english": "I am going to confiscate it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Voy a examinarlo",
-      "english": "I am going to examine it"
+      "english": "I am going to examine it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero verla",
@@ -27,11 +29,13 @@
     },
     {
       "spanish": "Quiero verla",
-      "english": "I want to see her"
+      "english": "I want to see her",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero verla",
-      "english": "I want to see you (formal)"
+      "english": "I want to see you (formal)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiere visitarme",
@@ -39,11 +43,13 @@
     },
     {
       "spanish": "Quiere visitarme",
-      "english": "He wants to visit me"
+      "english": "He wants to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiere visitarme",
-      "english": "She wants to visit me"
+      "english": "She wants to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiere visitarme?",
@@ -51,11 +57,13 @@
     },
     {
       "spanish": "Quiere visitarme?",
-      "english": "Does he want to visit me"
+      "english": "Does he want to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiere visitarme?",
-      "english": "Does she want to visit me"
+      "english": "Does she want to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "No quiere visitarme",
@@ -63,23 +71,28 @@
     },
     {
       "spanish": "No quiere visitarme",
-      "english": "He doesn't want to visit me"
+      "english": "He doesn't want to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "No quiere visitarme",
-      "english": "She doesn't want to visit me"
+      "english": "She doesn't want to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiere visitarme?",
-      "english": "Don't you (formal) want to visit me"
+      "english": "Don't you (formal) want to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiere visitarme?",
-      "english": "Doesn't he want to visit me"
+      "english": "Doesn't he want to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiere visitarme?",
-      "english": "Doesn't she want to visit me"
+      "english": "Doesn't she want to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Por qué no quiere visitarme?",
@@ -87,19 +100,23 @@
     },
     {
       "spanish": "Por qué no quiere visitarme?",
-      "english": "Why doesn't he want to visit me"
+      "english": "Why doesn't he want to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Por qué no quiere visitarme?",
-      "english": "Why doesn't she want to visit me"
+      "english": "Why doesn't she want to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiere venir?",
-      "english": "Do you (formal) want to come"
+      "english": "Do you (formal) want to come",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiere venir a la casa?",
-      "english": "Do you (formal) want to come to the house"
+      "english": "Do you (formal) want to come to the house",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiere venir a visitarme?",
@@ -107,11 +124,13 @@
     },
     {
       "spanish": "No quiere venir a visitarme?",
-      "english": "Don't you (formal) want to come to visit me"
+      "english": "Don't you (formal) want to come to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Por qué no quiere venir a visitarme?",
-      "english": "Why don't you (formal) want to come to visit me"
+      "english": "Why don't you (formal) want to come to visit me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Debo continuar",
@@ -123,11 +142,13 @@
     },
     {
       "spanish": "Debo identificarlos",
-      "english": "I must identify them"
+      "english": "I must identify them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Debo identificarlas",
-      "english": "I must identify them (feminine words)"
+      "english": "I must identify them (feminine words)",
+      "showInMode": "compact"
     }
   ]
 }

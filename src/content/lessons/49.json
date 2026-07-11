@@ -19,11 +19,13 @@
     },
     {
       "spanish": "¿Cómo te llamas?",
-      "english": "How do you call yourself? / What is your name?"
+      "english": "How do you call yourself? / What is your name?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Cómo se llama?",
-      "english": "How does she call herself? / What is her name?"
+      "english": "How does she call herself? / What is her name?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Cómo se llamaba?",
@@ -31,7 +33,8 @@
     },
     {
       "spanish": "¿Cómo se llamaban?",
-      "english": "How did they call herselves? / What were their names?"
+      "english": "How did they call herselves? / What were their names?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tenía una casa grande",
@@ -39,7 +42,8 @@
     },
     {
       "spanish": "Teníamos una casa grande",
-      "english": "I used to have a big house"
+      "english": "I used to have a big house",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tenía cuatro pero ahora no me queda",
@@ -55,7 +59,8 @@
     },
     {
       "spanish": "Tenía que verte ayer",
-      "english": "I had to see you yesterday"
+      "english": "I had to see you yesterday",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Tenías que hacerlo ayer?",
@@ -71,11 +76,13 @@
     },
     {
       "spanish": "Veías",
-      "english": "You (informal) were seeing / you used to see"
+      "english": "You (informal) were seeing / you used to see",
+      "showInMode": "compact"
     },
     {
       "spanish": "Veían",
-      "english": "They|you guys were seeing / They|you guys used to see"
+      "english": "They|you guys were seeing / They|you guys used to see",
+      "showInMode": "compact"
     },
     {
       "spanish": "Veíamos",
@@ -87,7 +94,8 @@
     },
     {
       "spanish": "¿Eras estudiante?",
-      "english": "Were you a student?"
+      "english": "Were you a student?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Éramos estudiantes",
@@ -95,7 +103,8 @@
     },
     {
       "spanish": "Qué eran",
-      "english": "What were they?"
+      "english": "What were they?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Iba",
@@ -107,15 +116,18 @@
     },
     {
       "spanish": "Iban",
-      "english": "They were going/ They used to go"
+      "english": "They were going/ They used to go",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ibas",
-      "english": "You (informal) were going / You used to go"
+      "english": "You (informal) were going / You used to go",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Por qué ibas?",
-      "english": "Why were you (informal) going / Why did you used to go?"
+      "english": "Why were you (informal) going / Why did you used to go?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Iba a llamarte",
@@ -123,7 +135,8 @@
     },
     {
       "spanish": "Iba a hacerlo",
-      "english": "I was going to do it make it"
+      "english": "I was going to do it make it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Íbamos a hacerlo",
@@ -131,7 +144,8 @@
     },
     {
       "spanish": "Íbamos a hacerlos",
-      "english": "We were going to do them / make them"
+      "english": "We were going to do them / make them",
+      "showInMode": "compact"
     }
   ]
 }

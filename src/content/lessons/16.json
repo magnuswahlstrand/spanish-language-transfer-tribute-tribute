@@ -16,7 +16,8 @@
   "sentences": [
     {
       "spanish": "Empezar",
-      "english": "to start"
+      "english": "to start",
+      "showInMode": "compact"
     },
     {
       "spanish": "Empiezo",
@@ -24,15 +25,18 @@
     },
     {
       "spanish": "Empieza",
-      "english": "He starts"
+      "english": "He starts",
+      "showInMode": "compact"
     },
     {
       "spanish": "Empiezan",
-      "english": "They start"
+      "english": "They start",
+      "showInMode": "compact"
     },
     {
       "spanish": "Empiezas",
-      "english": "You start"
+      "english": "You start",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Cuándo empiezas?",
@@ -40,71 +44,88 @@
     },
     {
       "spanish": "Comenzar",
-      "english": "to commence / to start"
+      "english": "to commence / to start",
+      "showInMode": "compact"
     },
     {
       "spanish": "Poder",
-      "english": "to be able to"
+      "english": "to be able to",
+      "showInMode": "compact"
     },
     {
       "spanish": "El poder",
-      "english": "the power"
+      "english": "the power",
+      "showInMode": "compact"
     },
     {
       "spanish": "Puerto",
-      "english": "Port"
+      "english": "Port",
+      "showInMode": "compact"
     },
     {
       "spanish": "Puerto Rico",
-      "english": "Rich Port"
+      "english": "Rich Port",
+      "showInMode": "compact"
     },
     {
       "spanish": "Fuerza",
-      "english": "Force"
+      "english": "Force",
+      "showInMode": "compact"
     },
     {
       "spanish": "Escuela",
-      "english": "School"
+      "english": "School",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cuerpo",
-      "english": "Corpse (body)"
+      "english": "Corpse (body)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nuevo",
-      "english": "New"
+      "english": "New",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pueblo",
-      "english": "A people / village"
+      "english": "A people / village",
+      "showInMode": "compact"
     },
     {
       "spanish": "La muerte",
-      "english": "The death"
+      "english": "The death",
+      "showInMode": "compact"
     },
     {
       "spanish": "Muerto",
-      "english": "Dead"
+      "english": "Dead",
+      "showInMode": "compact"
     },
     {
       "spanish": "Muerto",
-      "english": "Dead (for a male singular word)"
+      "english": "Dead (for a male singular word)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Muerta",
-      "english": "Dead (for a female singular word)"
+      "english": "Dead (for a female singular word)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Muertos",
-      "english": "Dead (for a male plural word)"
+      "english": "Dead (for a male plural word)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Muertas",
-      "english": "Dead (for a male plural word)"
+      "english": "Dead (for a male plural word)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Dormir",
-      "english": "to sleep"
+      "english": "to sleep",
+      "showInMode": "compact"
     },
     {
       "spanish": "Duermo",
@@ -116,15 +137,18 @@
     },
     {
       "spanish": "Duerme",
-      "english": "He sleeps"
+      "english": "He sleeps",
+      "showInMode": "compact"
     },
     {
       "spanish": "Duermen",
-      "english": "They sleep"
+      "english": "They sleep",
+      "showInMode": "compact"
     },
     {
       "spanish": "Un encuentro",
-      "english": "An encounter"
+      "english": "An encounter",
+      "showInMode": "compact"
     },
     {
       "spanish": "Encuentro",
@@ -132,7 +156,8 @@
     },
     {
       "spanish": "Mostrar",
-      "english": "To show"
+      "english": "To show",
+      "showInMode": "compact"
     },
     {
       "spanish": "Muestro",
@@ -140,11 +165,13 @@
     },
     {
       "spanish": "Muestra",
-      "english": "He shows"
+      "english": "He shows",
+      "showInMode": "compact"
     },
     {
       "spanish": "Una muestra",
-      "english": "A sample"
+      "english": "A sample",
+      "showInMode": "compact"
     }
   ]
 }

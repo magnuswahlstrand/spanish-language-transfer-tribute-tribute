@@ -15,27 +15,33 @@
   "sentences": [
     {
       "spanish": "Nada",
-      "english": "Nothing"
+      "english": "Nothing",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nadie",
-      "english": "No one"
+      "english": "No one",
+      "showInMode": "compact"
     },
     {
       "spanish": "Más",
-      "english": "More"
+      "english": "More",
+      "showInMode": "compact"
     },
     {
       "spanish": "Mas tarde",
-      "english": "Later"
+      "english": "Later",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nadie más",
-      "english": "Nobody else (Nobody more)"
+      "english": "Nobody else (Nobody more)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nada más",
-      "english": "Nothing else (Nothing more)"
+      "english": "Nothing else (Nothing more)",
+      "showInMode": "compact"
     },
     {
       "spanish": "No comí nada más",
@@ -43,7 +49,8 @@
     },
     {
       "spanish": "¿No comiste nada más?",
-      "english": "Didn't you eat anything else?"
+      "english": "Didn't you eat anything else?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vi",
@@ -51,19 +58,23 @@
     },
     {
       "spanish": "Vió",
-      "english": "He saw"
+      "english": "He saw",
+      "showInMode": "compact"
     },
     {
       "spanish": "Viste",
-      "english": "You saw (informal)"
+      "english": "You saw (informal)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vimos",
-      "english": "We saw"
+      "english": "We saw",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vieron",
-      "english": "They saw"
+      "english": "They saw",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿No me viste anoche?",
@@ -71,7 +82,8 @@
     },
     {
       "spanish": "Una vez",
-      "english": "One time"
+      "english": "One time",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo vi una vez",
@@ -79,11 +91,13 @@
     },
     {
       "spanish": "Los vieron una vez",
-      "english": "They saw them once"
+      "english": "They saw them once",
+      "showInMode": "compact"
     },
     {
       "spanish": "Una vez más",
-      "english": "One more time (again)"
+      "english": "One more time (again)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero verlos una vez más",
@@ -91,7 +105,8 @@
     },
     {
       "spanish": "Otra vez",
-      "english": "Another time (again)"
+      "english": "Another time (again)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero verlos otra vez",
@@ -99,19 +114,23 @@
     },
     {
       "spanish": "¿Saliste a bailar otra vez?",
-      "english": "Did you go out to dance again?"
+      "english": "Did you go out to dance again?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Llegaste tarde otra vez?",
-      "english": "Did you arrive late again?"
+      "english": "Did you arrive late again?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Llegó tarde a mi casa otra vez",
-      "english": "He arrived late to my house again"
+      "english": "He arrived late to my house again",
+      "showInMode": "compact"
     },
     {
       "spanish": "Llegó a mi casa otra vez queriendo hablar conmigo",
-      "english": "He arrived at my house again wanting to speak with me"
+      "english": "He arrived at my house again wanting to speak with me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Mi casa es tu casa",
@@ -155,7 +174,8 @@
     },
     {
       "spanish": "Quiero ir a sus casas",
-      "english": "I want to go to his houses"
+      "english": "I want to go to his houses",
+      "showInMode": "compact"
     },
     {
       "spanish": "Mi propia casa",
@@ -163,11 +183,13 @@
     },
     {
       "spanish": "Mi propio auto",
-      "english": "My own car"
+      "english": "My own car",
+      "showInMode": "compact"
     },
     {
       "spanish": "Querio vivir en mi propia casa",
-      "english": "I want to live in my own house"
+      "english": "I want to live in my own house",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo vi con mis propios ojos",

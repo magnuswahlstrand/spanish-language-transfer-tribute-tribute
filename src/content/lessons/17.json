@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "Querer",
-      "english": "to want"
+      "english": "to want",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero",
@@ -23,15 +24,18 @@
     },
     {
       "spanish": "Quiere",
-      "english": "he/she/it/you (formal) want(s)"
+      "english": "he/she/it/you (formal) want(s)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quieren",
-      "english": "They want"
+      "english": "They want",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quieres",
-      "english": "You (informal) want"
+      "english": "You (informal) want",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Qué quieres?",
@@ -39,7 +43,8 @@
     },
     {
       "spanish": "Perder",
-      "english": "to lose"
+      "english": "to lose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pierdo",
@@ -47,23 +52,28 @@
     },
     {
       "spanish": "Pierde",
-      "english": "he/she/it/you (formal) lose(s)"
+      "english": "he/she/it/you (formal) lose(s)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pierden",
-      "english": "they lose"
+      "english": "they lose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pierdes",
-      "english": "you (informal) lose"
+      "english": "you (informal) lose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Dormir",
-      "english": "to sleep"
+      "english": "to sleep",
+      "showInMode": "compact"
     },
     {
       "spanish": "Duermo",
-      "english": "I sleep"
+      "english": "I sleep",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me duermo",
@@ -71,15 +81,18 @@
     },
     {
       "spanish": "Duerme",
-      "english": "He sleeps"
+      "english": "He sleeps",
+      "showInMode": "compact"
     },
     {
       "spanish": "Duermen",
-      "english": "They sleep"
+      "english": "They sleep",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comer",
-      "english": "to eat"
+      "english": "to eat",
+      "showInMode": "compact"
     },
     {
       "spanish": "Como",
@@ -87,7 +100,8 @@
     },
     {
       "spanish": "Colgar",
-      "english": "to hang"
+      "english": "to hang",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cuelgo",
@@ -95,11 +109,13 @@
     },
     {
       "spanish": "Cuelga",
-      "english": "He hangs"
+      "english": "He hangs",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cuelgan",
-      "english": "They hang"
+      "english": "They hang",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo Cuelgan",
@@ -107,11 +123,13 @@
     },
     {
       "spanish": "Los Cuelgan",
-      "english": "They hang them"
+      "english": "They hang them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los Cuelga",
-      "english": "She hangs them"
+      "english": "She hangs them",
+      "showInMode": "compact"
     },
     {
       "spanish": "No tomo alcohol",
@@ -119,15 +137,18 @@
     },
     {
       "spanish": "No tomo azúcar",
-      "english": "I don't take sugar"
+      "english": "I don't take sugar",
+      "showInMode": "compact"
     },
     {
       "spanish": "Toma",
-      "english": "he/she/it/you (formal) take(s)"
+      "english": "he/she/it/you (formal) take(s)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tomas",
-      "english": "you (informal) take"
+      "english": "you (informal) take",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Qué tomas?",
@@ -135,23 +156,28 @@
     },
     {
       "spanish": "¿Qué tomas?",
-      "english": "What do you want to drink?"
+      "english": "What do you want to drink?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Toman",
-      "english": "They drink"
+      "english": "They drink",
+      "showInMode": "compact"
     },
     {
       "spanish": "Beber",
-      "english": "To drink"
+      "english": "To drink",
+      "showInMode": "compact"
     },
     {
       "spanish": "Una Bebida",
-      "english": "A drink"
+      "english": "A drink",
+      "showInMode": "compact"
     },
     {
       "spanish": "La Bebida",
-      "english": "The drink"
+      "english": "The drink",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tomamos",
@@ -159,7 +185,8 @@
     },
     {
       "spanish": "Hablar",
-      "english": "To speak"
+      "english": "To speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablo",
@@ -171,7 +198,8 @@
     },
     {
       "spanish": "Encontrar",
-      "english": "To find / encounter"
+      "english": "To find / encounter",
+      "showInMode": "compact"
     },
     {
       "spanish": "Encuentro",
@@ -179,15 +207,18 @@
     },
     {
       "spanish": "Encuentra",
-      "english": "He finds"
+      "english": "He finds",
+      "showInMode": "compact"
     },
     {
       "spanish": "Encuentran",
-      "english": "They find"
+      "english": "They find",
+      "showInMode": "compact"
     },
     {
       "spanish": "Encuentras",
-      "english": "You (informal) find"
+      "english": "You (informal) find",
+      "showInMode": "compact"
     },
     {
       "spanish": "Encontramos",
@@ -195,7 +226,8 @@
     },
     {
       "spanish": "Mostrar",
-      "english": "To show"
+      "english": "To show",
+      "showInMode": "compact"
     },
     {
       "spanish": "Muestro",
@@ -203,15 +235,18 @@
     },
     {
       "spanish": "Muestra",
-      "english": "He shows"
+      "english": "He shows",
+      "showInMode": "compact"
     },
     {
       "spanish": "Muestran",
-      "english": "They show"
+      "english": "They show",
+      "showInMode": "compact"
     },
     {
       "spanish": "Muestras",
-      "english": "You (informal) show"
+      "english": "You (informal) show",
+      "showInMode": "compact"
     },
     {
       "spanish": "Mostramos",
@@ -219,7 +254,8 @@
     },
     {
       "spanish": "Pensar",
-      "english": "To think"
+      "english": "To think",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pienso",
@@ -231,19 +267,23 @@
     },
     {
       "spanish": "Piensa",
-      "english": "he/she thinks"
+      "english": "he/she thinks",
+      "showInMode": "compact"
     },
     {
       "spanish": "Piensan",
-      "english": "They think"
+      "english": "They think",
+      "showInMode": "compact"
     },
     {
       "spanish": "Piensas",
-      "english": "You (informal) think"
+      "english": "You (informal) think",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Qué piensas?",
-      "english": "What do you think?"
+      "english": "What do you think?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Qué piensas hacer?",
@@ -255,7 +295,8 @@
     },
     {
       "spanish": "Cerrar",
-      "english": "To close"
+      "english": "To close",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cierro",
@@ -263,7 +304,8 @@
     },
     {
       "spanish": "Cierra",
-      "english": "he/she/it/you (formal) close(s)"
+      "english": "he/she/it/you (formal) close(s)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cerramos",

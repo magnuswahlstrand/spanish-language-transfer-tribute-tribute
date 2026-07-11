@@ -19,7 +19,8 @@
     },
     {
       "spanish": "Podíamos",
-      "english": "We were able to / I could (paste)"
+      "english": "We were able to / I could (paste)",
+      "showInMode": "compact"
     },
     {
       "spanish": "No podía hacerlo porque no tenía el tiempo",
@@ -27,7 +28,8 @@
     },
     {
       "spanish": "No podía hacerlo ayer",
-      "english": "I couldn't do it yesterday"
+      "english": "I couldn't do it yesterday",
+      "showInMode": "compact"
     },
     {
       "spanish": "Había comido",
@@ -35,7 +37,8 @@
     },
     {
       "spanish": "Ya había comido",
-      "english": "I had eaten already"
+      "english": "I had eaten already",
+      "showInMode": "compact"
     },
     {
       "spanish": "Él quería cenar conmigo pero ya yo había cenado",
@@ -43,15 +46,18 @@
     },
     {
       "spanish": "Él quería cenar conmigo pero ya había cenado",
-      "english": "He wanted to dine with me but I had already dined"
+      "english": "He wanted to dine with me but I had already dined",
+      "showInMode": "compact"
     },
     {
       "spanish": "Él quería cenar conmigo pero ya había cenado",
-      "english": "He wanted to dine with me but he had already dined"
+      "english": "He wanted to dine with me but he had already dined",
+      "showInMode": "compact"
     },
     {
       "spanish": "Él quería cenar conmigo pero ya había cenado",
-      "english": "He wanted to dine with me but she had already dined"
+      "english": "He wanted to dine with me but she had already dined",
+      "showInMode": "compact"
     },
     {
       "spanish": "Él lo buscaba por que yo lo había perdido",
@@ -63,7 +69,8 @@
     },
     {
       "spanish": "Me habría perdido",
-      "english": "I would have got lost (lost myself)"
+      "english": "I would have got lost (lost myself)",
+      "showInMode": "compact"
     }
   ]
 }

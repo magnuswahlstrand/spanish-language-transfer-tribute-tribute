@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "Haber",
-      "english": "To have [done/had]"
+      "english": "To have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "He",
@@ -23,7 +24,8 @@
     },
     {
       "spanish": "Saber",
-      "english": "To know"
+      "english": "To know",
+      "showInMode": "compact"
     },
     {
       "spanish": "Sé",
@@ -31,23 +33,28 @@
     },
     {
       "spanish": "Hemos",
-      "english": "We have [done/had]"
+      "english": "We have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ha",
-      "english": "he/she/it/you (informal) have [done/had]"
+      "english": "he/she/it/you (informal) have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "Han",
-      "english": "they/you guys have [done/had]"
+      "english": "they/you guys have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "Has",
-      "english": "you (informal) have [done/had]"
+      "english": "you (informal) have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablado",
-      "english": "spoken"
+      "english": "spoken",
+      "showInMode": "compact"
     },
     {
       "spanish": "He hablado",
@@ -59,19 +66,23 @@
     },
     {
       "spanish": "Hemos hablado",
-      "english": "We have spoken"
+      "english": "We have spoken",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ha hablado",
-      "english": "He has spoken"
+      "english": "He has spoken",
+      "showInMode": "compact"
     },
     {
       "spanish": "Han hablado",
-      "english": "They have spoken"
+      "english": "They have spoken",
+      "showInMode": "compact"
     },
     {
       "spanish": "Has hablado",
-      "english": "You (informal) have spoken"
+      "english": "You (informal) have spoken",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo hemos anticipado",
@@ -87,7 +98,8 @@
     },
     {
       "spanish": "¿No has celebrado?",
-      "english": "Haven't you celebrated?"
+      "english": "Haven't you celebrated?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Por qué no has celebrado?",
@@ -95,7 +107,8 @@
     },
     {
       "spanish": "¿Dónde has celebrado?",
-      "english": "Where have you celebrated?"
+      "english": "Where have you celebrated?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Dónde lo has celebrado?",
@@ -107,7 +120,8 @@
     },
     {
       "spanish": "Hemos tomado",
-      "english": "We have taken"
+      "english": "We have taken",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Lo ha tomado?",

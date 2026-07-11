@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "Pasar",
-      "english": "to pass"
+      "english": "to pass",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pasa",
@@ -27,7 +28,8 @@
     },
     {
       "spanish": "Quiero saber qué pasa",
-      "english": "I want to know what's happening"
+      "english": "I want to know what's happening",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Qué pasó?",
@@ -35,7 +37,8 @@
     },
     {
       "spanish": "Tener",
-      "english": "to have"
+      "english": "to have",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tiene",
@@ -43,7 +46,8 @@
     },
     {
       "spanish": "Querer",
-      "english": "to want"
+      "english": "to want",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero",
@@ -51,7 +55,8 @@
     },
     {
       "spanish": "Venir",
-      "english": "to come"
+      "english": "to come",
+      "showInMode": "compact"
     },
     {
       "spanish": "Viene",
@@ -59,11 +64,13 @@
     },
     {
       "spanish": "Vienen",
-      "english": "they / you guys come"
+      "english": "they / you guys come",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vienes",
-      "english": "you (informal) come"
+      "english": "you (informal) come",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Cuándo vienes?",
@@ -71,19 +78,23 @@
     },
     {
       "spanish": "Tiempo",
-      "english": "Time"
+      "english": "Time",
+      "showInMode": "compact"
     },
     {
       "spanish": "Concierto",
-      "english": "Concert"
+      "english": "Concert",
+      "showInMode": "compact"
     },
     {
       "spanish": "Noviembre",
-      "english": "November"
+      "english": "November",
+      "showInMode": "compact"
     },
     {
       "spanish": "llegar",
-      "english": "To arrive"
+      "english": "To arrive",
+      "showInMode": "compact"
     },
     {
       "spanish": "llego",
@@ -91,15 +102,18 @@
     },
     {
       "spanish": "Esperar",
-      "english": "To wait / hope"
+      "english": "To wait / hope",
+      "showInMode": "compact"
     },
     {
       "spanish": "Espero",
-      "english": "To wait / hope"
+      "english": "To wait / hope",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pensar",
-      "english": "To think"
+      "english": "To think",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pienso",
@@ -107,11 +121,13 @@
     },
     {
       "spanish": "Piensa",
-      "english": "he/she/it/you (formal) think(s)"
+      "english": "he/she/it/you (formal) think(s)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Piensas",
-      "english": "you (informal) think"
+      "english": "you (informal) think",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Qué piensas?",
@@ -123,11 +139,13 @@
     },
     {
       "spanish": "Pienso comer más tarde",
-      "english": "I plan to eat later"
+      "english": "I plan to eat later",
+      "showInMode": "compact"
     },
     {
       "spanish": "Entender",
-      "english": "To understand"
+      "english": "To understand",
+      "showInMode": "compact"
     },
     {
       "spanish": "Entiendo",
@@ -135,15 +153,18 @@
     },
     {
       "spanish": "Entiende",
-      "english": "He understands"
+      "english": "He understands",
+      "showInMode": "compact"
     },
     {
       "spanish": "Entienden",
-      "english": "They understands"
+      "english": "They understands",
+      "showInMode": "compact"
     },
     {
       "spanish": "Perder",
-      "english": "to lose"
+      "english": "to lose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pierdo",
@@ -155,7 +176,8 @@
     },
     {
       "spanish": "Los pierdo",
-      "english": "I lose them"
+      "english": "I lose them",
+      "showInMode": "compact"
     }
   ]
 }

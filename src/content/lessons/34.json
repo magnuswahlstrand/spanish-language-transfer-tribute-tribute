@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "Desayunar",
-      "english": "To have breakfast"
+      "english": "To have breakfast",
+      "showInMode": "compact"
     },
     {
       "spanish": "Desayuno",
@@ -23,11 +24,13 @@
     },
     {
       "spanish": "El desayuno",
-      "english": "The breakfast"
+      "english": "The breakfast",
+      "showInMode": "compact"
     },
     {
       "spanish": "Esperar",
-      "english": "To wait / to hope"
+      "english": "To wait / to hope",
+      "showInMode": "compact"
     },
     {
       "spanish": "Espero",
@@ -35,11 +38,13 @@
     },
     {
       "spanish": "Hablar",
-      "english": "To speak"
+      "english": "To speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablo",
-      "english": "I speak / I'm speaking"
+      "english": "I speak / I'm speaking",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy hablando",
@@ -47,15 +52,18 @@
     },
     {
       "spanish": "Estoy esperando aquí",
-      "english": "I'm waiting here (right now)"
+      "english": "I'm waiting here (right now)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Preparar",
-      "english": "To prepare"
+      "english": "To prepare",
+      "showInMode": "compact"
     },
     {
       "spanish": "Preparo",
-      "english": "I prepare / I'm preparing"
+      "english": "I prepare / I'm preparing",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo preparo mañana",
@@ -63,7 +71,8 @@
     },
     {
       "spanish": "Lo preparo más tarde",
-      "english": "I'm preparing it later"
+      "english": "I'm preparing it later",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy preparando",
@@ -75,7 +84,8 @@
     },
     {
       "spanish": "Estoy preparando lo",
-      "english": "I'm preparing it (right now)"
+      "english": "I'm preparing it (right now)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estamos desayunando",
@@ -87,7 +97,8 @@
     },
     {
       "spanish": "Está comiendo",
-      "english": "He is eating (right now)"
+      "english": "He is eating (right now)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo venden",
@@ -95,11 +106,13 @@
     },
     {
       "spanish": "Lo venden mañana",
-      "english": "They are selling it tomorrow"
+      "english": "They are selling it tomorrow",
+      "showInMode": "compact"
     },
     {
       "spanish": "Están vendiendo lo",
-      "english": "They are selling it (right now)"
+      "english": "They are selling it (right now)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo están vendiendo",

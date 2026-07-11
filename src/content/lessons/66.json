@@ -27,7 +27,8 @@
     },
     {
       "spanish": "No me duele la pierna más",
-      "english": "My leg doesn't hurt anymore"
+      "english": "My leg doesn't hurt anymore",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tengo dolor de cabeza",
@@ -35,7 +36,8 @@
     },
     {
       "spanish": "Tenía dolor de cabeza",
-      "english": "I had a headache"
+      "english": "I had a headache",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me dolía la cabeza",
@@ -51,7 +53,8 @@
     },
     {
       "spanish": "Vamos a la fiesta de Maria",
-      "english": "We are going to Maria's party"
+      "english": "We are going to Maria's party",
+      "showInMode": "compact"
     },
     {
       "spanish": "No hablé con nadie más en la fiesta de Maria, solo hablé contigo",

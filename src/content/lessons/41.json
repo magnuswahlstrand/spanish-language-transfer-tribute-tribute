@@ -19,7 +19,8 @@
     },
     {
       "spanish": "Vamos a bailar más tarde",
-      "english": "We are going to dance later"
+      "english": "We are going to dance later",
+      "showInMode": "compact"
     },
     {
       "spanish": "Bailamos más tarde",
@@ -35,15 +36,18 @@
     },
     {
       "spanish": "Bailaríamos",
-      "english": "I/he/she/you (formal) would dance"
+      "english": "I/he/she/you (formal) would dance",
+      "showInMode": "compact"
     },
     {
       "spanish": "Bailarían",
-      "english": "They / you guys would dance"
+      "english": "They / you guys would dance",
+      "showInMode": "compact"
     },
     {
       "spanish": "Bailarías",
-      "english": "You (informal) would dance"
+      "english": "You (informal) would dance",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ir",
@@ -55,7 +59,8 @@
     },
     {
       "spanish": "No iría",
-      "english": "She wouldn't go"
+      "english": "She wouldn't go",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comería",
@@ -71,7 +76,8 @@
     },
     {
       "spanish": "Transformaría la situación",
-      "english": "It would transform the situation"
+      "english": "It would transform the situation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se transformaría",

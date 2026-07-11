@@ -19,11 +19,12 @@
     },
     {
       "spanish": "Me enamoro de ti",
-      "english": "I enamor myself of you / I fall in love with you"
+      "english": "I fall in love with you"
     },
     {
       "spanish": "Me enamoro de él",
-      "english": "I fall in love with him"
+      "english": "I fall in love with him",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy enamorando me",
@@ -39,23 +40,28 @@
     },
     {
       "spanish": "Pensamos en ti",
-      "english": "We think about you"
+      "english": "We think about you",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pensamos en ella",
-      "english": "We think about her"
+      "english": "We think about her",
+      "showInMode": "compact"
     },
     {
       "spanish": "Soñar",
-      "english": "To dream"
+      "english": "To dream",
+      "showInMode": "compact"
     },
     {
       "spanish": "Sueño",
-      "english": "I dream"
+      "english": "I dream",
+      "showInMode": "compact"
     },
     {
       "spanish": "Soñamos",
-      "english": "We dream"
+      "english": "We dream",
+      "showInMode": "compact"
     },
     {
       "spanish": "Sueño con ella",
@@ -63,7 +69,8 @@
     },
     {
       "spanish": "Sueña con él",
-      "english": "He dreams about him"
+      "english": "He dreams about him",
+      "showInMode": "compact"
     },
     {
       "spanish": "Conmigo",
@@ -79,7 +86,8 @@
     },
     {
       "spanish": "¿No quieres venir conmigo?",
-      "english": "Don't you want to come with me?"
+      "english": "Don't you want to come with me?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Por qué no quieres venir conmigo?",

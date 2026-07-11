@@ -15,11 +15,13 @@
   "sentences": [
     {
       "spanish": "Hablé",
-      "english": "I spoke"
+      "english": "I spoke",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comí",
-      "english": "I ate"
+      "english": "I ate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Di",
@@ -27,11 +29,13 @@
     },
     {
       "spanish": "Dió",
-      "english": "He/she/it/you (formal) gave"
+      "english": "He/she/it/you (formal) gave",
+      "showInMode": "compact"
     },
     {
       "spanish": "Dimos",
-      "english": "We gave"
+      "english": "We gave",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me dio",
@@ -59,11 +63,13 @@
     },
     {
       "spanish": "Ella se habla",
-      "english": "She speaks to herself"
+      "english": "She speaks to herself",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se hablan",
-      "english": "They speak to themselves"
+      "english": "They speak to themselves",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se lo di",
@@ -71,11 +77,13 @@
     },
     {
       "spanish": "Se lo di",
-      "english": "I gave it to you guys"
+      "english": "I gave it to you guys",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se lo di",
-      "english": "I gave it to them"
+      "english": "I gave it to them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se los di",
@@ -87,11 +95,13 @@
     },
     {
       "spanish": "Le di algo a ella",
-      "english": "I gave something to her"
+      "english": "I gave something to her",
+      "showInMode": "compact"
     },
     {
       "spanish": "Le di algo a usted",
-      "english": "I gave something to you (formal)"
+      "english": "I gave something to you (formal)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se lo vendí a él",
@@ -99,7 +109,8 @@
     },
     {
       "spanish": "Se lo vendí a ella",
-      "english": "I sold it to her"
+      "english": "I sold it to her",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se los vendí a ella",
@@ -107,11 +118,13 @@
     },
     {
       "spanish": "Se las vendí a ella",
-      "english": "I sold them (feminine things) to her"
+      "english": "I sold them (feminine things) to her",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se las vendí a ellos",
-      "english": "I sold them (feminine things) to them (mixed group)"
+      "english": "I sold them (feminine things) to them (mixed group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se lo envió a ella",
@@ -119,7 +132,8 @@
     },
     {
       "spanish": "Se lo envió a ustedes",
-      "english": "He sent it to you guys"
+      "english": "He sent it to you guys",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me lo compra a mi",
@@ -131,7 +145,8 @@
     },
     {
       "spanish": "Él se lo envió a ella",
-      "english": "He sent it to her"
+      "english": "He sent it to her",
+      "showInMode": "compact"
     },
     {
       "spanish": "No se lo envió a ustedes todavía",
@@ -139,7 +154,8 @@
     },
     {
       "spanish": "No se lo envió todavía a ustedes",
-      "english": "He didn't send it to you guys yet"
+      "english": "He didn't send it to you guys yet",
+      "showInMode": "compact"
     },
     {
       "spanish": "No se si se lo envíé",

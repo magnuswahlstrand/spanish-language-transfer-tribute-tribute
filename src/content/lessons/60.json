@@ -31,7 +31,8 @@
     },
     {
       "spanish": "Hablamos ayer",
-      "english": "We spoke yesterday"
+      "english": "We spoke yesterday",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablamos mañana",
@@ -43,7 +44,8 @@
     },
     {
       "spanish": "Esperamos mucho ayer",
-      "english": "We waited a lot yesterday"
+      "english": "We waited a lot yesterday",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comemos",
@@ -71,7 +73,8 @@
     },
     {
       "spanish": "Perdimos",
-      "english": "We lost"
+      "english": "We lost",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nos perdimos",
@@ -103,19 +106,23 @@
     },
     {
       "spanish": "Hablé",
-      "english": "I spoke"
+      "english": "I spoke",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habló",
-      "english": "He/she/it/you (formal) spoke"
+      "english": "He/she/it/you (formal) spoke",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comí",
-      "english": "I ate"
+      "english": "I ate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comió",
-      "english": "He/she/it/you (formal) ate"
+      "english": "He/she/it/you (formal) ate",
+      "showInMode": "compact"
     }
   ]
 }

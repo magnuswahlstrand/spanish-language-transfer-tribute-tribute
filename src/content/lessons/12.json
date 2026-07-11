@@ -19,7 +19,8 @@
   "sentences": [
     {
       "spanish": "Contaminar",
-      "english": "To contaminate"
+      "english": "To contaminate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Contamina",
@@ -31,11 +32,13 @@
     },
     {
       "spanish": "Contaminas",
-      "english": "You (formal) contaminate"
+      "english": "You (formal) contaminate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vender",
-      "english": "To sell"
+      "english": "To sell",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vendo",
@@ -51,7 +54,8 @@
     },
     {
       "spanish": "Las vendo",
-      "english": "I'm selling them"
+      "english": "I'm selling them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vendo las casas",
@@ -71,15 +75,18 @@
     },
     {
       "spanish": "La asosiación",
-      "english": "The association"
+      "english": "The association",
+      "showInMode": "compact"
     },
     {
       "spanish": "La celebración",
-      "english": "The celebration"
+      "english": "The celebration",
+      "showInMode": "compact"
     },
     {
       "spanish": "Diversidad",
-      "english": "Diversity"
+      "english": "Diversity",
+      "showInMode": "compact"
     },
     {
       "spanish": "La diversidad",
@@ -87,43 +94,53 @@
     },
     {
       "spanish": "La nacionalidad",
-      "english": "The nationality"
+      "english": "The nationality",
+      "showInMode": "compact"
     },
     {
       "spanish": "La creatividad",
-      "english": "The creativity"
+      "english": "The creativity",
+      "showInMode": "compact"
     },
     {
       "spanish": "La electricidad",
-      "english": "The electricity"
+      "english": "The electricity",
+      "showInMode": "compact"
     },
     {
       "spanish": "Electrico",
-      "english": "Electric"
+      "english": "Electric",
+      "showInMode": "compact"
     },
     {
       "spanish": "Generosidad",
-      "english": "Generosity"
+      "english": "Generosity",
+      "showInMode": "compact"
     },
     {
       "spanish": "Generoso",
-      "english": "Generous"
+      "english": "Generous",
+      "showInMode": "compact"
     },
     {
       "spanish": "Generosa",
-      "english": "Generous"
+      "english": "Generous",
+      "showInMode": "compact"
     },
     {
       "spanish": "Generosos",
-      "english": "Generous (them, male)"
+      "english": "Generous (them, male)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Generosas",
-      "english": "Generous (them, female)"
+      "english": "Generous (them, female)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comunidad",
-      "english": "Commnunity"
+      "english": "Commnunity",
+      "showInMode": "compact"
     },
     {
       "spanish": "La comunidad",
@@ -131,51 +148,63 @@
     },
     {
       "spanish": "Común",
-      "english": "Common"
+      "english": "Common",
+      "showInMode": "compact"
     },
     {
       "spanish": "Oportunidad",
-      "english": "Opportunity"
+      "english": "Opportunity",
+      "showInMode": "compact"
     },
     {
       "spanish": "Oportuno",
-      "english": "Opportune (masculine word)"
+      "english": "Opportune (masculine word)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Oportuna",
-      "english": "Opportune (feminine word)"
+      "english": "Opportune (feminine word)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Claridad",
-      "english": "Clarity"
+      "english": "Clarity",
+      "showInMode": "compact"
     },
     {
       "spanish": "Claro",
-      "english": "Clear"
+      "english": "Clear",
+      "showInMode": "compact"
     },
     {
       "spanish": "Personalidad",
-      "english": "Personality"
+      "english": "Personality",
+      "showInMode": "compact"
     },
     {
       "spanish": "Persona",
-      "english": "Person"
+      "english": "Person",
+      "showInMode": "compact"
     },
     {
       "spanish": "Sinceridad",
-      "english": "Sincerity"
+      "english": "Sincerity",
+      "showInMode": "compact"
     },
     {
       "spanish": "Sincero",
-      "english": "Sincere (masuline word)"
+      "english": "Sincere (masuline word)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero vender",
-      "english": "I want to sell"
+      "english": "I want to sell",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero vender lo",
-      "english": "I want to sell it"
+      "english": "I want to sell it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vende",
@@ -187,7 +216,8 @@
     },
     {
       "spanish": "Vende algo",
-      "english": "he/she/it/you (formal) sells something"
+      "english": "he/she/it/you (formal) sells something",
+      "showInMode": "compact"
     },
     {
       "spanish": "Venden",

@@ -16,11 +16,13 @@
   "sentences": [
     {
       "spanish": "Normal",
-      "english": "Normal"
+      "english": "Normal",
+      "showInMode": "compact"
     },
     {
       "spanish": "Metal",
-      "english": "Metal"
+      "english": "Metal",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es",
@@ -32,15 +34,18 @@
     },
     {
       "spanish": "Es normal",
-      "english": "She is normal"
+      "english": "She is normal",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es normal",
-      "english": "It is normal"
+      "english": "It is normal",
+      "showInMode": "compact"
     },
     {
       "spanish": "Legal",
-      "english": "Legal"
+      "english": "Legal",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es legal",
@@ -48,7 +53,8 @@
     },
     {
       "spanish": "Ilegal",
-      "english": "Illegal"
+      "english": "Illegal",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es ilegal",
@@ -60,7 +66,8 @@
     },
     {
       "spanish": "Natural",
-      "english": "Natural"
+      "english": "Natural",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es natural",
@@ -76,39 +83,48 @@
     },
     {
       "spanish": "Fatal",
-      "english": "Fatal"
+      "english": "Fatal",
+      "showInMode": "compact"
     },
     {
       "spanish": "Natal",
-      "english": "Natal"
+      "english": "Natal",
+      "showInMode": "compact"
     },
     {
       "spanish": "Colonial",
-      "english": "Colonial"
+      "english": "Colonial",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cultural",
-      "english": "Cultural"
+      "english": "Cultural",
+      "showInMode": "compact"
     },
     {
       "spanish": "Anual",
-      "english": "Annual"
+      "english": "Annual",
+      "showInMode": "compact"
     },
     {
       "spanish": "Dental",
-      "english": "Dental"
+      "english": "Dental",
+      "showInMode": "compact"
     },
     {
       "spanish": "Personal",
-      "english": "Personal"
+      "english": "Personal",
+      "showInMode": "compact"
     },
     {
       "spanish": "Total",
-      "english": "Total"
+      "english": "Total",
+      "showInMode": "compact"
     },
     {
       "spanish": "Verbal",
-      "english": "Verbal"
+      "english": "Verbal",
+      "showInMode": "compact"
     }
   ]
 }

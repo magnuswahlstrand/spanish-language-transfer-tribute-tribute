@@ -31,7 +31,8 @@
     },
     {
       "spanish": "Es aburrido",
-      "english": "He is boring"
+      "english": "He is boring",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es aburrida",
@@ -67,7 +68,8 @@
     },
     {
       "spanish": "Soy una persona libre",
-      "english": "I am a free person"
+      "english": "I am a free person",
+      "showInMode": "compact"
     },
     {
       "spanish": "Soy una persona casada",

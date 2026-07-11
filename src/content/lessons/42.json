@@ -23,7 +23,8 @@
     },
     {
       "spanish": "Me gusta mucho",
-      "english": "It pleases me alot (I like it alot)"
+      "english": "It pleases me alot (I like it alot)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me gusto",
@@ -35,19 +36,23 @@
     },
     {
       "spanish": "Hablaría",
-      "english": "I/he/she/it/you (formal) would speak"
+      "english": "I/he/she/it/you (formal) would speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablaríamos",
-      "english": "We would speak"
+      "english": "We would speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablarían",
-      "english": "They would speak"
+      "english": "They would speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "No hablarían",
-      "english": "They wouldn't speak"
+      "english": "They wouldn't speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me gustaría",
@@ -59,7 +64,8 @@
     },
     {
       "spanish": "Nos gustaría comer ahora",
-      "english": "It would please us to eat now (We would like to eat now)"
+      "english": "It would please us to eat now (We would like to eat now)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me gustaría verte",
@@ -71,15 +77,18 @@
     },
     {
       "spanish": "Podrían",
-      "english": "They / you guys could"
+      "english": "They / you guys could",
+      "showInMode": "compact"
     },
     {
       "spanish": "Podrías",
-      "english": "You (informal) could"
+      "english": "You (informal) could",
+      "showInMode": "compact"
     },
     {
       "spanish": "Podriamos",
-      "english": "We (informal) could"
+      "english": "We (informal) could",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Podrias venir a mi casa?",

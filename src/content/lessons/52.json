@@ -23,7 +23,8 @@
     },
     {
       "spanish": "Hemos hablado para intentar resolverlo",
-      "english": "We have spoken (in order) to try to resolve it"
+      "english": "We have spoken (in order) to try to resolve it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy aquí para verte",
@@ -39,11 +40,13 @@
     },
     {
       "spanish": "Estoy hablando",
-      "english": "I am speaking"
+      "english": "I am speaking",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy explicando lo",
-      "english": "I am explaining it"
+      "english": "I am explaining it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo estoy explicando",
@@ -59,7 +62,8 @@
     },
     {
       "spanish": "Estaba tomando",
-      "english": "I was taking"
+      "english": "I was taking",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tomaba",
@@ -79,23 +83,28 @@
     },
     {
       "spanish": "Nadar es saludable",
-      "english": "Swimming is healthy"
+      "english": "Swimming is healthy",
+      "showInMode": "compact"
     },
     {
       "spanish": "Interesante",
-      "english": "Interesting"
+      "english": "Interesting",
+      "showInMode": "compact"
     },
     {
       "spanish": "Iritante",
-      "english": "Irritating"
+      "english": "Irritating",
+      "showInMode": "compact"
     },
     {
       "spanish": "Es iritante",
-      "english": "It is irritating"
+      "english": "It is irritating",
+      "showInMode": "compact"
     },
     {
       "spanish": "Frustrante",
-      "english": "Frustrating"
+      "english": "Frustrating",
+      "showInMode": "compact"
     },
     {
       "spanish": "Un ser viviente",
@@ -103,23 +112,28 @@
     },
     {
       "spanish": "Lunes",
-      "english": "Monday"
+      "english": "Monday",
+      "showInMode": "compact"
     },
     {
       "spanish": "Martes",
-      "english": "Tuesday"
+      "english": "Tuesday",
+      "showInMode": "compact"
     },
     {
       "spanish": "Miércoles",
-      "english": "Wednesday"
+      "english": "Wednesday",
+      "showInMode": "compact"
     },
     {
       "spanish": "Jueves",
-      "english": "Thursday"
+      "english": "Thursday",
+      "showInMode": "compact"
     },
     {
       "spanish": "Viernes",
-      "english": "Friday"
+      "english": "Friday",
+      "showInMode": "compact"
     }
   ]
 }

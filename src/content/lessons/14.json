@@ -43,7 +43,8 @@
     },
     {
       "spanish": "No sé que quiere él",
-      "english": "I don't know what he wants"
+      "english": "I don't know what he wants",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero verla",
@@ -67,7 +68,8 @@
     },
     {
       "spanish": "Yo no quiero invitarlo per ella sí",
-      "english": "I don't want to invite him but she does"
+      "english": "I don't want to invite him but she does",
+      "showInMode": "compact"
     },
     {
       "spanish": "Salgo",
@@ -75,15 +77,18 @@
     },
     {
       "spanish": "Sale",
-      "english": "he/she/it/you (formal) leave(s)"
+      "english": "he/she/it/you (formal) leave(s)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Salen",
-      "english": "they/you guys leave"
+      "english": "they/you guys leave",
+      "showInMode": "compact"
     },
     {
       "spanish": "Sales",
-      "english": "you (informal) leave"
+      "english": "you (informal) leave",
+      "showInMode": "compact"
     },
     {
       "spanish": "Salgo a comer",
@@ -95,11 +100,13 @@
     },
     {
       "spanish": "Lo tengo",
-      "english": "I have it"
+      "english": "I have it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los tengo",
-      "english": "I have them"
+      "english": "I have them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tengo que comer",
@@ -111,27 +118,33 @@
     },
     {
       "spanish": "Lo tengo que hacer",
-      "english": "I have to do it"
+      "english": "I have to do it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tengo que verla",
-      "english": "I have to see her"
+      "english": "I have to see her",
+      "showInMode": "compact"
     },
     {
       "spanish": "La tengo que ver",
-      "english": "I have to see her"
+      "english": "I have to see her",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tienen",
-      "english": "They / you guys have"
+      "english": "They / you guys have",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tienes",
-      "english": "You (informal) have"
+      "english": "You (informal) have",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vienes",
-      "english": "You (informal) come"
+      "english": "You (informal) come",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cuándo vienes?",
@@ -139,31 +152,38 @@
     },
     {
       "spanish": "Cuándo vienes a comer?",
-      "english": "When are you coming to eat"
+      "english": "When are you coming to eat",
+      "showInMode": "compact"
     },
     {
       "spanish": "Contener",
-      "english": "To contain"
+      "english": "To contain",
+      "showInMode": "compact"
     },
     {
       "spanish": "Obtener",
-      "english": "To obtain"
+      "english": "To obtain",
+      "showInMode": "compact"
     },
     {
       "spanish": "Sostener",
-      "english": "To sustain"
+      "english": "To sustain",
+      "showInMode": "compact"
     },
     {
       "spanish": "Mantener",
-      "english": "To maintain"
+      "english": "To maintain",
+      "showInMode": "compact"
     },
     {
       "spanish": "Entretener",
-      "english": "To entertain"
+      "english": "To entertain",
+      "showInMode": "compact"
     },
     {
       "spanish": "Obtengo",
-      "english": "I obtain"
+      "english": "I obtain",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pongo",
@@ -171,11 +191,13 @@
     },
     {
       "spanish": "Componer",
-      "english": "To compose"
+      "english": "To compose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Suponer",
-      "english": "To suppose"
+      "english": "To suppose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Supongo",
@@ -187,23 +209,28 @@
     },
     {
       "spanish": "Imponer",
-      "english": "To impose"
+      "english": "To impose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Exponer",
-      "english": "Expose"
+      "english": "Expose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Oponer",
-      "english": "To oppose"
+      "english": "To oppose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo Opongo",
-      "english": "I oppose it"
+      "english": "I oppose it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tengo que comer ahora",
-      "english": "I have to eat now"
+      "english": "I have to eat now",
+      "showInMode": "compact"
     },
     {
       "spanish": "Debo comer",

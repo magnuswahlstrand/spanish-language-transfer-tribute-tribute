@@ -15,35 +15,43 @@
   "sentences": [
     {
       "spanish": "Mañana",
-      "english": "tomorrow"
+      "english": "tomorrow",
+      "showInMode": "compact"
     },
     {
       "spanish": "Más tarde",
-      "english": "later"
+      "english": "later",
+      "showInMode": "compact"
     },
     {
       "spanish": "Esta noche",
-      "english": "tonight"
+      "english": "tonight",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pronto",
-      "english": "soon"
+      "english": "soon",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ve",
-      "english": "He sees"
+      "english": "He sees",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ven",
-      "english": "They see"
+      "english": "They see",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ves",
-      "english": "You (informal) see"
+      "english": "You (informal) see",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vemos",
-      "english": "We see"
+      "english": "We see",
+      "showInMode": "compact"
     },
     {
       "spanish": "Veo",
@@ -55,23 +63,28 @@
     },
     {
       "spanish": "La veo esta noche",
-      "english": "I'm seeing her tonight"
+      "english": "I'm seeing her tonight",
+      "showInMode": "compact"
     },
     {
       "spanish": "La vemos pronto",
-      "english": "We're seeing her soon"
+      "english": "We're seeing her soon",
+      "showInMode": "compact"
     },
     {
       "spanish": "Las vemos pronto",
-      "english": "We're seeing them (females) soon"
+      "english": "We're seeing them (females) soon",
+      "showInMode": "compact"
     },
     {
       "spanish": "Las ve pronto",
-      "english": "He is seeing them (females) soon"
+      "english": "He is seeing them (females) soon",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Las ves pronto?",
-      "english": "Are you seeing them (females) soon?"
+      "english": "Are you seeing them (females) soon?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿No las ves pronto?",
@@ -95,11 +108,13 @@
     },
     {
       "spanish": "¿Nos vas a ver pronto?",
-      "english": "Are you going to see us soon?"
+      "english": "Are you going to see us soon?",
+      "showInMode": "compact"
     },
     {
       "spanish": "La semana que viene",
-      "english": "Next week"
+      "english": "Next week",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablamos la semana que viene",

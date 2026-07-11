@@ -15,35 +15,43 @@
   "sentences": [
     {
       "spanish": "Él ve",
-      "english": "He sees"
+      "english": "He sees",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo veo",
-      "english": "I see it him"
+      "english": "I see it him",
+      "showInMode": "compact"
     },
     {
       "spanish": "Le he hablado",
-      "english": "I have spoken to him"
+      "english": "I have spoken to him",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ellos me ven",
-      "english": "They see me"
+      "english": "They see me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los veo",
-      "english": "I see them (group of males/mixed or masculine/mixed things)"
+      "english": "I see them (group of males/mixed or masculine/mixed things)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Les han hablado",
-      "english": "They have spoken to them / you guys"
+      "english": "They have spoken to them / you guys",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tú ves",
-      "english": "You (informal) see"
+      "english": "You (informal) see",
+      "showInMode": "compact"
     },
     {
       "spanish": "Te quiero",
-      "english": "I love you"
+      "english": "I love you",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me hablo",
@@ -55,11 +63,13 @@
     },
     {
       "spanish": "Él se habla",
-      "english": "He speaks to himself"
+      "english": "He speaks to himself",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ella se habla",
-      "english": "She speaks to herself"
+      "english": "She speaks to herself",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se hablan",
@@ -75,11 +85,13 @@
     },
     {
       "spanish": "Nos quedamos",
-      "english": "We stay (ourselves)"
+      "english": "We stay (ourselves)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Te quedas",
-      "english": "You stay (yourself)"
+      "english": "You stay (yourself)",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Te quedas?",
@@ -87,7 +99,8 @@
     },
     {
       "spanish": "¿No te quedas?",
-      "english": "Aren't you staying?"
+      "english": "Aren't you staying?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Por qué no te quedas?",
@@ -95,19 +108,23 @@
     },
     {
       "spanish": "Yo me quedo",
-      "english": "I stay (myself)"
+      "english": "I stay (myself)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nosotros nos quedamos",
-      "english": "We stay (ourselves)"
+      "english": "We stay (ourselves)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nosotras nos quedamos",
-      "english": "We (all female group) stay (ourselves)"
+      "english": "We (all female group) stay (ourselves)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tú te quedas",
-      "english": "You stay (yourself)"
+      "english": "You stay (yourself)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se queda",
@@ -115,7 +132,8 @@
     },
     {
       "spanish": "Se quedan",
-      "english": "They stay (themselves)"
+      "english": "They stay (themselves)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero quedarme",
@@ -123,39 +141,48 @@
     },
     {
       "spanish": "Quiere quedarse",
-      "english": "He/She/you (formal) wants to stay"
+      "english": "He/She/you (formal) wants to stay",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ella quiere quedarse",
-      "english": "She wants to stay (emphasising 'she')"
+      "english": "She wants to stay (emphasising 'she')",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quieren quedarse",
-      "english": "They / you guys want to stay"
+      "english": "They / you guys want to stay",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ellas quieren quedarse",
-      "english": "They (female group) want to stay"
+      "english": "They (female group) want to stay",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ustedes quieren quedarse",
-      "english": "You guys want to stay"
+      "english": "You guys want to stay",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me doy cuenta",
-      "english": "I realize"
+      "english": "I realize",
+      "showInMode": "compact"
     },
     {
       "spanish": "Te das cuenta",
-      "english": "You realize"
+      "english": "You realize",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Te das cuenta?",
-      "english": "Do you realize?"
+      "english": "Do you realize?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nos damos cuenta",
-      "english": "We realize"
+      "english": "We realize",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se da cuenta",
@@ -163,7 +190,8 @@
     },
     {
       "spanish": "Ella se da cuenta",
-      "english": "She realizes (emphasising she)"
+      "english": "She realizes (emphasising she)",
+      "showInMode": "compact"
     },
     {
       "spanish": "No se dan cuenta",
@@ -171,7 +199,8 @@
     },
     {
       "spanish": "No se dan cuenta",
-      "english": "You guys don't realize"
+      "english": "You guys don't realize",
+      "showInMode": "compact"
     }
   ]
 }

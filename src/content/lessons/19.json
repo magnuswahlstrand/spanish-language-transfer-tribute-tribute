@@ -15,11 +15,13 @@
   "sentences": [
     {
       "spanish": "Va",
-      "english": "he/she/it/you (formal) go(es)"
+      "english": "he/she/it/you (formal) go(es)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vas",
-      "english": "you (informal)"
+      "english": "you (informal)",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿A dónde vas?",
@@ -27,7 +29,8 @@
     },
     {
       "spanish": "Van",
-      "english": "They go"
+      "english": "They go",
+      "showInMode": "compact"
     },
     {
       "spanish": "Voy",
@@ -35,7 +38,8 @@
     },
     {
       "spanish": "Ir",
-      "english": "to go"
+      "english": "to go",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero ir",
@@ -43,11 +47,13 @@
     },
     {
       "spanish": "Puedo ir",
-      "english": "I can go"
+      "english": "I can go",
+      "showInMode": "compact"
     },
     {
       "spanish": "Debo ir",
-      "english": "I must go"
+      "english": "I must go",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tengo que ir",
@@ -55,27 +61,33 @@
     },
     {
       "spanish": "Tengo que ir ahora",
-      "english": "I have to go now"
+      "english": "I have to go now",
+      "showInMode": "compact"
     },
     {
       "spanish": "Esta noche",
-      "english": "Tonight"
+      "english": "Tonight",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tengo que ir esta noche",
-      "english": "I have to go tonight"
+      "english": "I have to go tonight",
+      "showInMode": "compact"
     },
     {
       "spanish": "La noche",
-      "english": "The night"
+      "english": "The night",
+      "showInMode": "compact"
     },
     {
       "spanish": "Carne",
-      "english": "Meat"
+      "english": "Meat",
+      "showInMode": "compact"
     },
     {
       "spanish": "La carne",
-      "english": "The meat"
+      "english": "The meat",
+      "showInMode": "compact"
     },
     {
       "spanish": "No como carne",
@@ -87,7 +99,8 @@
     },
     {
       "spanish": "Como carne y tomo alcohol",
-      "english": "I  eat meat and I drink alcohol"
+      "english": "I  eat meat and I drink alcohol",
+      "showInMode": "compact"
     }
   ]
 }

@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "General",
-      "english": "General"
+      "english": "General",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habla",
@@ -23,11 +24,13 @@
     },
     {
       "spanish": "Hablan",
-      "english": "They / you guys speak"
+      "english": "They / you guys speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablas",
-      "english": "You (informal) speak"
+      "english": "You (informal) speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablamos",
@@ -35,39 +38,48 @@
     },
     {
       "spanish": "Importante",
-      "english": "Important"
+      "english": "Important",
+      "showInMode": "compact"
     },
     {
       "spanish": "Adictivo",
-      "english": "Addictive"
+      "english": "Addictive",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comer",
-      "english": "To eat"
+      "english": "To eat",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estar",
-      "english": "To be (states)"
+      "english": "To be (states)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablar",
-      "english": "To speak"
+      "english": "To speak",
+      "showInMode": "compact"
     },
     {
       "spanish": "Encontrar",
-      "english": "To find"
+      "english": "To find",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tradición",
-      "english": "Tradition"
+      "english": "Tradition",
+      "showInMode": "compact"
     },
     {
       "spanish": "Situación",
-      "english": "Situation"
+      "english": "Situation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Opinión",
-      "english": "Opinion"
+      "english": "Opinion",
+      "showInMode": "compact"
     },
     {
       "spanish": "Encuentro",
@@ -83,15 +95,18 @@
     },
     {
       "spanish": "Vivió",
-      "english": "He/she lived"
+      "english": "He/she lived",
+      "showInMode": "compact"
     },
     {
       "spanish": "Salud",
-      "english": "Cheers (health)"
+      "english": "Cheers (health)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Limón",
-      "english": "Lemon"
+      "english": "Lemon",
+      "showInMode": "compact"
     },
     {
       "spanish": "Sí",
@@ -99,7 +114,8 @@
     },
     {
       "spanish": "Si",
-      "english": "If"
+      "english": "If",
+      "showInMode": "compact"
     },
     {
       "spanish": "Sí lo quiero",
@@ -107,7 +123,8 @@
     },
     {
       "spanish": "Si lo quiero",
-      "english": "If I want it"
+      "english": "If I want it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Para mí",

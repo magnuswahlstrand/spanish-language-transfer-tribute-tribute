@@ -23,7 +23,8 @@
     },
     {
       "spanish": "Esas noches",
-      "english": "Those nights"
+      "english": "Those nights",
+      "showInMode": "compact"
     },
     {
       "spanish": "Este hombre",
@@ -55,7 +56,8 @@
     },
     {
       "spanish": "Nada me gustó más que eso",
-      "english": "Nothing please me more than that"
+      "english": "Nothing please me more than that",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estaba tan cansada",
@@ -63,7 +65,8 @@
     },
     {
       "spanish": "Estábamos tan cansada que dormimos todo el día",
-      "english": "We were so tired that we slept all day"
+      "english": "We were so tired that we slept all day",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estábamos tan cansada cuando llegamos que dormimos todo el día",
@@ -79,11 +82,13 @@
     },
     {
       "spanish": "No sé cuantas veces lo visitaron",
-      "english": "I don't know how many times I visited him"
+      "english": "I don't know how many times I visited him",
+      "showInMode": "compact"
     },
     {
       "spanish": "No sé cuantas veces la visitaron",
-      "english": "I don't know how many times I visited her"
+      "english": "I don't know how many times I visited her",
+      "showInMode": "compact"
     }
   ]
 }

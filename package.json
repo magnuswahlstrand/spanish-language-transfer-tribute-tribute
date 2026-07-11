@@ -16,7 +16,8 @@
     "format": "prettier --write .",
     "format:check": "prettier --check .",
     "typecheck": "tsc --noEmit",
-    "import:lesson": "tsx scripts/import-html.ts"
+    "import:lesson": "tsx scripts/import-html.ts",
+    "review:lesson": "tsx scripts/review-lesson.ts"
   },
   "dependencies": {
     "astro": "^5.0.0"

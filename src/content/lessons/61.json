@@ -19,7 +19,8 @@
     },
     {
       "spanish": "Cocinaba cuando sonó el teléfono",
-      "english": "I was cooking when the phone rang"
+      "english": "I was cooking when the phone rang",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablaba por teléfono cuando María llegó",
@@ -31,11 +32,13 @@
     },
     {
       "spanish": "Se quedó",
-      "english": "He/she/it/you (formal) stayed"
+      "english": "He/she/it/you (formal) stayed",
+      "showInMode": "compact"
     },
     {
       "spanish": "nos quedamos",
-      "english": "We stayed"
+      "english": "We stayed",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me gustó",

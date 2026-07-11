@@ -19,7 +19,8 @@
     },
     {
       "spanish": "Voy a desayunar con ellos",
-      "english": "I am going to have breakfast with them"
+      "english": "I am going to have breakfast with them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Voy a desayunar con ellos mañana",
@@ -31,7 +32,8 @@
     },
     {
       "spanish": "Hemos",
-      "english": "We have (gone/done/said/etc.)"
+      "english": "We have (gone/done/said/etc.)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ha",
@@ -39,11 +41,13 @@
     },
     {
       "spanish": "Han",
-      "english": "They / you guys have"
+      "english": "They / you guys have",
+      "showInMode": "compact"
     },
     {
       "spanish": "Has",
-      "english": "You (informal) have"
+      "english": "You (informal) have",
+      "showInMode": "compact"
     },
     {
       "spanish": "He dormido",
@@ -51,11 +55,13 @@
     },
     {
       "spanish": "Hemos dormido",
-      "english": "We have slept"
+      "english": "We have slept",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ha dormido",
-      "english": "He has slept"
+      "english": "He has slept",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo han recomendado",
@@ -79,7 +85,8 @@
     },
     {
       "spanish": "Comerán",
-      "english": "They/you guys will eat"
+      "english": "They/you guys will eat",
+      "showInMode": "compact"
     },
     {
       "spanish": "Iré",
@@ -90,20 +97,19 @@
       "english": "We will go"
     },
     {
-      "spanish": "Irá",
-      "english": "He/she/you (formal) will go"
-    },
-    {
       "spanish": "Irás",
-      "english": "You (informal) will go"
+      "english": "You (informal) will go",
+      "showInMode": "compact"
     },
     {
       "spanish": "Irán",
-      "english": "They/you guys will go"
+      "english": "They/you guys will go",
+      "showInMode": "compact"
     },
     {
       "spanish": "Irán a Iran",
-      "english": "They/you guys will go to Iran"
+      "english": "They/you guys will go to Iran",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Irás?",
@@ -111,7 +117,8 @@
     },
     {
       "spanish": "¿No irás?",
-      "english": "Won't you (informal) go?"
+      "english": "Won't you (informal) go?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Por qué no irás?",
@@ -119,7 +126,8 @@
     },
     {
       "spanish": "Encontrar",
-      "english": "To find"
+      "english": "To find",
+      "showInMode": "compact"
     },
     {
       "spanish": "Encontraré",
@@ -131,15 +139,18 @@
     },
     {
       "spanish": "Lo encontraremos",
-      "english": "We will find it"
+      "english": "We will find it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo encontrará",
-      "english": "He/She will find it"
+      "english": "He/She will find it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los encontrará",
-      "english": "He/She will find them"
+      "english": "He/She will find them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me quedo",
@@ -151,35 +162,32 @@
     },
     {
       "spanish": "Me quedaré aquí",
-      "english": "I will stay here"
+      "english": "I will stay here",
+      "showInMode": "compact"
     },
     {
       "spanish": "Prepararé",
-      "english": "I will prepare"
+      "english": "I will prepare",
+      "showInMode": "compact"
     },
     {
       "spanish": "Esperaré",
-      "english": "I will wait"
+      "english": "I will wait",
+      "showInMode": "compact"
     },
     {
       "spanish": "Organizara",
-      "english": "He will organize"
+      "english": "He will organize",
+      "showInMode": "compact"
     },
     {
       "spanish": "Organizaran",
-      "english": "They will organize"
+      "english": "They will organize",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estaré cansada",
       "english": "I will be tired (female)"
-    },
-    {
-      "spanish": "Sera",
-      "english": "It will be"
-    },
-    {
-      "spanish": "Que sera sera",
-      "english": "What will be will be"
     }
   ]
 }

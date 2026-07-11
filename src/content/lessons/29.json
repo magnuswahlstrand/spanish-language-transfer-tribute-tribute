@@ -15,43 +15,53 @@
   "sentences": [
     {
       "spanish": "Un ser",
-      "english": "A being"
+      "english": "A being",
+      "showInMode": "compact"
     },
     {
       "spanish": "Un ser humano",
-      "english": "A human being"
+      "english": "A human being",
+      "showInMode": "compact"
     },
     {
       "spanish": "Humanidad",
-      "english": "Humanity"
+      "english": "Humanity",
+      "showInMode": "compact"
     },
     {
       "spanish": "Español",
-      "english": "Spanish"
+      "english": "Spanish",
+      "showInMode": "compact"
     },
     {
       "spanish": "España",
-      "english": "Spain"
+      "english": "Spain",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estudiante",
-      "english": "Student"
+      "english": "Student",
+      "showInMode": "compact"
     },
     {
       "spanish": "Especial",
-      "english": "Special"
+      "english": "Special",
+      "showInMode": "compact"
     },
     {
       "spanish": "Espacial",
-      "english": "Spacial"
+      "english": "Spacial",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estricto",
-      "english": "Strict"
+      "english": "Strict",
+      "showInMode": "compact"
     },
     {
       "spanish": "Espectacular",
-      "english": "Spectacular"
+      "english": "Spectacular",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy",
@@ -63,15 +73,18 @@
     },
     {
       "spanish": "Están",
-      "english": "They/you guys are"
+      "english": "They/you guys are",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estamos",
-      "english": "We are"
+      "english": "We are",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estás",
-      "english": "You (informal) are"
+      "english": "You (informal) are",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estamos Cansados",
@@ -83,11 +96,13 @@
     },
     {
       "spanish": "Estoy cansada siempre",
-      "english": "I'm always tired"
+      "english": "I'm always tired",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy siempre cansada",
-      "english": "I'm always tired"
+      "english": "I'm always tired",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy muerto",

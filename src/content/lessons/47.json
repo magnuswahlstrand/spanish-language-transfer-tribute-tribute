@@ -15,11 +15,13 @@
   "sentences": [
     {
       "spanish": "La cena",
-      "english": "The dinner"
+      "english": "The dinner",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cenar",
-      "english": "To dine / to eat dinner"
+      "english": "To dine / to eat dinner",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cenaba",
@@ -31,11 +33,13 @@
     },
     {
       "spanish": "Él quemaba la cena",
-      "english": "He was burning the dinner"
+      "english": "He was burning the dinner",
+      "showInMode": "compact"
     },
     {
       "spanish": "Usted quemaba la cena",
-      "english": "You (formal) were burning the dinner"
+      "english": "You (formal) were burning the dinner",
+      "showInMode": "compact"
     },
     {
       "spanish": "La cena se quemaba",
@@ -43,7 +47,8 @@
     },
     {
       "spanish": "Se quemaba la cena",
-      "english": "The dinner was burning (itself)"
+      "english": "The dinner was burning (itself)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me quemo en el sol",
@@ -55,7 +60,8 @@
     },
     {
       "spanish": "Me quema el sol",
-      "english": "The sun burns me"
+      "english": "The sun burns me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo rompo",
@@ -67,11 +73,13 @@
     },
     {
       "spanish": "Se rompen todo el tiempo",
-      "english": "They break (themselves) all the time"
+      "english": "They break (themselves) all the time",
+      "showInMode": "compact"
     },
     {
       "spanish": "Esos se rompen todo el tiempo",
-      "english": "Those break (themselves) all the time"
+      "english": "Those break (themselves) all the time",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se transforma",
@@ -79,7 +87,8 @@
     },
     {
       "spanish": "Se rompe",
-      "english": "It breaks (itself)"
+      "english": "It breaks (itself)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cambia",

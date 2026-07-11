@@ -23,19 +23,23 @@
     },
     {
       "spanish": "Habriamos comido",
-      "english": "We would have eaten"
+      "english": "We would have eaten",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habriamos podido ir",
-      "english": "We would have been able to go"
+      "english": "We would have been able to go",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habrían podido comer",
-      "english": "They would have been able to eat"
+      "english": "They would have been able to eat",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habrían venido a comer",
-      "english": "They would have come to eat"
+      "english": "They would have come to eat",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me habría gustado",
@@ -43,11 +47,13 @@
     },
     {
       "spanish": "Nos habría gustado",
-      "english": "It would have pleased us / We would have liked it"
+      "english": "It would have pleased us / We would have liked it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nos habrían gustado",
-      "english": "They would have pleased us / We would have liked them"
+      "english": "They would have pleased us / We would have liked them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Debería",
@@ -59,15 +65,18 @@
     },
     {
       "spanish": "Deberías venir a mi casa a comer",
-      "english": "You should come to my house to eat"
+      "english": "You should come to my house to eat",
+      "showInMode": "compact"
     },
     {
       "spanish": "Deberías venir a comer a mi casa",
-      "english": "You should come to eat at my house"
+      "english": "You should come to eat at my house",
+      "showInMode": "compact"
     },
     {
       "spanish": "Deberiamos",
-      "english": "We should"
+      "english": "We should",
+      "showInMode": "compact"
     },
     {
       "spanish": "Deberiamos hablar",
@@ -83,15 +92,18 @@
     },
     {
       "spanish": "Deberiamos hablarles",
-      "english": "We should speak to them"
+      "english": "We should speak to them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Deberiamos hablar con él",
-      "english": "We should speak with him"
+      "english": "We should speak with him",
+      "showInMode": "compact"
     },
     {
       "spanish": "Deberiamos hablar con ella",
-      "english": "We should speak with her"
+      "english": "We should speak with her",
+      "showInMode": "compact"
     },
     {
       "spanish": "Daría",
@@ -99,7 +111,8 @@
     },
     {
       "spanish": "Darían",
-      "english": "They / you guys would give"
+      "english": "They / you guys would give",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me darían",

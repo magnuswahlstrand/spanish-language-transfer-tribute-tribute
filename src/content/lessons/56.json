@@ -15,23 +15,28 @@
   "sentences": [
     {
       "spanish": "Para",
-      "english": "For (you)"
+      "english": "For (you)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Por",
-      "english": "For (two hours)"
+      "english": "For (two hours)",
+      "showInMode": "compact"
     },
     {
       "spanish": "De",
-      "english": "From / of"
+      "english": "From / of",
+      "showInMode": "compact"
     },
     {
       "spanish": "Con",
-      "english": "With"
+      "english": "With",
+      "showInMode": "compact"
     },
     {
       "spanish": "En",
-      "english": "In/on"
+      "english": "In/on",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿De dónde eres?",
@@ -59,15 +64,18 @@
     },
     {
       "spanish": "Es la chica con que trabajaba",
-      "english": "It is the girl that I was working with"
+      "english": "It is the girl that I was working with",
+      "showInMode": "compact"
     },
     {
       "spanish": "La chica con que iba a la fiesta",
-      "english": "The girl that I was going to the party with"
+      "english": "The girl that I was going to the party with",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Cúal quieres?",
-      "english": "Which (one) do you want?"
+      "english": "Which (one) do you want?",
+      "showInMode": "compact"
     },
     {
       "spanish": "No se cúal quiere",
@@ -75,7 +83,8 @@
     },
     {
       "spanish": "No se cúal quiere ver",
-      "english": "I don't know which (one) he wants to see"
+      "english": "I don't know which (one) he wants to see",
+      "showInMode": "compact"
     },
     {
       "spanish": "No se con cúal quiere hacerlo",
@@ -87,15 +96,18 @@
     },
     {
       "spanish": "¿Quienes van?",
-      "english": "Who is going?"
+      "english": "Who is going?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Quien está aquí?",
-      "english": "Who is here?"
+      "english": "Who is here?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Quien está?",
-      "english": "Who is here?"
+      "english": "Who is here?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Estás?",
@@ -107,15 +119,18 @@
     },
     {
       "spanish": "No se para quien tengo que hacerlo",
-      "english": "I don't know for who I have to do it"
+      "english": "I don't know for who I have to do it",
+      "showInMode": "compact"
     },
     {
       "spanish": "No se por quien tengo que hacerlo",
-      "english": "I don't know because of who I have to do it"
+      "english": "I don't know because of who I have to do it",
+      "showInMode": "compact"
     },
     {
       "spanish": "No se por quien lo tengo que hacer",
-      "english": "I don't know because of who I have to do it"
+      "english": "I don't know because of who I have to do it",
+      "showInMode": "compact"
     }
   ]
 }

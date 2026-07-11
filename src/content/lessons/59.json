@@ -55,7 +55,8 @@
     },
     {
       "spanish": "No lo vi",
-      "english": "I didn't see him"
+      "english": "I didn't see him",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo vi pero no me vió",
@@ -67,11 +68,13 @@
     },
     {
       "spanish": "No comí nada",
-      "english": "I didn't eat anything (nothing)"
+      "english": "I didn't eat anything (nothing)",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿No comió nada?",
-      "english": "Didn't eat anything?"
+      "english": "Didn't eat anything?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Por qué no comió nada?",
@@ -95,15 +98,18 @@
     },
     {
       "spanish": "Comió durante media hora",
-      "english": "He ate for half an hour"
+      "english": "He ate for half an hour",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habló durante media hora",
-      "english": "He spoke for half an hour"
+      "english": "He spoke for half an hour",
+      "showInMode": "compact"
     },
     {
       "spanish": "Habló durante media hora sin parar",
-      "english": "He spoke for half an hour without stopping"
+      "english": "He spoke for half an hour without stopping",
+      "showInMode": "compact"
     }
   ]
 }

@@ -86,7 +86,9 @@ const { lessons, groupLabel } = Astro.props;
           </thead>
           <tbody>
             {lesson.sentences.map((s) => (
-              <tr>
+              <tr
+                data-show-in-mode={s.showInMode || "all"}
+              >
                 <td lang="es">{s.spanish}</td>
                 <td lang="en">{s.english}</td>
               </tr>

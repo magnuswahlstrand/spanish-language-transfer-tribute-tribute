@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "Preferir",
-      "english": "to prefer"
+      "english": "to prefer",
+      "showInMode": "compact"
     },
     {
       "spanish": "Prefiero",
@@ -23,11 +24,13 @@
     },
     {
       "spanish": "Prefiere",
-      "english": "he/she/it/you (formal) prefer(s)"
+      "english": "he/she/it/you (formal) prefer(s)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Prefieren",
-      "english": "They prefer"
+      "english": "They prefer",
+      "showInMode": "compact"
     },
     {
       "spanish": "Preferimos",
@@ -35,7 +38,8 @@
     },
     {
       "spanish": "Venir",
-      "english": "To come"
+      "english": "To come",
+      "showInMode": "compact"
     },
     {
       "spanish": "Venimos",
@@ -43,7 +47,8 @@
     },
     {
       "spanish": "Vivir",
-      "english": "To live"
+      "english": "To live",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vivo",
@@ -51,11 +56,13 @@
     },
     {
       "spanish": "Vivo aquí",
-      "english": "I live here"
+      "english": "I live here",
+      "showInMode": "compact"
     },
     {
       "spanish": "No vivo aquí",
-      "english": "I don't live here"
+      "english": "I don't live here",
+      "showInMode": "compact"
     },
     {
       "spanish": "No vivo aquí pero él vive aquí",
@@ -67,7 +74,8 @@
     },
     {
       "spanish": "Quiero saber dónde viven",
-      "english": "I want to know where they live"
+      "english": "I want to know where they live",
+      "showInMode": "compact"
     },
     {
       "spanish": "Vivimos",
@@ -75,7 +83,8 @@
     },
     {
       "spanish": "Entender",
-      "english": "To understand"
+      "english": "To understand",
+      "showInMode": "compact"
     },
     {
       "spanish": "Entiendo",
@@ -83,7 +92,8 @@
     },
     {
       "spanish": "Entiende",
-      "english": "He understands"
+      "english": "He understands",
+      "showInMode": "compact"
     },
     {
       "spanish": "No entiende",
@@ -95,7 +105,8 @@
     },
     {
       "spanish": "Quiero saber por qué no entiende",
-      "english": "I want to know why he doesn't understand"
+      "english": "I want to know why he doesn't understand",
+      "showInMode": "compact"
     },
     {
       "spanish": "Entendemos",
@@ -103,7 +114,8 @@
     },
     {
       "spanish": "Perder",
-      "english": "to lose"
+      "english": "to lose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pierdo",

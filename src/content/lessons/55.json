@@ -23,7 +23,8 @@
     },
     {
       "spanish": "(La Fiesta) está cancelada",
-      "english": "(The party) is cancelled"
+      "english": "(The party) is cancelled",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se ha complicado",
@@ -47,7 +48,8 @@
     },
     {
       "spanish": "Debería haberlo cancelado",
-      "english": "I should have cancelled it"
+      "english": "I should have cancelled it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Podría haber ido",
@@ -55,7 +57,8 @@
     },
     {
       "spanish": "Podríamos haber ido",
-      "english": "We could have gone"
+      "english": "We could have gone",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo he roto",
@@ -63,7 +66,8 @@
     },
     {
       "spanish": "Los he roto",
-      "english": "I have broken them"
+      "english": "I have broken them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se ha roto",
@@ -91,7 +95,8 @@
     },
     {
       "spanish": "Estoy muerta",
-      "english": "I'm dead (really tired) (female speaking)"
+      "english": "I'm dead (really tired) (female speaking)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me muero",
@@ -107,7 +112,8 @@
     },
     {
       "spanish": "Están abiertos",
-      "english": "They are open"
+      "english": "They are open",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo he dicho",
@@ -119,7 +125,8 @@
     },
     {
       "spanish": "Le hemos dicho",
-      "english": "We have told him (said to him)"
+      "english": "We have told him (said to him)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo he hecho",
@@ -131,7 +138,8 @@
     },
     {
       "spanish": "Deberías haberlo hecho",
-      "english": "You should have done it / made it"
+      "english": "You should have done it / made it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Está hecho",

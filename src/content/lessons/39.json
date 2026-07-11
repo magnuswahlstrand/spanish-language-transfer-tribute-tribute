@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "Lo veo",
-      "english": "I see him"
+      "english": "I see him",
+      "showInMode": "compact"
     },
     {
       "spanish": "Con él",
@@ -31,15 +32,18 @@
     },
     {
       "spanish": "Con ellas",
-      "english": "With them (female group)"
+      "english": "With them (female group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Con nosotros",
-      "english": "With us (male/mixed group)"
+      "english": "With us (male/mixed group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Con nosotras",
-      "english": "With us (female group)"
+      "english": "With us (female group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Con usted",
@@ -47,7 +51,8 @@
     },
     {
       "spanish": "Con ustedes",
-      "english": "With you guys"
+      "english": "With you guys",
+      "showInMode": "compact"
     },
     {
       "spanish": "Para él",
@@ -63,7 +68,8 @@
     },
     {
       "spanish": "Para nosotros",
-      "english": "For us (male/mixed group)"
+      "english": "For us (male/mixed group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Para mi",
@@ -95,11 +101,13 @@
     },
     {
       "spanish": "De nosotros",
-      "english": "From us (mixed/male group)"
+      "english": "From us (mixed/male group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "De ustedes",
-      "english": "From you guys"
+      "english": "From you guys",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Es de ustedes?",
@@ -127,7 +135,8 @@
     },
     {
       "spanish": "Le quiero decir",
-      "english": "I want to tell him/her"
+      "english": "I want to tell him/her",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo quiero decir",
@@ -147,11 +156,13 @@
     },
     {
       "spanish": "Me lo compran",
-      "english": "They buy it for me"
+      "english": "They buy it for me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me los compran",
-      "english": "They buy them for me"
+      "english": "They buy them for me",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me lo compra",

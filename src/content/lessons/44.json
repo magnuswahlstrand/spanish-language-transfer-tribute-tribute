@@ -15,39 +15,48 @@
   "sentences": [
     {
       "spanish": "El problema",
-      "english": "The problem"
+      "english": "The problem",
+      "showInMode": "compact"
     },
     {
       "spanish": "El systema",
-      "english": "The system"
+      "english": "The system",
+      "showInMode": "compact"
     },
     {
       "spanish": "El paradigma",
-      "english": "The Paradigm"
+      "english": "The Paradigm",
+      "showInMode": "compact"
     },
     {
       "spanish": "El diagrama",
-      "english": "The diagram"
+      "english": "The diagram",
+      "showInMode": "compact"
     },
     {
       "spanish": "El esquema",
-      "english": "The scheme (outline/diagram)"
+      "english": "The scheme (outline/diagram)",
+      "showInMode": "compact"
     },
     {
       "spanish": "El planeta",
-      "english": "The planet"
+      "english": "The planet",
+      "showInMode": "compact"
     },
     {
       "spanish": "Un planeta",
-      "english": "A planet"
+      "english": "A planet",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los planetas",
-      "english": "The planets"
+      "english": "The planets",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los autos",
-      "english": "The cars"
+      "english": "The cars",
+      "showInMode": "compact"
     },
     {
       "spanish": "Este autos",
@@ -55,7 +64,8 @@
     },
     {
       "spanish": "Las noches",
-      "english": "The nights"
+      "english": "The nights",
+      "showInMode": "compact"
     },
     {
       "spanish": "Esta noche",
@@ -79,23 +89,28 @@
     },
     {
       "spanish": "Esas noches",
-      "english": "Those nights"
+      "english": "Those nights",
+      "showInMode": "compact"
     },
     {
       "spanish": "El coche",
-      "english": "The car"
+      "english": "The car",
+      "showInMode": "compact"
     },
     {
       "spanish": "Este coche",
-      "english": "This car"
+      "english": "This car",
+      "showInMode": "compact"
     },
     {
       "spanish": "Este auto",
-      "english": "This car"
+      "english": "This car",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los coches",
-      "english": "The cars"
+      "english": "The cars",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estos coches",
@@ -107,23 +122,28 @@
     },
     {
       "spanish": "La mano",
-      "english": "The hand"
+      "english": "The hand",
+      "showInMode": "compact"
     },
     {
       "spanish": "Las manos",
-      "english": "The hands"
+      "english": "The hands",
+      "showInMode": "compact"
     },
     {
       "spanish": "Esta mano",
-      "english": "This hand"
+      "english": "This hand",
+      "showInMode": "compact"
     },
     {
       "spanish": "Esa mano",
-      "english": "That hand"
+      "english": "That hand",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estas manos",
-      "english": "These hands"
+      "english": "These hands",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Me puedes dar una mano?",
@@ -131,11 +151,13 @@
     },
     {
       "spanish": "¿Me podrías dar una mano?",
-      "english": "Could you give me a hand?"
+      "english": "Could you give me a hand?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Podrías darme una mano?",
-      "english": "Could you give me a hand?"
+      "english": "Could you give me a hand?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Deberías darme una mano",
@@ -143,7 +165,8 @@
     },
     {
       "spanish": "Deberían darme una mano",
-      "english": "You (group) should give me a hand"
+      "english": "You (group) should give me a hand",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nos deberían dar una mano",

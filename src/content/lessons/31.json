@@ -15,15 +15,18 @@
   "sentences": [
     {
       "spanish": "Un ser",
-      "english": "A being"
+      "english": "A being",
+      "showInMode": "compact"
     },
     {
       "spanish": "Un ser humano",
-      "english": "A human being"
+      "english": "A human being",
+      "showInMode": "compact"
     },
     {
       "spanish": "El humano",
-      "english": "The human"
+      "english": "The human",
+      "showInMode": "compact"
     },
     {
       "spanish": "Soy",
@@ -43,11 +46,13 @@
     },
     {
       "spanish": "Somos",
-      "english": "We are"
+      "english": "We are",
+      "showInMode": "compact"
     },
     {
       "spanish": "Eres",
-      "english": "You (informal) are"
+      "english": "You (informal) are",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Comó estás?",
@@ -55,11 +60,13 @@
     },
     {
       "spanish": "¿Comó está?",
-      "english": "How are you? (formal)"
+      "english": "How are you? (formal)",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Comó están?",
-      "english": "How are you guys?"
+      "english": "How are you guys?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Comó es?",

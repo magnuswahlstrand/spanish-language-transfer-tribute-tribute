@@ -11,6 +11,10 @@ import { getLessonsInRange } from "../../lib/lessons";
 >
   <h1>Cheat sheets</h1>
 
+  <p class="no-print" style="margin-bottom:0.5rem">
+    <a href="#" id="mode-toggle">Compact view (hide non-essential and duplicate sentences)</a>
+  </p>
+
   <nav class="lesson-links no-print">
     {CHEAT_SHEET_GROUPS.map((g) => (
       <a href={`#${g.slug}`}>{g.label}</a>
@@ -25,4 +29,56 @@ import { getLessonsInRange } from "../../lib/lessons";
       </section>
     );
   })}
+
+  <script>
+    const toggle = document.getElementById("mode-toggle");
+    if (!toggle) throw new Error("missing toggle");
+
+    const mode = new URLSearchParams(location.search).get("mode");
+    let compact = mode === "compact";
+
+    function applyMode() {
+      const allSentenceRows = document.querySelectorAll(
+        'tr[data-show-in-mode]',
+      );
+
+      for (const row of allSentenceRows) {
+        const showInMode = row.getAttribute("data-show-in-mode");
+        row.classList.toggle("is-hidden", compact && showInMode === "compact");
+      }
+
+      // Restripe
+      for (const table of document.querySelectorAll("table")) {
+        const sentenceRows = table.querySelectorAll(
+          "tbody > tr[data-show-in-mode]",
+        );
+        let visibleIndex = 0;
+        for (const row of sentenceRows) {
+          const visible = !row.classList.contains("is-hidden");
+          row.classList.toggle("row-alt", visible && visibleIndex++ % 2 === 1);
+        }
+      }
+
+      if (compact) {
+        toggle!.textContent = "Show all sentences";
+        toggle!.href = window.location.pathname;
+      } else {
+        toggle!.textContent = "Compact view (hide non-essential and duplicate sentences)";
+        toggle!.href = window.location.pathname + "?mode=compact";
+      }
+    }
+
+    toggle.addEventListener("click", (e) => {
+      e.preventDefault();
+      compact = !compact;
+      applyMode();
+      history.replaceState(
+        null,
+        "",
+        compact ? window.location.pathname + "?mode=compact" : window.location.pathname,
+      );
+    });
+
+    applyMode();
+  </script>
 </BaseLayout>

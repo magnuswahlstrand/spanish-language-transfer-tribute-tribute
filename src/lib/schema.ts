@@ -33,6 +33,7 @@ export const LessonSchema = z.object({
       spanish: z.string().min(1),
       english: z.string().min(1),
       note: z.string().optional(),
+      showInMode: z.enum(["all", "compact"]).optional(),
     }),
   ),
 });

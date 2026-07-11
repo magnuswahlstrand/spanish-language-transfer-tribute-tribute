@@ -178,8 +178,11 @@ const base = raw.endsWith("/") ? raw : raw + "/";
         vertical-align: top;
         line-height: 1.5;
       }
-      tbody tr:nth-child(even) {
+      tbody tr.row-alt {
         background: var(--color-row-alt);
+      }
+      .is-hidden {
+        display: none;
       }
       tbody tr:hover {
         background: var(--color-accent-light);
@@ -244,7 +247,7 @@ const base = raw.endsWith("/") ? raw : raw + "/";
           -webkit-print-color-adjust: exact;
           print-color-adjust: exact;
         }
-        tbody tr:nth-child(even) {
+        tbody tr.row-alt {
           background: #f5f5f5 !important;
           -webkit-print-color-adjust: exact;
           print-color-adjust: exact;

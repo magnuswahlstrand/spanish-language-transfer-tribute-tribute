@@ -24,11 +24,13 @@
     },
     {
       "spanish": "Intento continuar",
-      "english": "I'm trying to continue"
+      "english": "I'm trying to continue",
+      "showInMode": "compact"
     },
     {
       "spanish": "Demostración",
-      "english": "Demonstration"
+      "english": "Demonstration",
+      "showInMode": "compact"
     },
     {
       "spanish": "Demostrar",
@@ -48,11 +50,13 @@
     },
     {
       "spanish": "Voy a confiscarlo",
-      "english": "I am going to confiscate it"
+      "english": "I am going to confiscate it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Voy a examinarlo",
-      "english": "I am going to examine it"
+      "english": "I am going to examine it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero verlos",
@@ -64,15 +68,18 @@
     },
     {
       "spanish": "Intento verlos",
-      "english": "I am trying to see them"
+      "english": "I am trying to see them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero intentar",
-      "english": "I want to try"
+      "english": "I want to try",
+      "showInMode": "compact"
     },
     {
       "spanish": "Voy a intentar",
-      "english": "I am going to try"
+      "english": "I am going to try",
+      "showInMode": "compact"
     },
     {
       "spanish": "Voy a pasar a visitarte",
@@ -84,7 +91,8 @@
     },
     {
       "spanish": "Quiero pasar a mostrarte algo",
-      "english": "I want to pass by to show you something"
+      "english": "I want to pass by to show you something",
+      "showInMode": "compact"
     }
   ]
 }

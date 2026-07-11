@@ -5,6 +5,8 @@ import { getAllLessons } from "../lib/lessons";
 
 const lessons = getAllLessons();
 const totalSentences = lessons.reduce((sum, l) => sum + l.sentences.length, 0);
+const raw = import.meta.env.BASE_URL;
+const base = raw.endsWith("/") ? raw : raw + "/";
 ---
 
 <BaseLayout
@@ -12,7 +14,13 @@ const totalSentences = lessons.reduce((sum, l) => sum + l.sentences.length, 0);
   description="Every available Spanish/English sentence pair from the Complete Spanish course, grouped by lesson."
 >
   <h1>All sentence pairs</h1>
-  <p lang="en">{totalSentences} sentences across {lessons.length} lessons.</p>
+  <p lang="en">
+    <span id="sentence-count">{totalSentences}</span> sentences across {lessons.length} lessons.
+  </p>
+
+  <p class="no-print" style="margin-bottom:0.5rem">
+    <a href="#" id="mode-toggle">Compact view (collapse duplicates, hide non-essential)</a>
+  </p>
 
   <nav class="lesson-links no-print">
     {lessons.map((l) => (
@@ -21,4 +29,88 @@ const totalSentences = lessons.reduce((sum, l) => sum + l.sentences.length, 0);
   </nav>
 
   <TranslationTable {lessons} />
+
+  <script>
+    const table = document.getElementById("sentence-table");
+    const toggle = document.getElementById("mode-toggle");
+    const countEl = document.getElementById("sentence-count");
+    if (!table || !toggle) throw new Error("missing elements");
+
+    const mode = new URLSearchParams(location.search).get("mode");
+    let compact = mode === "compact";
+
+    function applyMode() {
+      const rows = table.querySelectorAll("tbody tr:not(.lesson-header)");
+
+      // First pass: hide compact-mode-only sentences
+      for (const row of rows) {
+        const showInMode = row.getAttribute("data-show-in-mode");
+        row.classList.toggle("is-hidden", compact && showInMode === "compact");
+      }
+
+      // Second pass: auto-collapse remaining identical Spanish
+      const visibleRows = Array.from(rows).filter(
+        (r) => !r.classList.contains("is-hidden"),
+      );
+      const seen = new Map<string, HTMLElement[]>();
+
+      for (const row of visibleRows) {
+        const spanish = row.getAttribute("data-spanish") || "";
+
+        if (compact) {
+          if (seen.has(spanish)) {
+            const first = seen.get(spanish)![0];
+            const english = first.querySelector("td:last-child")!;
+            const currentEnglish = row.querySelector("td:last-child")?.textContent || "";
+            if (!english.textContent?.includes(currentEnglish)) {
+              english.textContent += " / " + currentEnglish;
+            }
+            row.classList.add("is-hidden");
+          } else {
+            seen.set(spanish, [row as HTMLElement]);
+          }
+        }
+      }
+
+      // Update sentence count
+      const visibleCount = Array.from(rows).filter(
+        (r) => !r.classList.contains("is-hidden"),
+      ).length;
+      countEl!.textContent = String(visibleCount);
+
+      // Restripe
+      for (const table of document.querySelectorAll("table")) {
+        const sentenceRows = table.querySelectorAll(
+          "tbody > tr[data-show-in-mode]",
+        );
+        let visibleIndex = 0;
+        for (const row of sentenceRows) {
+          const visible = !row.classList.contains("is-hidden");
+          row.classList.toggle("row-alt", visible && visibleIndex++ % 2 === 1);
+        }
+      }
+
+      // Update toggle link
+      if (compact) {
+        toggle!.textContent = "Show all sentences";
+        toggle!.href = window.location.pathname;
+      } else {
+        toggle!.textContent = "Compact view (collapse duplicates, hide non-essential)";
+        toggle!.href = window.location.pathname + "?mode=compact";
+      }
+    }
+
+    toggle.addEventListener("click", (e) => {
+      e.preventDefault();
+      compact = !compact;
+      applyMode();
+      history.replaceState(
+        null,
+        "",
+        compact ? window.location.pathname + "?mode=compact" : window.location.pathname,
+      );
+    });
+
+    applyMode();
+  </script>
 </BaseLayout>

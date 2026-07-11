@@ -23,7 +23,8 @@
     },
     {
       "spanish": "Quiero ilustrar",
-      "english": "I want to illustrate"
+      "english": "I want to illustrate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero informarme",
@@ -39,7 +40,8 @@
     },
     {
       "spanish": "No quiero provocarte",
-      "english": "I don't want to provoke you"
+      "english": "I don't want to provoke you",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero cancelarlo",
@@ -47,47 +49,58 @@
     },
     {
       "spanish": "Regular",
-      "english": "To regulate"
+      "english": "To regulate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Real",
-      "english": "Real"
+      "english": "Real",
+      "showInMode": "compact"
     },
     {
       "spanish": "Arroz",
-      "english": "Rice"
+      "english": "Rice",
+      "showInMode": "compact"
     },
     {
       "spanish": "Pero",
-      "english": "But"
+      "english": "But",
+      "showInMode": "compact"
     },
     {
       "spanish": "Perro",
-      "english": "Dog"
+      "english": "Dog",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero salvarlo",
-      "english": "I want to save him"
+      "english": "I want to save him",
+      "showInMode": "compact"
     },
     {
       "spanish": "Situación",
-      "english": "Situation"
+      "english": "Situation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Situar",
-      "english": "To Situate (to position)"
+      "english": "To Situate (to position)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Participación",
-      "english": "Participation"
+      "english": "Participation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Participar",
-      "english": "To participate"
+      "english": "To participate",
+      "showInMode": "compact"
     },
     {
       "spanish": "Creación",
-      "english": "Creation"
+      "english": "Creation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Crear",
@@ -95,35 +108,43 @@
     },
     {
       "spanish": "Experimentación",
-      "english": "Experimentation"
+      "english": "Experimentation",
+      "showInMode": "compact"
     },
     {
       "spanish": "Experimentar",
-      "english": "To experiment"
+      "english": "To experiment",
+      "showInMode": "compact"
     },
     {
       "spanish": "Diferencia",
-      "english": "Difference"
+      "english": "Difference",
+      "showInMode": "compact"
     },
     {
       "spanish": "Influencia",
-      "english": "Influence"
+      "english": "Influence",
+      "showInMode": "compact"
     },
     {
       "spanish": "Existencia",
-      "english": "Existence"
+      "english": "Existence",
+      "showInMode": "compact"
     },
     {
       "spanish": "Consistencia",
-      "english": "Consistence"
+      "english": "Consistence",
+      "showInMode": "compact"
     },
     {
       "spanish": "Inconsistencia",
-      "english": "Inconsistence"
+      "english": "Inconsistence",
+      "showInMode": "compact"
     },
     {
       "spanish": "Incongruencia",
-      "english": "Incongruence"
+      "english": "Incongruence",
+      "showInMode": "compact"
     }
   ]
 }

@@ -15,15 +15,18 @@
   "sentences": [
     {
       "spanish": "Hablaba",
-      "english": "I/he/she was speaking"
+      "english": "I/he/she was speaking",
+      "showInMode": "compact"
     },
     {
       "spanish": "Hablaban",
-      "english": "They were speaking"
+      "english": "They were speaking",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comería",
-      "english": "I would eat"
+      "english": "I would eat",
+      "showInMode": "compact"
     },
     {
       "spanish": "Comía",
@@ -31,7 +34,8 @@
     },
     {
       "spanish": "Lo venderia",
-      "english": "I would sell it"
+      "english": "I would sell it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo vendía",
@@ -59,7 +63,8 @@
     },
     {
       "spanish": "Se rompían",
-      "english": "They were breaking (themselves)"
+      "english": "They were breaking (themselves)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo rompería",
@@ -67,15 +72,18 @@
     },
     {
       "spanish": "Lo romperían",
-      "english": "They would break it"
+      "english": "They would break it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Lo rompían",
-      "english": "They were breaking it"
+      "english": "They were breaking it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se rompe",
-      "english": "It breaks (itself)"
+      "english": "It breaks (itself)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se va a romper",
@@ -83,7 +91,8 @@
     },
     {
       "spanish": "Va a romperse",
-      "english": "It's going to break (itself)"
+      "english": "It's going to break (itself)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Cómo se dice ....",
@@ -91,19 +100,23 @@
     },
     {
       "spanish": "Me quedo",
-      "english": "I stay / I remain (myself)"
+      "english": "I stay / I remain (myself)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nos quedamos",
-      "english": "We stay / We remain (ourselves)"
+      "english": "We stay / We remain (ourselves)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se queda",
-      "english": "He/she stays / He/she remains (himself/herself)"
+      "english": "He/she stays / He/she remains (himself/herself)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se quedan",
-      "english": "They stay (themselves)"
+      "english": "They stay (themselves)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Se quedaban",
@@ -115,7 +128,8 @@
     },
     {
       "spanish": "No me quedaba aquí",
-      "english": "I wasn't staying here"
+      "english": "I wasn't staying here",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nos quedábamos aquí",
@@ -123,7 +137,8 @@
     },
     {
       "spanish": "No nos quedábamos aquí",
-      "english": "We weren't staying here"
+      "english": "We weren't staying here",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me queda uno",
@@ -135,7 +150,8 @@
     },
     {
       "spanish": "Le quedan dos",
-      "english": "He has two left (to him they remain two)"
+      "english": "He has two left (to him they remain two)",
+      "showInMode": "compact"
     },
     {
       "spanish": "No me quedan",

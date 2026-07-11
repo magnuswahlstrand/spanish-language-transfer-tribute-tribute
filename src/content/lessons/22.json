@@ -15,7 +15,8 @@
   "sentences": [
     {
       "spanish": "Haber",
-      "english": "To have [done/had]"
+      "english": "To have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "He",
@@ -23,7 +24,8 @@
     },
     {
       "spanish": "Hemos",
-      "english": "We have [done/had]"
+      "english": "We have [done/had]",
+      "showInMode": "compact"
     },
     {
       "spanish": "He terminado",
@@ -39,15 +41,18 @@
     },
     {
       "spanish": "Vendido",
-      "english": "Sold"
+      "english": "Sold",
+      "showInMode": "compact"
     },
     {
       "spanish": "Venido",
-      "english": "Come"
+      "english": "Come",
+      "showInMode": "compact"
     },
     {
       "spanish": "Perdido",
-      "english": "Lost"
+      "english": "Lost",
+      "showInMode": "compact"
     },
     {
       "spanish": "He perdido",
@@ -55,15 +60,18 @@
     },
     {
       "spanish": "Hemos perdido",
-      "english": "We have lost"
+      "english": "We have lost",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ha perdido",
-      "english": "He has lost"
+      "english": "He has lost",
+      "showInMode": "compact"
     },
     {
       "spanish": "Has perdido",
-      "english": "You (informal) have lost"
+      "english": "You (informal) have lost",
+      "showInMode": "compact"
     },
     {
       "spanish": "Él ha perdido",
@@ -71,11 +79,13 @@
     },
     {
       "spanish": "Ella ha perdido",
-      "english": "She has lost"
+      "english": "She has lost",
+      "showInMode": "compact"
     },
     {
       "spanish": "Tú has perdido",
-      "english": "You (informal) have lost"
+      "english": "You (informal) have lost",
+      "showInMode": "compact"
     },
     {
       "spanish": "Nosotros",
@@ -135,11 +145,13 @@
     },
     {
       "spanish": "Ellas los ven",
-      "english": "They see them"
+      "english": "They see them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Ellas las ven",
-      "english": "They see them"
+      "english": "They see them",
+      "showInMode": "compact"
     },
     {
       "spanish": "Usted ve",
@@ -151,11 +163,13 @@
     },
     {
       "spanish": "Lo ve usted",
-      "english": "You (formal) see it"
+      "english": "You (formal) see it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Usted los ve",
-      "english": "You (formal) see them"
+      "english": "You (formal) see them",
+      "showInMode": "compact"
     }
   ]
 }

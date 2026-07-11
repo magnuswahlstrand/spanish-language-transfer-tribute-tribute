@@ -15,11 +15,13 @@
   "sentences": [
     {
       "spanish": "Sinceridad",
-      "english": "Sincerity"
+      "english": "Sincerity",
+      "showInMode": "compact"
     },
     {
       "spanish": "Sincero",
-      "english": "sincere"
+      "english": "sincere",
+      "showInMode": "compact"
     },
     {
       "spanish": "Soy sincera",
@@ -27,7 +29,8 @@
     },
     {
       "spanish": "Somos sinceras",
-      "english": "We are sincere (female group)"
+      "english": "We are sincere (female group)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy siendo sincero",
@@ -35,7 +38,8 @@
     },
     {
       "spanish": "Estamos siendo honestos",
-      "english": "We are being honest"
+      "english": "We are being honest",
+      "showInMode": "compact"
     },
     {
       "spanish": "Salgo pronto",
@@ -43,7 +47,8 @@
     },
     {
       "spanish": "Salgo mañana",
-      "english": "I'm leaving tomorrow"
+      "english": "I'm leaving tomorrow",
+      "showInMode": "compact"
     },
     {
       "spanish": "Estoy saliendo",
@@ -51,7 +56,8 @@
     },
     {
       "spanish": "Comprar",
-      "english": "to buy"
+      "english": "to buy",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los compro",
@@ -63,7 +69,8 @@
     },
     {
       "spanish": "Los compro la semana que viene",
-      "english": "I'm buying them next week"
+      "english": "I'm buying them next week",
+      "showInMode": "compact"
     },
     {
       "spanish": "Los estoy comprando ahora",
@@ -71,7 +78,8 @@
     },
     {
       "spanish": "Estoy comprando los ahora",
-      "english": "I'm buying them now (at this moment)"
+      "english": "I'm buying them now (at this moment)",
+      "showInMode": "compact"
     }
   ]
 }

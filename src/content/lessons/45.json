@@ -15,35 +15,43 @@
   "sentences": [
     {
       "spanish": "Gusta",
-      "english": "It pleases"
+      "english": "It pleases",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me gusta",
-      "english": "It pleases me (I like it)"
+      "english": "It pleases me (I like it)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me gusta mucho",
-      "english": "It pleases me alot (I like it alot)"
+      "english": "It pleases me alot (I like it alot)",
+      "showInMode": "compact"
     },
     {
       "spanish": "nos gusta",
-      "english": "It pleases us (We like it)"
+      "english": "It pleases us (We like it)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Le Gusta",
-      "english": "It pleases her/him / (she/he likes it)"
+      "english": "It pleases her/him / (she/he likes it)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Les Gusta",
-      "english": "It pleases them / (they like it)"
+      "english": "It pleases them / (they like it)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Les Gustan",
-      "english": "They please them / (they like them)"
+      "english": "They please them / (they like them)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Le Gustan",
-      "english": "They please him / (he likes them)"
+      "english": "They please him / (he likes them)",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me interesa",
@@ -55,7 +63,8 @@
     },
     {
       "spanish": "¿No te interesa?",
-      "english": "Doesn't it interest you?"
+      "english": "Doesn't it interest you?",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Por qué no te interesa?",
@@ -67,7 +76,8 @@
     },
     {
       "spanish": "Les interesa",
-      "english": "They are interested in it"
+      "english": "They are interested in it",
+      "showInMode": "compact"
     },
     {
       "spanish": "¿Le interesa bailar esta noche?",
@@ -75,7 +85,8 @@
     },
     {
       "spanish": "¿Le interesa salir a bailar esta noche?",
-      "english": "Does it interest her to go out to dance tonight?"
+      "english": "Does it interest her to go out to dance tonight?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me interesaría",
@@ -87,11 +98,13 @@
     },
     {
       "spanish": "¿Te interesaría?",
-      "english": "Would it interest you?"
+      "english": "Would it interest you?",
+      "showInMode": "compact"
     },
     {
       "spanish": "Te interesaría",
-      "english": "It would interest you"
+      "english": "It would interest you",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me parece",
@@ -119,19 +132,23 @@
     },
     {
       "spanish": "Suponer",
-      "english": "To suppose"
+      "english": "To suppose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Oponer",
-      "english": "To oppose"
+      "english": "To oppose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Imponer",
-      "english": "To impose"
+      "english": "To impose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Componer",
-      "english": "To compose"
+      "english": "To compose",
+      "showInMode": "compact"
     },
     {
       "spanish": "Quiero ponerlo aquí",
@@ -139,7 +156,8 @@
     },
     {
       "spanish": "Me gustaría ponerlo aquí",
-      "english": "I would like to put it here"
+      "english": "I would like to put it here",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me gustaría ponerle sal",
@@ -147,11 +165,13 @@
     },
     {
       "spanish": "Me gustaría ponerle un poco más sal",
-      "english": "I would like to put a little more salt on it"
+      "english": "I would like to put a little more salt on it",
+      "showInMode": "compact"
     },
     {
       "spanish": "Me gustaría ponerles un poco más sal",
-      "english": "I would like to put a little more salt on them"
+      "english": "I would like to put a little more salt on them",
+      "showInMode": "compact"
     }
   ]
 }
