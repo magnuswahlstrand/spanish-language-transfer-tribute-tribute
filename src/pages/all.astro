@@ -18,9 +18,20 @@ const base = raw.endsWith("/") ? raw : raw + "/";
     <span id="sentence-count">{totalSentences}</span> sentences across {lessons.length} lessons.
   </p>
 
-  <p class="no-print" style="margin-bottom:0.5rem">
-    <a href="#" id="mode-toggle">Compact view (collapse duplicates, hide non-essential)</a>
-  </p>
+  <div class="no-print" style="margin-bottom:0.75rem">
+    <div style="display:flex;align-items:center;gap:1rem;margin-bottom:0.25rem">
+      <span style="font-weight:600;font-size:0.85rem">Mode:</span>
+      <label style="cursor:pointer;display:flex;align-items:center;gap:0.3rem;font-size:0.85rem">
+        <input type="radio" name="mode" value="compact" checked id="mode-compact" /> Compact
+      </label>
+      <label style="cursor:pointer;display:flex;align-items:center;gap:0.3rem;font-size:0.85rem">
+        <input type="radio" name="mode" value="full" id="mode-full" /> Full
+      </label>
+    </div>
+    <p id="mode-description" style="font-size:0.8rem;color:var(--color-muted);margin:0">
+      Compact mode hides supplementary content and collapses duplicate examples for a condensed view.
+    </p>
+  </div>
 
   <nav class="lesson-links no-print">
     {lessons.map((l) => (
@@ -32,12 +43,17 @@ const base = raw.endsWith("/") ? raw : raw + "/";
 
   <script>
     const table = document.getElementById("sentence-table");
-    const toggle = document.getElementById("mode-toggle");
+    const compactRadio = document.getElementById("mode-compact") as HTMLInputElement;
+    const fullRadio = document.getElementById("mode-full") as HTMLInputElement;
+    const desc = document.getElementById("mode-description");
     const countEl = document.getElementById("sentence-count");
-    if (!table || !toggle) throw new Error("missing elements");
+    if (!table || !compactRadio || !fullRadio || !desc) throw new Error("missing elements");
 
     const mode = new URLSearchParams(location.search).get("mode");
-    let compact = mode === "compact";
+    const initialCompact = mode !== "full";
+    compactRadio.checked = initialCompact;
+    fullRadio.checked = !initialCompact;
+    let compact = initialCompact;
 
     function applyMode() {
       const rows = table.querySelectorAll("tbody tr:not(.lesson-header)");
@@ -49,15 +65,14 @@ const base = raw.endsWith("/") ? raw : raw + "/";
       }
 
       // Second pass: auto-collapse remaining identical Spanish
-      const visibleRows = Array.from(rows).filter(
-        (r) => !r.classList.contains("is-hidden"),
-      );
-      const seen = new Map<string, HTMLElement[]>();
+      if (compact) {
+        const visibleRows = Array.from(rows).filter(
+          (r) => !r.classList.contains("is-hidden"),
+        );
+        const seen = new Map<string, HTMLElement[]>();
 
-      for (const row of visibleRows) {
-        const spanish = row.getAttribute("data-spanish") || "";
-
-        if (compact) {
+        for (const row of visibleRows) {
+          const spanish = row.getAttribute("data-spanish") || "";
           if (seen.has(spanish)) {
             const first = seen.get(spanish)![0];
             const english = first.querySelector("td:last-child")!;
@@ -79,10 +94,8 @@ const base = raw.endsWith("/") ? raw : raw + "/";
       countEl!.textContent = String(visibleCount);
 
       // Restripe
-      for (const table of document.querySelectorAll("table")) {
-        const sentenceRows = table.querySelectorAll(
-          "tbody > tr[data-show-in-mode]",
-        );
+      for (const t of document.querySelectorAll("table")) {
+        const sentenceRows = t.querySelectorAll("tbody > tr[data-show-in-mode]");
         let visibleIndex = 0;
         for (const row of sentenceRows) {
           const visible = !row.classList.contains("is-hidden");
@@ -90,25 +103,24 @@ const base = raw.endsWith("/") ? raw : raw + "/";
         }
       }
 
-      // Update toggle link
-      if (compact) {
-        toggle!.textContent = "Show all sentences";
-        toggle!.href = window.location.pathname;
-      } else {
-        toggle!.textContent = "Compact view (collapse duplicates, hide non-essential)";
-        toggle!.href = window.location.pathname + "?mode=compact";
-      }
+      // Update description
+      desc!.textContent = compact
+        ? "Compact mode hides supplementary content and collapses duplicate examples for a condensed view."
+        : "Full mode shows every sentence including supplementary and duplicate examples.";
     }
 
-    toggle.addEventListener("click", (e) => {
-      e.preventDefault();
-      compact = !compact;
+    compactRadio.addEventListener("change", () => {
+      if (!compactRadio.checked) return;
+      compact = true;
       applyMode();
-      history.replaceState(
-        null,
-        "",
-        compact ? window.location.pathname + "?mode=compact" : window.location.pathname,
-      );
+      history.replaceState(null, "", window.location.pathname);
+    });
+
+    fullRadio.addEventListener("change", () => {
+      if (!fullRadio.checked) return;
+      compact = false;
+      applyMode();
+      history.replaceState(null, "", window.location.pathname + "?mode=full");
     });
 
     applyMode();
