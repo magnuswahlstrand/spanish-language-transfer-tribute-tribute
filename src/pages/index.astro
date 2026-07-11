@@ -4,6 +4,9 @@ import { getAllLessons, getMaxLessonNumber } from "../lib/lessons";
 
 const lessons = getAllLessons();
 const maxLesson = getMaxLessonNumber();
+const base = import.meta.env.BASE_URL.endsWith("/")
+  ? import.meta.env.BASE_URL
+  : import.meta.env.BASE_URL + "/";
 ---
 
 <BaseLayout
@@ -27,6 +30,11 @@ const maxLesson = getMaxLessonNumber();
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T54HRGDW4TVBN&source=url" target="_blank" rel="noreferrer noopener">PayPal</a>.</p>
   <p lang="en">This site is unofficial and independent.</p>
 
+  <nav class="no-print" style="display:flex;gap:0.75rem;margin:1.5rem 0;flex-wrap:wrap">
+    <a href={base + "all/"} style="background:var(--color-accent-light);padding:0.4rem 1rem;border-radius:var(--radius);text-decoration:none;font-weight:600">All sentences</a>
+    <a href={base + "cheat-sheets/"} style="background:var(--color-accent-light);padding:0.4rem 1rem;border-radius:var(--radius);text-decoration:none;font-weight:600">Cheat sheets</a>
+  </nav>
+
   {lessons.length > 0 && (
     <>
       <h2>Lessons</h2>
@@ -42,7 +50,7 @@ const maxLesson = getMaxLessonNumber();
         <tbody>
           {lessons.map((l) => (
             <tr>
-              <td>{l.number}</td>
+              <td><a href={base + `all/#lesson-${l.number}`}>{l.number}</a></td>
               <td>{l.title}</td>
               <td>{l.status}</td>
               <td>{l.sentences.length}</td>

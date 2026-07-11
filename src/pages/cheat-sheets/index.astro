@@ -1,0 +1,28 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CheatSheet from "../../components/CheatSheet.astro";
+import { CHEAT_SHEET_GROUPS } from "../../lib/groups";
+import { getLessonsInRange } from "../../lib/lessons";
+---
+
+<BaseLayout
+  title="Cheat sheets — Complete Spanish Reference"
+  description="Key concepts, verbs, vocabulary, and example sentences for all lessons of the Complete Spanish course."
+>
+  <h1>Cheat sheets</h1>
+
+  <nav class="lesson-links no-print">
+    {CHEAT_SHEET_GROUPS.map((g) => (
+      <a href={`#${g.slug}`}>{g.label}</a>
+    ))}
+  </nav>
+
+  {CHEAT_SHEET_GROUPS.map((g) => {
+    const lessons = getLessonsInRange(g.start, g.end);
+    return (
+      <section id={g.slug}>
+        <CheatSheet lessons={lessons} groupLabel={g.label} />
+      </section>
+    );
+  })}
+</BaseLayout>
