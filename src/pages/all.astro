@@ -14,7 +14,7 @@ const totalSentences = lessons.reduce((sum, l) => sum + l.sentences.length, 0);
   <h1>All sentence pairs</h1>
   <p lang="en">{totalSentences} sentences across {lessons.length} lessons.</p>
 
-  <nav class="lesson-nav no-print">
+  <nav class="lesson-links no-print">
     {lessons.map((l) => (
       <a href={`#lesson-${l.number}`}>Lesson {l.number}</a>
     ))}
