@@ -96,18 +96,18 @@ const allDialogues = (dialoguesData as { dialogues: Dialogue[] }).dialogues;
 
     applyMode();
 
-    // Open dialogues when printing, collapse after
-    function toggleDialogues(open: boolean) {
-      for (const d of document.querySelectorAll<HTMLDetailsElement>("details.dialogue")) {
+    // Open collapsible sections when printing, collapse after
+    function toggleSections(open: boolean) {
+      for (const d of document.querySelectorAll<HTMLDetailsElement>("details.dialogue, details.sentences")) {
         d.open = open;
       }
     }
     if ("onbeforeprint" in window) {
-      window.onbeforeprint = () => toggleDialogues(true);
-      window.onafterprint = () => toggleDialogues(false);
+      window.onbeforeprint = () => toggleSections(true);
+      window.onafterprint = () => toggleSections(false);
     } else {
       window.matchMedia("print").addEventListener("change", (mql) => {
-        toggleDialogues(mql.matches);
+        toggleSections(mql.matches);
       });
     }
   </script>

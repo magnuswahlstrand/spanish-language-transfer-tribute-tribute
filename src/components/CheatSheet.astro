@@ -33,6 +33,14 @@ for (const d of dialogues) {
   details.dialogue .speaker-a td {
     font-weight: 700;
   }
+  details.dialogue summary,
+  details.sentences summary {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+  }
 </style>
 
 <h1>{groupLabel} — Cheat sheet</h1>
@@ -101,8 +109,8 @@ for (const d of dialogues) {
     )}
 
     {lesson.sentences.length > 0 && (
-      <>
-        <h3>Example sentences</h3>
+      <details class="sentences">
+        <summary>Example sentences</summary>
         <table>
           <thead>
             <tr>
@@ -121,7 +129,7 @@ for (const d of dialogues) {
             ))}
           </tbody>
         </table>
-      </>
+      </details>
     )}
 
     {(() => {
