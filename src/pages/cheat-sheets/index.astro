@@ -3,6 +3,9 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import CheatSheet from "../../components/CheatSheet.astro";
 import { CHEAT_SHEET_GROUPS } from "../../lib/groups";
 import { getLessonsInRange } from "../../lib/lessons";
+import type { Dialogue } from "../../components/CheatSheet.astro";
+import dialoguesData from "../../content/dialogues-01-68.json";
+const allDialogues = (dialoguesData as { dialogues: Dialogue[] }).dialogues;
 ---
 
 <BaseLayout
@@ -36,7 +39,7 @@ import { getLessonsInRange } from "../../lib/lessons";
     const lessons = getLessonsInRange(g.start, g.end);
     return (
       <section id={g.slug}>
-        <CheatSheet lessons={lessons} groupLabel={g.label} />
+        <CheatSheet lessons={lessons} groupLabel={g.label} dialogues={allDialogues} />
       </section>
     );
   })}
@@ -92,5 +95,20 @@ import { getLessonsInRange } from "../../lib/lessons";
     });
 
     applyMode();
+
+    // Open dialogues when printing, collapse after
+    function toggleDialogues(open: boolean) {
+      for (const d of document.querySelectorAll<HTMLDetailsElement>("details.dialogue")) {
+        d.open = open;
+      }
+    }
+    if ("onbeforeprint" in window) {
+      window.onbeforeprint = () => toggleDialogues(true);
+      window.onafterprint = () => toggleDialogues(false);
+    } else {
+      window.matchMedia("print").addEventListener("change", (mql) => {
+        toggleDialogues(mql.matches);
+      });
+    }
   </script>
 </BaseLayout>

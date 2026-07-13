@@ -1,0 +1,2780 @@
+{
+  "schemaVersion": 1,
+  "source": "https://wahlstrand.dev/spanish-language-transfer-tribute-tribute/cheat-sheets/?mode=full",
+  "description": "Original short bilingual dialogues aligned with the main concepts in Language Transfer Spanish lessons 1–68.",
+  "dialogues": [
+    {
+      "lesson": 2,
+      "title": "Similar words ending in -al",
+      "focus": [
+        "cognates ending in -al",
+        "es",
+        "no es"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Es normal?",
+          "english": "Is it normal?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, es totalmente normal.",
+          "english": "Yes, it is totally normal."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Es legal?",
+          "english": "Is it legal?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, es ilegal.",
+          "english": "No, it is illegal."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Es natural?",
+          "english": "Is it natural?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, es natural.",
+          "english": "Yes, it is natural."
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "title": "Similar words and adverbs",
+      "focus": [
+        "-ante and -ente cognates",
+        "adverbs ending in -mente"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Es importante?",
+          "english": "Is it important?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, es realmente importante.",
+          "english": "Yes, it is really important."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Es urgente?",
+          "english": "Is it urgent?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Probablemente.",
+          "english": "Probably."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Es posible?",
+          "english": "Is it possible?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Posiblemente.",
+          "english": "Possibly."
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "Words ending in -ción and quiero",
+      "focus": [
+        "-ción nouns",
+        "related -ar verbs",
+        "quiero + infinitive"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Quiero preparar una presentación.",
+          "english": "I want to prepare a presentation."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Yo quiero cooperar.",
+          "english": "I want to cooperate."
+        },
+        {
+          "speaker": "A",
+          "spanish": "No quiero cancelar la reunión.",
+          "english": "I don't want to cancel the meeting."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Quiero confirmar la organización.",
+          "english": "I want to confirm the organization."
+        },
+        {
+          "speaker": "A",
+          "spanish": "Perfecto. Quiero continuar.",
+          "english": "Perfect. I want to continue."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Yo también.",
+          "english": "Me too."
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "Using the thinking method",
+      "focus": [
+        "me, te and lo",
+        "deriving verbs from familiar nouns"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Quiero informarme sobre la situación.",
+          "english": "I want to find out about the situation."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Quiero explicarte algo.",
+          "english": "I want to explain something to you."
+        },
+        {
+          "speaker": "A",
+          "spanish": "No quiero obligarte.",
+          "english": "I don't want to oblige you."
+        },
+        {
+          "speaker": "B",
+          "spanish": "No es un problema.",
+          "english": "It isn't a problem."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Quieres experimentarlo?",
+          "english": "Do you want to experience it?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, quiero experimentarlo.",
+          "english": "Yes, I want to experience it."
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "Intento, voy and pronunciation",
+      "focus": [
+        "intento",
+        "voy",
+        "ahora",
+        "object pronouns"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Vas al hospital ahora?",
+          "english": "Are you going to the hospital now?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no voy ahora.",
+          "english": "No, I'm not going now."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Qué intentas hacer?",
+          "english": "What are you trying to do?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Intento publicar algo.",
+          "english": "I'm trying to publish something."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Intentas publicarlo hoy?",
+          "english": "Are you trying to publish it today?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, intento publicarlo.",
+          "english": "Yes, I'm trying to publish it."
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "Voy a and verbs of movement",
+      "focus": [
+        "voy a + infinitive",
+        "pasar a",
+        "mostrar"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Voy a pasar a visitarte.",
+          "english": "I'm going to stop by to visit you."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Perfecto. Quiero mostrarte algo.",
+          "english": "Perfect. I want to show you something."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Vas a continuar con el proyecto?",
+          "english": "Are you going to continue with the project?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, voy a intentar continuarlo.",
+          "english": "Yes, I'm going to try to continue it."
+        },
+        {
+          "speaker": "A",
+          "spanish": "También voy a examinarlo.",
+          "english": "I'm also going to examine it."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Muy bien.",
+          "english": "Very good."
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "Por qué, venir and debo",
+      "focus": [
+        "formal usted forms",
+        "por qué",
+        "venir",
+        "debo"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Quiere venir a visitarme?",
+          "english": "Do you want to come and visit me?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, quiero venir.",
+          "english": "Yes, I want to come."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Por qué no viene ahora?",
+          "english": "Why aren't you coming now?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Debo identificar un problema.",
+          "english": "I must identify a problem."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Debe hacerlo hoy?",
+          "english": "Must you do it today?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, debo hacerlo hoy.",
+          "english": "Yes, I must do it today."
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "Saber, si and longer sentences",
+      "focus": [
+        "saber",
+        "si",
+        "por qué",
+        "combining clauses"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Quiero saber si quiere venir a la casa.",
+          "english": "I want to know if he wants to come to the house."
+        },
+        {
+          "speaker": "B",
+          "spanish": "No quiere venir ahora.",
+          "english": "He doesn't want to come now."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Por qué no quiere venir?",
+          "english": "Why doesn't he want to come?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No quiere explicarlo.",
+          "english": "He doesn't want to explain it."
+        },
+        {
+          "speaker": "A",
+          "spanish": "Quiero saber por qué no quiere explicarlo.",
+          "english": "I want to know why he doesn't want to explain it."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Yo también.",
+          "english": "Me too."
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "Verb patterns, the future and tener",
+      "focus": [
+        "first-person present forms",
+        "future meaning",
+        "tener"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Qué haces mañana?",
+          "english": "What are you doing tomorrow?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Como con Pablo mañana.",
+          "english": "I'm eating with Pablo tomorrow."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y después?",
+          "english": "And afterward?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Voy a organizar una celebración.",
+          "english": "I'm going to organize a celebration."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Vas a tener tiempo?",
+          "english": "Are you going to have time?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, voy a tener tiempo.",
+          "english": "Yes, I'm going to have time."
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "title": "Verb groups, -ar endings and object placement",
+      "focus": [
+        "-ar conjugation",
+        "lo before a conjugated verb",
+        "lo attached to an infinitive"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Hablas con Pablo?",
+          "english": "Are you speaking with Pablo?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no hablo con Pablo.",
+          "english": "No, I'm not speaking with Pablo."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Quieres verlo?",
+          "english": "Do you want to see him?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo quiero ver.",
+          "english": "Yes, I want to see him."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Vas a invitarlo?",
+          "english": "Are you going to invite him?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, debo invitarlo.",
+          "english": "Yes, I must invite him."
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "title": "Gender, -er/-ir verbs and pronoun order",
+      "focus": [
+        "feminine nouns",
+        "-er verb forms",
+        "indirect and direct object pronouns"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Venden la casa?",
+          "english": "Are they selling the house?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, la venden.",
+          "english": "Yes, they are selling it."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Nos la venden?",
+          "english": "Are they selling it to us?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no nos la venden.",
+          "english": "No, they aren't selling it to us."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Por qué no nos la venden?",
+          "english": "Why aren't they selling it to us?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No sé.",
+          "english": "I don't know."
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "title": "Hacer, qué, poder and esperar",
+      "focus": [
+        "hacer",
+        "qué",
+        "poder",
+        "esperar"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Qué haces?",
+          "english": "What are you doing?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Espero a Pablo.",
+          "english": "I'm waiting for Pablo."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Puede venir?",
+          "english": "Can he come?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No puede venir.",
+          "english": "He can't come."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Por qué no puede venir?",
+          "english": "Why can't he come?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No sé. Quiero saberlo.",
+          "english": "I don't know. I want to know."
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "title": "Sé, pronouns, tengo que and poner",
+      "focus": [
+        "saber",
+        "él/ella/yo",
+        "tener que",
+        "poner and other -go verbs"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Sabes qué quiere ella?",
+          "english": "Do you know what she wants?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No sé qué quiere.",
+          "english": "I don't know what she wants."
+        },
+        {
+          "speaker": "A",
+          "spanish": "Ella tiene que comer ahora.",
+          "english": "She has to eat now."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Entonces pongo la comida en la mesa.",
+          "english": "Then I'll put the food on the table."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Sales después?",
+          "english": "Are you going out afterward?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, salgo después.",
+          "english": "Yes, I'm going out afterward."
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "title": "Pasar and stem-changing verbs",
+      "focus": [
+        "qué pasa",
+        "pensar",
+        "entender",
+        "perder"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Qué pasa?",
+          "english": "What's happening?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No entiendo el problema.",
+          "english": "I don't understand the problem."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Qué piensas?",
+          "english": "What do you think?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Pienso que vamos a perder.",
+          "english": "I think we're going to lose."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Cuándo viene Pablo?",
+          "english": "When is Pablo coming?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Viene en noviembre.",
+          "english": "He's coming in November."
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "title": "Empezar, dormir, encontrar and mostrar",
+      "focus": [
+        "more stem-changing verbs",
+        "empezar",
+        "dormir",
+        "encontrar",
+        "mostrar"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Duermes bien?",
+          "english": "Do you sleep well?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No. Me duermo muy tarde.",
+          "english": "No. I fall asleep very late."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Cuándo empiezas el trabajo?",
+          "english": "When do you start the work?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Empiezo mañana.",
+          "english": "I start tomorrow."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Me muestras una muestra?",
+          "english": "Will you show me a sample?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, te la muestro mañana.",
+          "english": "Yes, I'll show it to you tomorrow."
+        }
+      ]
+    },
+    {
+      "lesson": 17,
+      "title": "Colgar, tomar, cerrar and nosotros",
+      "focus": [
+        "nosotros forms of -ar verbs",
+        "colgar",
+        "tomar",
+        "cerrar"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Qué tomamos?",
+          "english": "What are we having to drink?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Tomamos café.",
+          "english": "We're having coffee."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Cerramos la puerta?",
+          "english": "Shall we close the door?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, cerramos la puerta.",
+          "english": "Yes, we'll close the door."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Dónde colgamos esto?",
+          "english": "Where shall we hang this?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Lo colgamos aquí.",
+          "english": "We'll hang it here."
+        }
+      ]
+    },
+    {
+      "lesson": 18,
+      "title": "Nosotros forms of -er and -ir verbs",
+      "focus": [
+        "-emos and -imos",
+        "preferir",
+        "venir",
+        "vivir",
+        "entender"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Dónde vivimos?",
+          "english": "Where do we live?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Vivimos aquí.",
+          "english": "We live here."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Entendemos el problema?",
+          "english": "Do we understand the problem?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo entendemos.",
+          "english": "Yes, we understand it."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Qué preferimos hacer?",
+          "english": "What do we prefer to do?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Preferimos venir mañana.",
+          "english": "We prefer to come tomorrow."
+        }
+      ]
+    },
+    {
+      "lesson": 19,
+      "title": "Working backward to find verbs and genders",
+      "focus": [
+        "ir",
+        "destination questions",
+        "food and drink preferences"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿A dónde vas?",
+          "english": "Where are you going?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Voy a una cena esta noche.",
+          "english": "I'm going to a dinner tonight."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Comes carne?",
+          "english": "Do you eat meat?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no como carne.",
+          "english": "No, I don't eat meat."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Tomas alcohol?",
+          "english": "Do you drink alcohol?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no tomo alcohol.",
+          "english": "No, I don't drink alcohol."
+        }
+      ]
+    },
+    {
+      "lesson": 20,
+      "title": "Using the present tense for future events",
+      "focus": [
+        "present tense with future time expressions",
+        "ver",
+        "next week"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Ves a Ana pronto?",
+          "english": "Are you seeing Ana soon?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, la veo esta noche.",
+          "english": "Yes, I'm seeing her tonight."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y nosotros?",
+          "english": "And us?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Nos vemos la semana que viene.",
+          "english": "We'll see each other next week."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Hablamos mañana?",
+          "english": "Shall we talk tomorrow?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, hablamos mañana.",
+          "english": "Yes, we'll talk tomorrow."
+        }
+      ]
+    },
+    {
+      "lesson": 21,
+      "title": "Using the present perfect for past events",
+      "focus": [
+        "haber + past participle",
+        "he, has, ha, hemos, han"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Has hablado con Ana?",
+          "english": "Have you spoken with Ana?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, he hablado con ella.",
+          "english": "Yes, I have spoken with her."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Han terminado el proyecto?",
+          "english": "Have they finished the project?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, todavía no lo han terminado.",
+          "english": "No, they still haven't finished it."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Por qué no lo han terminado?",
+          "english": "Why haven't they finished it?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Han tenido un problema.",
+          "english": "They have had a problem."
+        }
+      ]
+    },
+    {
+      "lesson": 22,
+      "title": "Subject and object pronouns",
+      "focus": [
+        "él versus lo",
+        "ellos versus los",
+        "formal and informal you"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Has visto a Pablo?",
+          "english": "Have you seen Pablo?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo he visto.",
+          "english": "Yes, I have seen him."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y a Ana?",
+          "english": "And Ana?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "La he visto también.",
+          "english": "I have seen her too."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Ellos te han visto?",
+          "english": "Have they seen you?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, ellos no me han visto.",
+          "english": "No, they haven't seen me."
+        }
+      ]
+    },
+    {
+      "lesson": 23,
+      "title": "Masculine words ending in -ma and sentir",
+      "focus": [
+        "masculine -ma nouns",
+        "sentir",
+        "present perfect"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Has entendido el sistema?",
+          "english": "Have you understood the system?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, pero no he entendido el problema.",
+          "english": "Yes, but I haven't understood the problem."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Has sentido este aroma?",
+          "english": "Have you noticed this aroma?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo he sentido.",
+          "english": "Yes, I have noticed it."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Te gusta el clima?",
+          "english": "Do you like the climate?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, me gusta mucho.",
+          "english": "Yes, I like it a lot."
+        }
+      ]
+    },
+    {
+      "lesson": 24,
+      "title": "Dar and ustedes",
+      "focus": [
+        "dar",
+        "ustedes",
+        "indirect and direct object pronouns"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Me das el informe mañana?",
+          "english": "Will you give me the report tomorrow?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, te lo doy mañana.",
+          "english": "Yes, I'll give it to you tomorrow."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Ustedes le dan una copia a Ana?",
+          "english": "Are you all giving Ana a copy?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, se la damos mañana.",
+          "english": "Yes, we'll give it to her tomorrow."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿También nos dan una copia?",
+          "english": "Will you give us a copy too?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, también se la damos a ustedes.",
+          "english": "Yes, we'll give one to you all too."
+        }
+      ]
+    },
+    {
+      "lesson": 25,
+      "title": "Cocinar, quedar and telling the time",
+      "focus": [
+        "cocinar",
+        "quedarse",
+        "clock times"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Puedes cocinar esta noche?",
+          "english": "Can you cook tonight?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, cocino a las siete.",
+          "english": "Yes, I'll cook at seven."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Te quedas después de cenar?",
+          "english": "Are you staying after dinner?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, me quedo hasta las nueve.",
+          "english": "Yes, I'm staying until nine."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Nos quedamos todos?",
+          "english": "Are we all staying?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, nos quedamos todos.",
+          "english": "Yes, we're all staying."
+        }
+      ]
+    },
+    {
+      "lesson": 26,
+      "title": "Tener que, quedar and llamar",
+      "focus": [
+        "tener que",
+        "quedarse",
+        "llamar and llamarse"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Tengo que quedarme aquí esta noche.",
+          "english": "I have to stay here tonight."
+        },
+        {
+          "speaker": "B",
+          "spanish": "¿Por qué tienes que quedarte?",
+          "english": "Why do you have to stay?"
+        },
+        {
+          "speaker": "A",
+          "spanish": "Tengo que llamar a un cliente.",
+          "english": "I have to call a client."
+        },
+        {
+          "speaker": "B",
+          "spanish": "¿Cómo se llama?",
+          "english": "What is his name?"
+        },
+        {
+          "speaker": "A",
+          "spanish": "Se llama Carlos.",
+          "english": "His name is Carlos."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Entonces llámalo ahora.",
+          "english": "Then call him now."
+        }
+      ]
+    },
+    {
+      "lesson": 27,
+      "title": "Adjectives",
+      "focus": [
+        "noun and adjective order",
+        "gender",
+        "singular and plural"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Quieres comprar la cámara digital?",
+          "english": "Do you want to buy the digital camera?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, quiero la cámara pequeña.",
+          "english": "No, I want the small camera."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y el coche rojo?",
+          "english": "And the red car?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Es demasiado grande.",
+          "english": "It is too big."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Prefieres las casas grandes?",
+          "english": "Do you prefer the big houses?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, pero son caras.",
+          "english": "Yes, but they are expensive."
+        }
+      ]
+    },
+    {
+      "lesson": 28,
+      "title": "Adjective agreement and words ending in -ive",
+      "focus": [
+        "adjective agreement",
+        "professions",
+        "-ivo and -iva cognates"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "La profesora nueva es muy creativa.",
+          "english": "The new teacher is very creative."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, y los estudiantes son muy activos.",
+          "english": "Yes, and the students are very active."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Las doctoras son positivas?",
+          "english": "Are the female doctors positive?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, son positivas e intuitivas.",
+          "english": "Yes, they are positive and intuitive."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿El curso es intensivo?",
+          "english": "Is the course intensive?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, pero no es aburrido.",
+          "english": "Yes, but it isn't boring."
+        }
+      ]
+    },
+    {
+      "lesson": 29,
+      "title": "Ser or estar",
+      "focus": [
+        "ser for characteristics",
+        "estar for states and location"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Dónde estás?",
+          "english": "Where are you?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Estoy en casa.",
+          "english": "I'm at home."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Estás cansado?",
+          "english": "Are you tired?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, estoy muy cansado.",
+          "english": "Yes, I'm very tired."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Eres estudiante?",
+          "english": "Are you a student?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, soy estudiante de español.",
+          "english": "Yes, I'm a Spanish student."
+        }
+      ]
+    },
+    {
+      "lesson": 30,
+      "title": "Using estar",
+      "focus": [
+        "estar conjugation",
+        "states",
+        "locations",
+        "future with estar"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Cómo estás?",
+          "english": "How are you?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Estoy bien, pero estamos cansados.",
+          "english": "I'm well, but we're tired."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Dónde están Ana y Pablo?",
+          "english": "Where are Ana and Pablo?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Están aquí.",
+          "english": "They're here."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Van a estar aquí más tarde?",
+          "english": "Are they going to be here later?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, van a estar aquí toda la tarde.",
+          "english": "Yes, they're going to be here all afternoon."
+        }
+      ]
+    },
+    {
+      "lesson": 31,
+      "title": "Using ser",
+      "focus": [
+        "ser conjugation",
+        "identity",
+        "profession",
+        "characteristics"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿A qué te dedicas?",
+          "english": "What do you do?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Soy doctor.",
+          "english": "I'm a doctor."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y Ana?",
+          "english": "And Ana?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Ella es profesora.",
+          "english": "She is a teacher."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Cómo son tus compañeros?",
+          "english": "What are your colleagues like?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Son inteligentes y muy amables.",
+          "english": "They are intelligent and very kind."
+        }
+      ]
+    },
+    {
+      "lesson": 32,
+      "title": "Changing meaning with ser and estar",
+      "focus": [
+        "ser versus estar",
+        "temporary state versus characteristic"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Está aburrido Pablo?",
+          "english": "Is Pablo bored?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, está aburrido.",
+          "english": "Yes, he is bored."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Es aburrido?",
+          "english": "Is he boring?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, es muy interesante.",
+          "english": "No, he is very interesting."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Estás libre esta tarde?",
+          "english": "Are you free this afternoon?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, estoy libre después de las cuatro.",
+          "english": "Yes, I'm free after four."
+        }
+      ]
+    },
+    {
+      "lesson": 33,
+      "title": "More ser and estar contrasts",
+      "focus": [
+        "listo",
+        "bueno",
+        "feliz",
+        "state versus characteristic"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Estás listo para salir?",
+          "english": "Are you ready to leave?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, estoy listo.",
+          "english": "Yes, I'm ready."
+        },
+        {
+          "speaker": "A",
+          "spanish": "Ana es muy lista, ¿verdad?",
+          "english": "Ana is very smart, right?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, es muy lista.",
+          "english": "Yes, she is very smart."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Cómo está Pablo hoy?",
+          "english": "How is Pablo today?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Está feliz; normalmente es una persona feliz.",
+          "english": "He's happy; normally he's a happy person."
+        }
+      ]
+    },
+    {
+      "lesson": 34,
+      "title": "The Spanish -ing form",
+      "focus": [
+        "estar + gerund",
+        "actions happening now",
+        "present tense for future plans"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Qué haces ahora?",
+          "english": "What are you doing now?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Estoy preparando la cena.",
+          "english": "I'm preparing dinner right now."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿La preparas también mañana?",
+          "english": "Are you preparing it tomorrow too?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, mañana la prepara Ana.",
+          "english": "No, Ana is preparing it tomorrow."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Están comiendo los niños?",
+          "english": "Are the children eating?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, están comiendo ahora.",
+          "english": "Yes, they're eating now."
+        }
+      ]
+    },
+    {
+      "lesson": 35,
+      "title": "Being, leaving and buying",
+      "focus": [
+        "siendo",
+        "saliendo",
+        "comprando",
+        "gerund practice"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Estás siendo sincero conmigo?",
+          "english": "Are you being sincere with me?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, estoy siendo completamente sincero.",
+          "english": "Yes, I'm being completely sincere."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Estás saliendo ahora?",
+          "english": "Are you leaving now?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, estoy saliendo.",
+          "english": "Yes, I'm leaving now."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y los billetes?",
+          "english": "And the tickets?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Los estoy comprando ahora mismo.",
+          "english": "I'm buying them right now."
+        }
+      ]
+    },
+    {
+      "lesson": 36,
+      "title": "The future tense",
+      "focus": [
+        "future endings",
+        "iré",
+        "encontraré",
+        "me quedaré"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Irás a Madrid mañana?",
+          "english": "Will you go to Madrid tomorrow?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, iré por la mañana.",
+          "english": "Yes, I'll go in the morning."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Encontrarás el hotel?",
+          "english": "Will you find the hotel?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo encontraré.",
+          "english": "Yes, I'll find it."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Te quedarás allí?",
+          "english": "Will you stay there?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, me quedaré dos noches.",
+          "english": "Yes, I'll stay for two nights."
+        }
+      ]
+    },
+    {
+      "lesson": 37,
+      "title": "Lo and le",
+      "focus": [
+        "direct object lo",
+        "indirect object le",
+        "speaking to and giving to someone"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Ves a Pablo?",
+          "english": "Do you see Pablo?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo veo.",
+          "english": "Yes, I see him."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Le hablas todos los días?",
+          "english": "Do you speak to him every day?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, le hablo por la mañana.",
+          "english": "Yes, I speak to him in the morning."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Le das el informe hoy?",
+          "english": "Are you giving him the report today?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, le doy el informe esta tarde.",
+          "english": "Yes, I'll give him the report this afternoon."
+        }
+      ]
+    },
+    {
+      "lesson": 38,
+      "title": "When le and les become se",
+      "focus": [
+        "se lo",
+        "se la",
+        "se los",
+        "reflexive pronouns"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Le das el libro a Ana?",
+          "english": "Are you giving Ana the book?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, se lo doy.",
+          "english": "Yes, I'm giving it to her."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Les das las llaves a ellos?",
+          "english": "Are you giving them the keys?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, se las doy.",
+          "english": "Yes, I'm giving them to them."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Se quedan aquí esta noche?",
+          "english": "Are they staying here tonight?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, se quedan con nosotros.",
+          "english": "Yes, they're staying with us."
+        }
+      ]
+    },
+    {
+      "lesson": 39,
+      "title": "Prepositions: with, for, from and to",
+      "focus": [
+        "con",
+        "para",
+        "de",
+        "personal pronouns after prepositions"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Vienes conmigo?",
+          "english": "Are you coming with me?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, voy contigo.",
+          "english": "Yes, I'm going with you."
+        },
+        {
+          "speaker": "A",
+          "spanish": "Este regalo es para Ana.",
+          "english": "This gift is for Ana."
+        },
+        {
+          "speaker": "B",
+          "spanish": "¿Viene de Pablo?",
+          "english": "Is it from Pablo?"
+        },
+        {
+          "speaker": "A",
+          "spanish": "No, viene de Laura.",
+          "english": "No, it comes from Laura."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Entonces voy a hablar con ella.",
+          "english": "Then I'm going to speak with her."
+        }
+      ]
+    },
+    {
+      "lesson": 40,
+      "title": "More prepositions",
+      "focus": [
+        "pensar en",
+        "soñar con",
+        "depender de",
+        "conmigo and contigo"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Pienso mucho en ti.",
+          "english": "I think about you a lot."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Y yo sueño contigo.",
+          "english": "And I dream about you."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Quieres venir conmigo mañana?",
+          "english": "Do you want to come with me tomorrow?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Depende de Ana.",
+          "english": "It depends on Ana."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Depende de si ella viene?",
+          "english": "Does it depend on whether she comes?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, exactamente.",
+          "english": "Yes, exactly."
+        }
+      ]
+    },
+    {
+      "lesson": 41,
+      "title": "Will, would and reflexive meaning",
+      "focus": [
+        "conditional tense",
+        "future review",
+        "se for changes affecting the subject"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Bailarías conmigo esta noche?",
+          "english": "Would you dance with me tonight?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, bailaría contigo.",
+          "english": "Yes, I would dance with you."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Irías también a la fiesta?",
+          "english": "Would you also go to the party?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no iría porque estoy cansado.",
+          "english": "No, I wouldn't go because I'm tired."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿La situación se transformaría?",
+          "english": "Would the situation change?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, se transformaría completamente.",
+          "english": "Yes, it would change completely."
+        }
+      ]
+    },
+    {
+      "lesson": 42,
+      "title": "To like, would like and could",
+      "focus": [
+        "gustar",
+        "me gustaría",
+        "podría"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Te gusta este restaurante?",
+          "english": "Do you like this restaurant?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, me gusta mucho.",
+          "english": "Yes, I like it a lot."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Te gustaría comer aquí mañana?",
+          "english": "Would you like to eat here tomorrow?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, me gustaría.",
+          "english": "Yes, I would like to."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Podrías reservar una mesa?",
+          "english": "Could you reserve a table?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, podría llamar ahora.",
+          "english": "Yes, I could call now."
+        }
+      ]
+    },
+    {
+      "lesson": 43,
+      "title": "Would have and should",
+      "focus": [
+        "habría",
+        "debería",
+        "conditional perfect"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Deberíamos hablar con Pablo.",
+          "english": "We should speak with Pablo."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, él debería saberlo.",
+          "english": "Yes, he should know about it."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Habrías ido con nosotros?",
+          "english": "Would you have gone with us?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, habría ido con ustedes.",
+          "english": "Yes, I would have gone with you."
+        },
+        {
+          "speaker": "A",
+          "spanish": "Nos habría gustado verte.",
+          "english": "We would have liked to see you."
+        },
+        {
+          "speaker": "B",
+          "spanish": "A mí también me habría gustado.",
+          "english": "I would have liked that too."
+        }
+      ]
+    },
+    {
+      "lesson": 44,
+      "title": "This, that, these and those",
+      "focus": [
+        "este and esta",
+        "ese and esa",
+        "plural demonstratives"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Quieres este coche o ese coche?",
+          "english": "Do you want this car or that car?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Quiero ese; este es demasiado grande.",
+          "english": "I want that one; this one is too big."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y estas sillas?",
+          "english": "And these chairs?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Prefiero esas sillas.",
+          "english": "I prefer those chairs."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Compramos estos libros?",
+          "english": "Shall we buy these books?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, compramos esos.",
+          "english": "No, we'll buy those."
+        }
+      ]
+    },
+    {
+      "lesson": 45,
+      "title": "It interests and it seems",
+      "focus": [
+        "interesar",
+        "parecer",
+        "indirect object pronouns"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Te interesa el proyecto?",
+          "english": "Does the project interest you?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, me interesa mucho.",
+          "english": "Yes, it interests me a lot."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Qué te parece la idea?",
+          "english": "What do you think of the idea?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Me parece bien.",
+          "english": "It seems good to me."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Le interesa a Ana participar?",
+          "english": "Is Ana interested in participating?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no le parece conveniente.",
+          "english": "No, it doesn't seem convenient to her."
+        }
+      ]
+    },
+    {
+      "lesson": 46,
+      "title": "The line in the past with -ar verbs",
+      "focus": [
+        "imperfect tense",
+        "ongoing and habitual past",
+        "-aba endings"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Trabajabas aquí antes?",
+          "english": "Did you use to work here?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, trabajaba aquí todos los días.",
+          "english": "Yes, I used to work here every day."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Esperabas a Pablo por la mañana?",
+          "english": "Did you wait for Pablo in the morning?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo esperaba a las ocho.",
+          "english": "Yes, I used to wait for him at eight."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Intentaban encontrar el problema?",
+          "english": "Were they trying to find the problem?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo intentaban constantemente.",
+          "english": "Yes, they were trying constantly."
+        }
+      ]
+    },
+    {
+      "lesson": 47,
+      "title": "The line in the past with reflexive verbs",
+      "focus": [
+        "imperfect reflexives",
+        "se quemaba",
+        "se rompía",
+        "me quedaba"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Te quedabas aquí durante el verano?",
+          "english": "Did you use to stay here during the summer?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, me quedaba con mis amigos.",
+          "english": "Yes, I used to stay with my friends."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Se quemaba la cena a menudo?",
+          "english": "Did dinner burn often?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, se quemaba cuando hablábamos por teléfono.",
+          "english": "Yes, it burned when we spoke on the phone."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Se rompían esas máquinas?",
+          "english": "Did those machines break?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, se rompían todo el tiempo.",
+          "english": "Yes, they broke all the time."
+        }
+      ]
+    },
+    {
+      "lesson": 48,
+      "title": "The line in the past with -er and -ir verbs",
+      "focus": [
+        "imperfect -ía endings",
+        "comía",
+        "vivía",
+        "vendía"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Comías aquí cuando eras estudiante?",
+          "english": "Did you use to eat here when you were a student?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, comía aquí todos los días.",
+          "english": "Yes, I used to eat here every day."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Dónde vivían tus amigos?",
+          "english": "Where did your friends live?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Vivían cerca de la universidad.",
+          "english": "They lived near the university."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Se vendía esta casa?",
+          "english": "Was this house for sale?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, se vendía por un precio muy bajo.",
+          "english": "Yes, it was for sale at a very low price."
+        }
+      ]
+    },
+    {
+      "lesson": 49,
+      "title": "Imperfect forms of llamar, tener, ver, ser and ir",
+      "focus": [
+        "irregular imperfect",
+        "era",
+        "iba",
+        "veía",
+        "tenía"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Cómo se llamaba tu profesora?",
+          "english": "What was your teacher's name?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Se llamaba Marta.",
+          "english": "Her name was Marta."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Tenías clases todos los días?",
+          "english": "Did you have classes every day?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, tenía clases por la mañana.",
+          "english": "Yes, I had classes in the morning."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Ibas en autobús?",
+          "english": "Did you use to go by bus?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, e iba viendo la ciudad por la ventana.",
+          "english": "Yes, and I used to watch the city through the window."
+        }
+      ]
+    },
+    {
+      "lesson": 50,
+      "title": "Para or por, part one",
+      "focus": [
+        "para as destination or recipient",
+        "por as cause or duration"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Este regalo es para ti.",
+          "english": "This gift is for you."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Gracias. ¿Lo compraste por mí?",
+          "english": "Thank you. Did you buy it because of me?"
+        },
+        {
+          "speaker": "A",
+          "spanish": "Sí, lo compré por ti.",
+          "english": "Yes, I bought it because of you."
+        },
+        {
+          "speaker": "B",
+          "spanish": "¿Te quedas por muchos días?",
+          "english": "Are you staying for many days?"
+        },
+        {
+          "speaker": "A",
+          "spanish": "Me quedaré por tres días.",
+          "english": "I'll stay for three days."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Entonces esta habitación es para ti.",
+          "english": "Then this room is for you."
+        }
+      ]
+    },
+    {
+      "lesson": 51,
+      "title": "Para or por, part two, and false friends",
+      "focus": [
+        "por in exchanges and thanks",
+        "para and por review",
+        "actual versus currently"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Gracias por llamar.",
+          "english": "Thank you for calling."
+        },
+        {
+          "speaker": "B",
+          "spanish": "He llamado por Ana.",
+          "english": "I called because of Ana."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Cambiarías este libro por ese?",
+          "english": "Would you exchange this book for that one?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, cambiaría este por ese.",
+          "english": "Yes, I would exchange this one for that one."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Cuál es tu trabajo actual?",
+          "english": "What is your current job?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Actualmente trabajo en una escuela.",
+          "english": "Currently I work at a school."
+        }
+      ]
+    },
+    {
+      "lesson": 52,
+      "title": "Para as in order to and more gerunds",
+      "focus": [
+        "para + infinitive",
+        "estaba + gerund",
+        "infinitives as nouns"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Por qué estás aquí?",
+          "english": "Why are you here?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Estoy aquí para verte.",
+          "english": "I'm here to see you."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Qué estabas haciendo antes?",
+          "english": "What were you doing before?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Estaba tomando un curso de español.",
+          "english": "I was taking a Spanish course."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Es difícil?",
+          "english": "Is it difficult?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, aprender español es interesante.",
+          "english": "No, learning Spanish is interesting."
+        }
+      ]
+    },
+    {
+      "lesson": 53,
+      "title": "Could, had and would in the past",
+      "focus": [
+        "podía",
+        "había",
+        "habría"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Podías hacerlo ayer?",
+          "english": "Could you do it yesterday?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No podía porque no tenía tiempo.",
+          "english": "I couldn't because I didn't have time."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Habías comido antes de salir?",
+          "english": "Had you eaten before leaving?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, ya había comido.",
+          "english": "Yes, I had already eaten."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Habrías ido con más tiempo?",
+          "english": "Would you have gone with more time?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, habría ido.",
+          "english": "Yes, I would have gone."
+        }
+      ]
+    },
+    {
+      "lesson": 54,
+      "title": "Past participles as adjectives",
+      "focus": [
+        "haber + invariant participle",
+        "estar + agreeing adjective",
+        "resulting states"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Has cerrado la puerta?",
+          "english": "Have you closed the door?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, la he cerrado.",
+          "english": "Yes, I have closed it."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Está cerrada ahora?",
+          "english": "Is it closed now?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, está cerrada.",
+          "english": "Yes, it is closed."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Has terminado la presentación?",
+          "english": "Have you finished the presentation?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, está terminada.",
+          "english": "Yes, it is finished."
+        }
+      ]
+    },
+    {
+      "lesson": 55,
+      "title": "Should have, could have and irregular participles",
+      "focus": [
+        "debería haber",
+        "podría haber",
+        "hecho",
+        "dicho"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Deberías haber llamado antes.",
+          "english": "You should have called earlier."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Lo sé. Podría haber llamado ayer.",
+          "english": "I know. I could have called yesterday."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Has hecho el trabajo?",
+          "english": "Have you done the work?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, ya está hecho.",
+          "english": "Yes, it is already done."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Le has dicho la verdad a Ana?",
+          "english": "Have you told Ana the truth?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, se la he dicho.",
+          "english": "Yes, I have told it to her."
+        }
+      ]
+    },
+    {
+      "lesson": 56,
+      "title": "Prepositions and relative words",
+      "focus": [
+        "con quién",
+        "para quién",
+        "cuál",
+        "relative clauses"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Con quién trabajas?",
+          "english": "Who do you work with?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Trabajo con la chica que conociste ayer.",
+          "english": "I work with the girl you met yesterday."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Para quién preparas el informe?",
+          "english": "Who are you preparing the report for?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Lo preparo para Ana.",
+          "english": "I'm preparing it for Ana."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Cuál de estos informes quiere?",
+          "english": "Which of these reports does she want?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No sé cuál quiere.",
+          "english": "I don't know which one she wants."
+        }
+      ]
+    },
+    {
+      "lesson": 57,
+      "title": "The many uses of lo",
+      "focus": [
+        "lo + adjective",
+        "lo de",
+        "lo as an object pronoun"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "Lo bueno es que todos viven cerca.",
+          "english": "The good thing is that everyone lives nearby."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Lo malo es que nunca llegan a tiempo.",
+          "english": "The bad thing is that they never arrive on time."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Hablamos de lo de la fiesta?",
+          "english": "Shall we talk about the party situation?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, pero no quiero hablarlo así.",
+          "english": "Yes, but I don't want to discuss it like this."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Organizas lo de mañana?",
+          "english": "Are you organizing tomorrow's arrangements?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo organizo esta tarde.",
+          "english": "Yes, I'll organize it this afternoon."
+        }
+      ]
+    },
+    {
+      "lesson": 58,
+      "title": "The dot in the past with -ar verbs",
+      "focus": [
+        "preterite -é and -ó",
+        "completed past events",
+        "object pronouns"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Ana habló contigo ayer?",
+          "english": "Did Ana speak with you yesterday?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, habló conmigo por la tarde.",
+          "english": "Yes, she spoke with me in the afternoon."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Compró el coche?",
+          "english": "Did she buy the car?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo compró.",
+          "english": "Yes, she bought it."
+        },
+        {
+          "speaker": "A",
+          "spanish": "Yo le envié los documentos.",
+          "english": "I sent her the documents."
+        },
+        {
+          "speaker": "B",
+          "spanish": "Perfecto. Ella los examinó ayer.",
+          "english": "Perfect. She examined them yesterday."
+        }
+      ]
+    },
+    {
+      "lesson": 59,
+      "title": "The dot in the past with -er and -ir verbs",
+      "focus": [
+        "preterite -í and -ió",
+        "comer",
+        "salir",
+        "ver"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Comió Ana antes de salir?",
+          "english": "Did Ana eat before leaving?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no comió nada.",
+          "english": "No, she didn't eat anything."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Salió después?",
+          "english": "Did she go out afterward?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, salió a las ocho.",
+          "english": "Yes, she went out at eight."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿La vio Pablo?",
+          "english": "Did Pablo see her?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no vio a nadie.",
+          "english": "No, he didn't see anyone."
+        }
+      ]
+    },
+    {
+      "lesson": 60,
+      "title": "The dot in the past with nosotros",
+      "focus": [
+        "preterite we forms",
+        "hablamos",
+        "comimos",
+        "vimos",
+        "nos perdimos"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Hablamos con Ana ayer?",
+          "english": "Did we speak with Ana yesterday?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, hablamos durante una hora.",
+          "english": "Yes, we spoke for an hour."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Comimos juntos después?",
+          "english": "Did we eat together afterward?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, comimos en su casa.",
+          "english": "Yes, we ate at her house."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Nos perdimos al volver?",
+          "english": "Did we get lost on the way back?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, esta vez no nos perdimos.",
+          "english": "No, this time we didn't get lost."
+        }
+      ]
+    },
+    {
+      "lesson": 61,
+      "title": "When the line and the dot meet",
+      "focus": [
+        "imperfect background",
+        "preterite interruption",
+        "contrasting ongoing and completed past"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Qué hacías cuando llamó Ana?",
+          "english": "What were you doing when Ana called?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Cocinaba cuando sonó el teléfono.",
+          "english": "I was cooking when the phone rang."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Te gustó la idea?",
+          "english": "Did you like the idea?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Me parecía buena al principio.",
+          "english": "It seemed good to me at first."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y cuando la viste?",
+          "english": "And when you saw it?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Cuando la vi, no me gustó.",
+          "english": "When I saw it, I didn't like it."
+        }
+      ]
+    },
+    {
+      "lesson": 62,
+      "title": "Gave and why le becomes se",
+      "focus": [
+        "di, dio and dimos",
+        "se lo and se las",
+        "clarifying recipients"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Quién le dio el libro a Ana?",
+          "english": "Who gave Ana the book?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Yo se lo di.",
+          "english": "I gave it to her."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y quién le dio las llaves?",
+          "english": "And who gave her the keys?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Pablo se las dio.",
+          "english": "Pablo gave them to her."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Nos dio una copia también?",
+          "english": "Did he give us a copy too?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, nos la dio ayer.",
+          "english": "Yes, he gave it to us yesterday."
+        }
+      ]
+    },
+    {
+      "lesson": 63,
+      "title": "To remember and to like",
+      "focus": [
+        "acordarse",
+        "gustar with clarified recipients",
+        "past gustó"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Te acuerdas de la fiesta?",
+          "english": "Do you remember the party?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no me acuerdo bien.",
+          "english": "No, I don't remember it well."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿A Ana le gustó?",
+          "english": "Did Ana like it?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, a ella le gustó mucho.",
+          "english": "Yes, she liked it a lot."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y a Pablo?",
+          "english": "And Pablo?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "A él no le gustó la música.",
+          "english": "He didn't like the music."
+        }
+      ]
+    },
+    {
+      "lesson": 64,
+      "title": "Past events with tú and ellos",
+      "focus": [
+        "preterite second-person singular",
+        "preterite third-person plural",
+        "hace + time"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Comiste antes de salir?",
+          "english": "Did you eat before going out?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, comí en casa.",
+          "english": "Yes, I ate at home."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Saliste anoche?",
+          "english": "Did you go out last night?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, me quedé aquí.",
+          "english": "No, I stayed here."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Y tus amigos?",
+          "english": "And your friends?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Ellos comieron y salieron hace dos horas.",
+          "english": "They ate and went out two hours ago."
+        }
+      ]
+    },
+    {
+      "lesson": 65,
+      "title": "Nothing else, another time and possessives",
+      "focus": [
+        "nada más",
+        "otra vez",
+        "todos",
+        "possessive adjectives"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Comiste algo más?",
+          "english": "Did you eat anything else?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, no comí nada más.",
+          "english": "No, I didn't eat anything else."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Viste a Pablo otra vez?",
+          "english": "Did you see Pablo again?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, lo vi otra vez en tu casa.",
+          "english": "Yes, I saw him again at your house."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Llegaron todos a la vez?",
+          "english": "Did everyone arrive at the same time?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, todos llegaron a mi casa a la vez.",
+          "english": "Yes, everyone arrived at my house at the same time."
+        }
+      ]
+    },
+    {
+      "lesson": 66,
+      "title": "Possession, ownership and pain",
+      "focus": [
+        "doler",
+        "body parts without possessives",
+        "de for ownership"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Te duele la cabeza?",
+          "english": "Does your head hurt?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, me duele mucho.",
+          "english": "Yes, it hurts a lot."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Vamos a la casa de José?",
+          "english": "Are we going to José's house?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, vamos a la fiesta de María.",
+          "english": "No, we're going to María's party."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Es tu coche?",
+          "english": "Is it your car?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No, es el coche de Ana.",
+          "english": "No, it is Ana's car."
+        }
+      ]
+    },
+    {
+      "lesson": 67,
+      "title": "Written Spanish and accent marks",
+      "focus": [
+        "sí versus si",
+        "tú versus tu",
+        "sé versus se",
+        "mí versus mi"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Dijiste «sí» o «si»?",
+          "english": "Did you say ‘yes’ or ‘if’?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Dije «sí», con acento.",
+          "english": "I said ‘yes’, with an accent mark."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Tú sabes dónde está tu libro?",
+          "english": "Do you know where your book is?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, sé dónde está.",
+          "english": "Yes, I know where it is."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Este regalo es para mí?",
+          "english": "Is this gift for me?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, es para ti.",
+          "english": "Yes, it is for you."
+        }
+      ],
+      "notes": "This dialogue deliberately contrasts words whose accent marks change their meaning."
+    },
+    {
+      "lesson": 68,
+      "title": "This, that and how many",
+      "focus": [
+        "esto and eso",
+        "demonstratives",
+        "cuántas veces",
+        "tan ... que"
+      ],
+      "lines": [
+        {
+          "speaker": "A",
+          "spanish": "¿Quieres este libro o ese?",
+          "english": "Do you want this book or that one?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Quiero ese; ya tengo este.",
+          "english": "I want that one; I already have this one."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Cuántas veces lo has leído?",
+          "english": "How many times have you read it?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "No sé cuántas veces.",
+          "english": "I don't know how many times."
+        },
+        {
+          "speaker": "A",
+          "spanish": "¿Te gustó eso?",
+          "english": "Did you like that?"
+        },
+        {
+          "speaker": "B",
+          "spanish": "Sí, me gustó tanto que lo leí otra vez.",
+          "english": "Yes, I liked it so much that I read it again."
+        }
+      ]
+    }
+  ]
+}

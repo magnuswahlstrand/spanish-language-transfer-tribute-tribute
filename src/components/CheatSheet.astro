@@ -1,13 +1,39 @@
 ---
 import type { Lesson } from "../lib/schema";
 
+export interface DialogueLine {
+  speaker: string;
+  spanish: string;
+  english: string;
+}
+
+export interface Dialogue {
+  lesson: number;
+  title: string;
+  focus: string[];
+  notes?: string;
+  lines: DialogueLine[];
+}
+
 export interface Props {
   lessons: Lesson[];
   groupLabel: string;
+  dialogues?: Dialogue[];
 }
 
-const { lessons, groupLabel } = Astro.props;
+const { lessons, groupLabel, dialogues = [] } = Astro.props;
+
+const dialogueMap = new Map<number, Dialogue>();
+for (const d of dialogues) {
+  dialogueMap.set(d.lesson, d);
+}
 ---
+
+<style>
+  details.dialogue .speaker-a td {
+    font-weight: 700;
+  }
+</style>
 
 <h1>{groupLabel} — Cheat sheet</h1>
 
@@ -97,5 +123,36 @@ const { lessons, groupLabel } = Astro.props;
         </table>
       </>
     )}
+
+    {(() => {
+      const dia = dialogueMap.get(lesson.number);
+      if (!dia) return null;
+      return (
+        <details class="dialogue">
+          <summary>Dialog</summary>
+          {dia.notes && (
+            <p style={{ fontSize: "0.85rem", color: "var(--color-muted)", marginBottom: "0.5rem" }}>
+              {dia.notes}
+            </p>
+          )}
+          <table>
+            <thead>
+              <tr>
+                <th scope="col" lang="es">Spanish</th>
+                <th scope="col" lang="en">English</th>
+              </tr>
+            </thead>
+            <tbody>
+              {dia.lines.map((line) => (
+                <tr class={line.speaker === "A" ? "speaker-a" : ""}>
+                  <td lang="es">{line.spanish}</td>
+                  <td lang="en">{line.english}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </details>
+      );
+    })()}
   </section>
 ))}
