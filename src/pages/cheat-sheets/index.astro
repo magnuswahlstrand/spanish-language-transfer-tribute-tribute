@@ -96,6 +96,19 @@ const allDialogues = (dialoguesData as { dialogues: Dialogue[] }).dialogues;
 
     applyMode();
 
+    // Per-column toggle checkboxes (event delegation)
+    document.addEventListener("change", (e) => {
+      const target = e.target as HTMLElement;
+      const table = target.closest("table");
+      if (!table) return;
+      if (target.matches("[data-toggle-es]")) {
+        table.classList.toggle("hide-es", !target.checked);
+      }
+      if (target.matches("[data-toggle-en]")) {
+        table.classList.toggle("hide-en", !target.checked);
+      }
+    });
+
     // Open collapsible sections when printing, collapse after
     function toggleSections(open: boolean) {
       for (const d of document.querySelectorAll<HTMLDetailsElement>("details.dialogue, details.sentences")) {

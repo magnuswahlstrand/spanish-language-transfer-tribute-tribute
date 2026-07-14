@@ -22,7 +22,7 @@ const { lessons, showLessonHeaders = true } = Astro.props;
         {showLessonHeaders && (
           <tr id={`lesson-${lesson.number}`} class="lesson-header" data-lesson={lesson.number}>
             <th scope="colgroup" colspan="2" lang="en">
-              Lesson {lesson.number}: {lesson.title}
+              {lesson.title}
             </th>
           </tr>
         )}

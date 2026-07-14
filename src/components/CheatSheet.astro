@@ -41,6 +41,33 @@ for (const d of dialogues) {
     margin-bottom: 0.5rem;
     cursor: pointer;
   }
+  table.hide-es td[lang="es"] {
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  table.hide-es tr:hover td[lang="es"] {
+    opacity: 1;
+  }
+  table.hide-en td[lang="en"] {
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  table.hide-en tr:hover td[lang="en"] {
+    opacity: 1;
+  }
+  .col-toggle {
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.15rem;
+    margin-right: 0.3rem;
+    vertical-align: middle;
+  }
+  .col-toggle input {
+    width: 0.8rem;
+    height: 0.8rem;
+    cursor: pointer;
+  }
 </style>
 
 <h1>{groupLabel} — Cheat sheet</h1>
@@ -48,7 +75,7 @@ for (const d of dialogues) {
 {lessons.map((lesson) => (
   <section id={`lesson-${lesson.number}`}>
     <h2>
-      Lesson {lesson.number}: {lesson.title}
+      {lesson.title}
     </h2>
 
     {lesson.concepts.length > 0 && (
@@ -68,8 +95,18 @@ for (const d of dialogues) {
         <table>
           <thead>
             <tr>
-              <th scope="col" lang="es">Spanish</th>
-              <th scope="col" lang="en">English</th>
+              <th scope="col" lang="es">
+                <label class="col-toggle no-print" title="Show/hide Spanish column">
+                  <input type="checkbox" data-toggle-es checked />
+                </label>
+                <span lang="es">Spanish</span>
+              </th>
+              <th scope="col" lang="en">
+                <label class="col-toggle no-print" title="Show/hide English column">
+                  <input type="checkbox" data-toggle-en checked />
+                </label>
+                <span lang="en">English</span>
+              </th>
               <th scope="col">Notes</th>
             </tr>
           </thead>
@@ -92,8 +129,18 @@ for (const d of dialogues) {
         <table>
           <thead>
             <tr>
-              <th scope="col" lang="es">Spanish</th>
-              <th scope="col" lang="en">English</th>
+              <th scope="col" lang="es">
+                <label class="col-toggle no-print" title="Show/hide Spanish column">
+                  <input type="checkbox" data-toggle-es checked />
+                </label>
+                <span lang="es">Spanish</span>
+              </th>
+              <th scope="col" lang="en">
+                <label class="col-toggle no-print" title="Show/hide English column">
+                  <input type="checkbox" data-toggle-en checked />
+                </label>
+                <span lang="en">English</span>
+              </th>
             </tr>
           </thead>
           <tbody>
@@ -114,8 +161,18 @@ for (const d of dialogues) {
         <table>
           <thead>
             <tr>
-              <th scope="col" lang="es">Spanish</th>
-              <th scope="col" lang="en">English</th>
+              <th scope="col" lang="es">
+                <label class="col-toggle no-print" title="Show/hide Spanish column">
+                  <input type="checkbox" data-toggle-es checked />
+                </label>
+                <span lang="es">Spanish</span>
+              </th>
+              <th scope="col" lang="en">
+                <label class="col-toggle no-print" title="Show/hide English column">
+                  <input type="checkbox" data-toggle-en checked />
+                </label>
+                <span lang="en">English</span>
+              </th>
             </tr>
           </thead>
           <tbody>
@@ -146,8 +203,18 @@ for (const d of dialogues) {
           <table>
             <thead>
               <tr>
-                <th scope="col" lang="es">Spanish</th>
-                <th scope="col" lang="en">English</th>
+                <th scope="col" lang="es">
+                  <label class="col-toggle no-print" title="Show/hide Spanish column">
+                    <input type="checkbox" data-toggle-es checked />
+                  </label>
+                  <span lang="es">Spanish</span>
+                </th>
+                <th scope="col" lang="en">
+                  <label class="col-toggle no-print" title="Show/hide English column">
+                    <input type="checkbox" data-toggle-en checked />
+                  </label>
+                  <span lang="en">English</span>
+                </th>
               </tr>
             </thead>
             <tbody>
