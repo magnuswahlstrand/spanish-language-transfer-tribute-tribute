@@ -1,10 +1,11 @@
-import { parseRange, generateAllRanges } from "../../../../lib/practice";
+import { parseRange } from "../../../../lib/practice";
 import { getMaxLessonNumber } from "../../../../lib/lessons";
 
 export function getStaticPaths() {
-  return generateAllRanges(getMaxLessonNumber()).map((range) => ({
-    params: { range },
-  }));
+  const max = getMaxLessonNumber();
+  const ranges: string[] = [];
+  for (let i = 1; i <= max; i++) ranges.push(String(i));
+  return ranges.map((range) => ({ params: { range } }));
 }
 
 export async function GET({ params, url }: { params: { range: string }; url: URL }) {

@@ -4,13 +4,13 @@ import { getLessonsInRange, getMaxLessonNumber } from "../../../../lib/lessons";
 import {
   getPracticeInRange,
   parseRange,
-  generateAllRanges,
 } from "../../../../lib/practice";
 
 export function getStaticPaths() {
-  return generateAllRanges(getMaxLessonNumber()).map((range) => ({
-    params: { range },
-  }));
+  const max = getMaxLessonNumber();
+  const ranges: string[] = [];
+  for (let i = 1; i <= max; i++) ranges.push(String(i));
+  return ranges.map((range) => ({ params: { range } }));
 }
 
 const { range } = Astro.params;
@@ -29,12 +29,12 @@ const base = (import.meta.env.BASE_URL.endsWith("/")
 ---
 
 <BaseLayout
-  title={`Writing Practice — Lessons ${range} — Complete Spanish Reference`}
-  description={`Practice writing Spanish with lessons ${range}. Interactive dialogue partner using lesson concepts and vocabulary.`}
+  title={`Writing Practice — Lesson ${range} — Complete Spanish Reference`}
+  description={`Practice writing Spanish for lesson ${range}. Interactive dialogue partner using lesson concepts and vocabulary.`}
 >
   <link rel="alternate" type="application/json" href={`${base}practice/writing/${range}/context.json`} />
 
-  <h1>Writing Practice — Lessons {range}</h1>
+  <h1>Writing Practice — Lesson {range}</h1>
 
   <div style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-bottom:1rem">
     <a href={`${base}practice/writing/${range}/context.json`} class="button-link" download>
@@ -59,7 +59,7 @@ const base = (import.meta.env.BASE_URL.endsWith("/")
       </li>
     </ol>
     <p style="font-size:0.85rem;color:var(--color-muted)">
-      The agent fetches the instructions once, then fetches the context for the specific lesson range.
+      The agent fetches the instructions once, then fetches context for each lesson.
     </p>
     <div style="margin-top:0.75rem">
       <button id="copy-prompt" style="cursor:pointer;padding:0.3rem 0.8rem;font-size:0.85rem;border:1px solid var(--color-border);border-radius:4px;background:var(--color-bg)">
@@ -180,7 +180,7 @@ Fetch lesson context:
 curl -s ${origin}${base}/practice/writing/${range}/context.json
 \`\`\`
 
-Then follow the instructions and start the conversation for lessons ${range}.`;
+Then follow the instructions and start the conversation for lesson ${range}.`;
       navigator.clipboard.writeText(text).catch(() => {});
     });
   </script>

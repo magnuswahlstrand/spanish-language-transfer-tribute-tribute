@@ -74,23 +74,27 @@ and one sentence to write from memory.
 
 SOURCE MATERIAL
 ---------------
-Lesson content and dialogue examples are available as JSON.
-Construct the URL with the EXACT range the learner gives:
+Lesson content and dialogue examples are available as individual JSON
+files, one per lesson. Fetch each lesson separately:
 
-{base}/practice/writing/{range}/context.json
+{base}/practice/writing/{lesson}/context.json
 
 Examples:
-  Learner says "lessons 2-6"  → fetch .../practice/writing/2-6/context.json
-  Learner says "lesson 3"     → fetch .../practice/writing/3/context.json
-  Learner says "lessons 11-13"→ fetch .../practice/writing/11-13/context.json
+  Learner says "lessons 2-6" → fetch lessons 2, 3, 4, 5, and 6
+    .../practice/writing/2/context.json
+    .../practice/writing/3/context.json
+    .../practice/writing/4/context.json
+    .../practice/writing/5/context.json
+    .../practice/writing/6/context.json
 
-Fetch exactly ONE URL. Do not guess or try multiple ranges.
-The JSON returns an array with lesson data and optional scenario per lesson.
+  Learner says "lesson 3" → fetch .../practice/writing/3/context.json
+
+Each JSON returns an object with lesson data and optional scenario.
 
 START
 -----
-When the learner says which lessons to practise, construct the URL with
-that exact range and fetch it. Then briefly state which lessons and
+When the learner says which lessons to practise, fetch the context.json
+for each lesson individually. Then briefly state which lessons and
 scenario are being practised, and immediately begin with one short
 Spanish message. Do not explain the rules first.
 `;
