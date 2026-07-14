@@ -1,0 +1,190 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import { getLessonsInRange, getMaxLessonNumber } from "../../../../lib/lessons";
+import {
+  getPracticeInRange,
+  parseRange,
+} from "../../../../lib/practice";
+import { CHEAT_SHEET_GROUPS } from "../../../../lib/groups";
+
+export function getStaticPaths() {
+  const max = getMaxLessonNumber();
+  const ranges: string[] = [];
+  for (let i = 1; i <= max; i++) ranges.push(String(i));
+  for (const g of CHEAT_SHEET_GROUPS) ranges.push(`${g.start}-${g.end}`);
+  ranges.push("11-13");
+  return [...new Set(ranges)].map((range) => ({ params: { range } }));
+}
+
+const { range } = Astro.params;
+const parsed = parseRange(range!);
+if (!parsed) {
+  throw new Error(`Invalid range: ${range}`);
+}
+
+const { start, end } = parsed;
+const lessons = getLessonsInRange(start, end);
+const scenarios = getPracticeInRange(start, end);
+
+const base = (import.meta.env.BASE_URL.endsWith("/")
+  ? import.meta.env.BASE_URL
+  : import.meta.env.BASE_URL + "/") as string;
+---
+
+<BaseLayout
+  title={`Writing Practice — Lessons ${range} — Complete Spanish Reference`}
+  description={`Practice writing Spanish with lessons ${range}. Interactive dialogue partner using lesson concepts and vocabulary.`}
+>
+  <link rel="alternate" type="application/json" href={`${base}practice/writing/${range}/context.json`} />
+
+  <h1>Writing Practice — Lessons {range}</h1>
+
+  <div style="display:flex;gap:0.5rem;flex-wrap:wrap;margin-bottom:1rem">
+    <a href={`${base}practice/writing/${range}/context.json`} class="button-link" download>
+      Download context.json
+    </a>
+    <a href={`${base}agent/writing/instructions.txt`} class="button-link" target="_blank">
+      Agent instructions
+    </a>
+  </div>
+
+  <section style="margin-bottom:2rem;padding:1rem;background:var(--color-accent-subtle);border-radius:var(--radius);border:1px solid var(--color-border)">
+    <h2>Agent setup</h2>
+    <p>Give your AI agent these two URLs:</p>
+    <ol style="margin:0.5rem 0">
+      <li style="margin-bottom:0.25rem">
+        <strong>Instructions:</strong>
+        <a href={`${base}agent/writing/instructions.txt`}>{base}agent/writing/instructions.txt</a>
+      </li>
+      <li>
+        <strong>Lesson context:</strong>
+        <a href={`${base}practice/writing/${range}/context.json`}>{base}practice/writing/{range}/context.json</a>
+      </li>
+    </ol>
+    <p style="font-size:0.85rem;color:var(--color-muted)">
+      The agent fetches the instructions once, then fetches the context for the specific lesson range.
+    </p>
+    <div style="margin-top:0.75rem">
+      <button id="copy-prompt" style="cursor:pointer;padding:0.3rem 0.8rem;font-size:0.85rem;border:1px solid var(--color-border);border-radius:4px;background:var(--color-bg)">
+        Copy launcher command
+      </button>
+    </div>
+  </section>
+
+  {lessons.map((lesson) => {
+    const scenario = scenarios.find((s) => s.lesson === lesson.number) ?? null;
+    return (
+      <section style="margin-bottom:2rem;padding:1rem;border:1px solid var(--color-border);border-radius:var(--radius)">
+        <h2>{lesson.title}</h2>
+
+        <details open>
+          <summary style="cursor:pointer;font-weight:600;margin-bottom:0.5rem">Key concepts</summary>
+          {lesson.concepts.length > 0 ? (
+            <ul>
+              {lesson.concepts.map((c) => (
+                <li style="margin-bottom:0.25rem">{c}</li>
+              ))}
+            </ul>
+          ) : (
+            <p style="font-size:0.85rem;color:var(--color-muted)">—</p>
+          )}
+        </details>
+
+        <details>
+          <summary style="cursor:pointer;font-weight:600;margin-bottom:0.5rem">Example sentences ({lesson.sentences.length})</summary>
+          {lesson.sentences.length > 0 ? (
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col" lang="es">Spanish</th>
+                  <th scope="col" lang="en">English</th>
+                  <th scope="col">Note</th>
+                </tr>
+              </thead>
+              <tbody>
+                {lesson.sentences.map((s) => (
+                  <tr>
+                    <td lang="es">{s.spanish}</td>
+                    <td lang="en">{s.english}</td>
+                    <td style="font-size:0.85rem;color:var(--color-muted)">{s.note ?? ""}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          ) : (
+            <p style="font-size:0.85rem;color:var(--color-muted)">—</p>
+          )}
+        </details>
+
+        {scenario && (
+          <details>
+            <summary style="cursor:pointer;font-weight:600;margin-bottom:0.5rem">Dialogue: {scenario.title}</summary>
+            <p style="font-size:0.85rem;color:var(--color-muted);margin-bottom:0.5rem">
+              Focus: {scenario.focus.join(", ")}
+            </p>
+            <table>
+              <thead>
+                <tr>
+                  <th scope="col">Speaker</th>
+                  <th scope="col" lang="es">Spanish</th>
+                  <th scope="col" lang="en">English</th>
+                </tr>
+              </thead>
+              <tbody>
+                {scenario.lines.map((line) => (
+                  <tr>
+                    <td style="text-align:center">{line.speaker}</td>
+                    <td lang="es">{line.spanish}</td>
+                    <td lang="en">{line.english}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </details>
+        )}
+      </section>
+    );
+  })}
+
+  <style>
+    .button-link {
+      display: inline-block;
+      padding: 0.3rem 0.8rem;
+      font-size: 0.85rem;
+      border: 1px solid var(--color-border);
+      border-radius: 4px;
+      background: var(--color-accent-subtle);
+      text-decoration: none;
+      color: var(--color-accent);
+    }
+    .button-link:hover {
+      background: var(--color-accent-light);
+    }
+    details {
+      margin-bottom: 0.5rem;
+    }
+    details summary {
+      font-size: 0.95rem;
+    }
+  </style>
+
+  <script>
+    document.getElementById("copy-prompt")?.addEventListener("click", () => {
+      const origin = location.origin;
+      const base = location.pathname.split("/practice/writing/")[0];
+      const range = location.pathname.match(/practice\/writing\/([\d-]+)/)?.[1] ?? "";
+      const text = `Fetch instructions:
+\`\`\`
+curl -s ${origin}${base}/agent/writing/instructions.txt
+\`\`\`
+
+Fetch lesson context:
+\`\`\`
+curl -s ${origin}${base}/practice/writing/${range}/context.json
+\`\`\`
+
+Then follow the instructions and start the conversation for lessons ${range}.`;
+      navigator.clipboard.writeText(text).catch(() => {});
+    });
+  </script>
+</BaseLayout>

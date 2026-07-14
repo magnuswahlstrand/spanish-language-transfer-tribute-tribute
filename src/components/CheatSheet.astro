@@ -1,32 +1,13 @@
 ---
 import type { Lesson } from "../lib/schema";
-
-export interface DialogueLine {
-  speaker: string;
-  spanish: string;
-  english: string;
-}
-
-export interface Dialogue {
-  lesson: number;
-  title: string;
-  focus: string[];
-  notes?: string;
-  lines: DialogueLine[];
-}
+import { getPracticeForLesson } from "../lib/practice";
 
 export interface Props {
   lessons: Lesson[];
   groupLabel: string;
-  dialogues?: Dialogue[];
 }
 
-const { lessons, groupLabel, dialogues = [] } = Astro.props;
-
-const dialogueMap = new Map<number, Dialogue>();
-for (const d of dialogues) {
-  dialogueMap.set(d.lesson, d);
-}
+const { lessons, groupLabel } = Astro.props;
 ---
 
 <style>
@@ -72,127 +53,126 @@ for (const d of dialogues) {
 
 <h1>{groupLabel} — Cheat sheet</h1>
 
-{lessons.map((lesson) => (
-  <section id={`lesson-${lesson.number}`}>
-    <h2>
-      {lesson.title}
-    </h2>
+{lessons.map((lesson) => {
+  const dia = getPracticeForLesson(lesson.number);
+  return (
+    <section id={`lesson-${lesson.number}`}>
+      <h2>
+        {lesson.title}
+      </h2>
 
-    {lesson.concepts.length > 0 && (
-      <>
-        <h3>Key ideas</h3>
-        <ul>
-          {lesson.concepts.map((c) => (
-            <li>{c}</li>
-          ))}
-        </ul>
-      </>
-    )}
+      {lesson.concepts.length > 0 && (
+        <>
+          <h3>Key ideas</h3>
+          <ul>
+            {lesson.concepts.map((c) => (
+              <li>{c}</li>
+            ))}
+          </ul>
+        </>
+      )}
 
-    {lesson.verbs.length > 0 && (
-      <>
-        <h3>Verbs</h3>
-        <table>
-          <thead>
-            <tr>
-              <th scope="col" lang="es">
-                <label class="col-toggle no-print" title="Show/hide Spanish column">
-                  <input type="checkbox" data-toggle-es checked />
-                </label>
-                <span lang="es">Spanish</span>
-              </th>
-              <th scope="col" lang="en">
-                <label class="col-toggle no-print" title="Show/hide English column">
-                  <input type="checkbox" data-toggle-en checked />
-                </label>
-                <span lang="en">English</span>
-              </th>
-              <th scope="col">Notes</th>
-            </tr>
-          </thead>
-          <tbody>
-            {lesson.verbs.map((v) => (
+      {lesson.verbs.length > 0 && (
+        <>
+          <h3>Verbs</h3>
+          <table>
+            <thead>
               <tr>
-                <td lang="es">{v.spanish}</td>
-                <td lang="en">{v.english}</td>
-                <td>{v.note}</td>
+                <th scope="col" lang="es">
+                  <label class="col-toggle no-print" title="Show/hide Spanish column">
+                    <input type="checkbox" data-toggle-es checked />
+                  </label>
+                  <span lang="es">Spanish</span>
+                </th>
+                <th scope="col" lang="en">
+                  <label class="col-toggle no-print" title="Show/hide English column">
+                    <input type="checkbox" data-toggle-en checked />
+                  </label>
+                  <span lang="en">English</span>
+                </th>
+                <th scope="col">Notes</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
-      </>
-    )}
+            </thead>
+            <tbody>
+              {lesson.verbs.map((v) => (
+                <tr>
+                  <td lang="es">{v.spanish}</td>
+                  <td lang="en">{v.english}</td>
+                  <td>{v.note}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </>
+      )}
 
-    {lesson.keywords.length > 0 && (
-      <>
-        <h3>Key words</h3>
-        <table>
-          <thead>
-            <tr>
-              <th scope="col" lang="es">
-                <label class="col-toggle no-print" title="Show/hide Spanish column">
-                  <input type="checkbox" data-toggle-es checked />
-                </label>
-                <span lang="es">Spanish</span>
-              </th>
-              <th scope="col" lang="en">
-                <label class="col-toggle no-print" title="Show/hide English column">
-                  <input type="checkbox" data-toggle-en checked />
-                </label>
-                <span lang="en">English</span>
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            {lesson.keywords.map((k) => (
+      {lesson.keywords.length > 0 && (
+        <>
+          <h3>Key words</h3>
+          <table>
+            <thead>
               <tr>
-                <td lang="es">{k.spanish}</td>
-                <td lang="en">{k.english}</td>
+                <th scope="col" lang="es">
+                  <label class="col-toggle no-print" title="Show/hide Spanish column">
+                    <input type="checkbox" data-toggle-es checked />
+                  </label>
+                  <span lang="es">Spanish</span>
+                </th>
+                <th scope="col" lang="en">
+                  <label class="col-toggle no-print" title="Show/hide English column">
+                    <input type="checkbox" data-toggle-en checked />
+                  </label>
+                  <span lang="en">English</span>
+                </th>
               </tr>
-            ))}
-          </tbody>
-        </table>
-      </>
-    )}
+            </thead>
+            <tbody>
+              {lesson.keywords.map((k) => (
+                <tr>
+                  <td lang="es">{k.spanish}</td>
+                  <td lang="en">{k.english}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </>
+      )}
 
-    {lesson.sentences.length > 0 && (
-      <details class="sentences">
-        <summary>Example sentences</summary>
-        <table>
-          <thead>
-            <tr>
-              <th scope="col" lang="es">
-                <label class="col-toggle no-print" title="Show/hide Spanish column">
-                  <input type="checkbox" data-toggle-es checked />
-                </label>
-                <span lang="es">Spanish</span>
-              </th>
-              <th scope="col" lang="en">
-                <label class="col-toggle no-print" title="Show/hide English column">
-                  <input type="checkbox" data-toggle-en checked />
-                </label>
-                <span lang="en">English</span>
-              </th>
-            </tr>
-          </thead>
-          <tbody>
-            {lesson.sentences.map((s) => (
-              <tr
-                data-show-in-mode={s.showInMode || "all"}
-              >
-                <td lang="es">{s.spanish}</td>
-                <td lang="en">{s.english}</td>
+      {lesson.sentences.length > 0 && (
+        <details class="sentences">
+          <summary>Example sentences</summary>
+          <table>
+            <thead>
+              <tr>
+                <th scope="col" lang="es">
+                  <label class="col-toggle no-print" title="Show/hide Spanish column">
+                    <input type="checkbox" data-toggle-es checked />
+                  </label>
+                  <span lang="es">Spanish</span>
+                </th>
+                <th scope="col" lang="en">
+                  <label class="col-toggle no-print" title="Show/hide English column">
+                    <input type="checkbox" data-toggle-en checked />
+                  </label>
+                  <span lang="en">English</span>
+                </th>
               </tr>
-            ))}
-          </tbody>
-        </table>
-      </details>
-    )}
+            </thead>
+            <tbody>
+              {lesson.sentences.map((s) => (
+                <tr
+                  data-show-in-mode={s.showInMode || "all"}
+                >
+                  <td lang="es">{s.spanish}</td>
+                  <td lang="en">{s.english}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </details>
+      )}
 
-    {(() => {
-      const dia = dialogueMap.get(lesson.number);
-      if (!dia) return null;
-      return (
+      {dia && (
         <details class="dialogue">
           <summary>Dialog</summary>
           {dia.notes && (
@@ -227,7 +207,7 @@ for (const d of dialogues) {
             </tbody>
           </table>
         </details>
-      );
-    })()}
-  </section>
-))}
+      )}
+    </section>
+  );
+})}

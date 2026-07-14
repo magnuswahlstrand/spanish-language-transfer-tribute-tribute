@@ -3,9 +3,6 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import CheatSheet from "../../components/CheatSheet.astro";
 import { CHEAT_SHEET_GROUPS } from "../../lib/groups";
 import { getLessonsInRange } from "../../lib/lessons";
-import type { Dialogue } from "../../components/CheatSheet.astro";
-import dialoguesData from "../../content/dialogues-01-68.json";
-const allDialogues = (dialoguesData as { dialogues: Dialogue[] }).dialogues;
 ---
 
 <BaseLayout
@@ -39,7 +36,7 @@ const allDialogues = (dialoguesData as { dialogues: Dialogue[] }).dialogues;
     const lessons = getLessonsInRange(g.start, g.end);
     return (
       <section id={g.slug}>
-        <CheatSheet lessons={lessons} groupLabel={g.label} dialogues={allDialogues} />
+        <CheatSheet lessons={lessons} groupLabel={g.label} />
       </section>
     );
   })}
