@@ -1,14 +1,10 @@
-import { parseRange } from "../../../../lib/practice";
-import { CHEAT_SHEET_GROUPS } from "../../../../lib/groups";
+import { parseRange, generateAllRanges } from "../../../../lib/practice";
 import { getMaxLessonNumber } from "../../../../lib/lessons";
 
 export function getStaticPaths() {
-  const max = getMaxLessonNumber();
-  const ranges: string[] = [];
-  for (let i = 1; i <= max; i++) ranges.push(String(i));
-  for (const g of CHEAT_SHEET_GROUPS) ranges.push(`${g.start}-${g.end}`);
-  ranges.push("11-13");
-  return [...new Set(ranges)].map((range) => ({ params: { range } }));
+  return generateAllRanges(getMaxLessonNumber()).map((range) => ({
+    params: { range },
+  }));
 }
 
 export async function GET({ params, url }: { params: { range: string }; url: URL }) {

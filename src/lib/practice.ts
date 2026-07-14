@@ -91,3 +91,14 @@ export function rangeToNumbers(range: string): number[] {
   }
   return result;
 }
+
+export function generateAllRanges(max: number): string[] {
+  const ranges: string[] = [];
+  for (let i = 1; i <= max; i++) {
+    ranges.push(String(i));
+    for (let j = i + 1; j <= max; j++) {
+      ranges.push(`${i}-${j}`);
+    }
+  }
+  return ranges;
+}
